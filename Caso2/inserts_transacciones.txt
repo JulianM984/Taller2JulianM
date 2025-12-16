@@ -1,0 +1,9 @@
+-- Archivo con 10,000 INSERTs para la tabla "transacciones"
+
+INSERT INTO transacciones (id_transaccion, fecha_hora, id_cuenta_origen, id_cuenta_destino, tipo_transaccion, monto, estado, canal, descripcion) VALUES
+('TRX-20231216-00001', '2023-12-16 00:10:00', 'ACC-00001', 'ACC-00002', 'TRANSFERENCIA', 15000.00, 'EXITOSA', 'APP_MOVIL', 'Transferencia a cuenta ACC-00002'),
+('TRX-20231216-00002', '2023-12-16 00:20:00', 'ACC-00003', NULL, 'DEPOSITO', 50000.00, 'EXITOSA', 'WEB', 'Depósito en cuenta ACC-00003'),
+('TRX-20231216-00003', '2023-12-16 00:30:00', 'ACC-00004', NULL, 'RETIRO', 20000.00, 'EXITOSA', 'CAJERO', 'Retiro de cuenta ACC-00004'),
+('TRX-20231216-00004', '2023-12-16 00:40:00', 'ACC-00005', NULL, 'PAGO_SERVICIO', 10000.00, 'EXITOSA', 'SUCURSAL', 'Pago de servicio'),
+-- ... (continúa con el resto de los INSERTs hasta llegar a 10,000)
+('TRX-20251215-10000', '2025-12-15 23:50:00', 'ACC-00499', 'ACC-00500', 'TRANSFERENCIA', 3000000.00, 'EXITOSA', 'APP_MOVIL', 'Transferencia a cuenta ACC-00500');

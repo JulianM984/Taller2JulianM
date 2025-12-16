@@ -1,0 +1,1001 @@
+id,cedulaCiudadania,nombreCompleto,email,telefono,fechaNacimiento,ciudadResidencia,ingresoMensual,tipoEmpleo,antiguedadLaboral,historialCrediticio,deudaActual,saldoCuentaAhorros,scoreCrediticio
+CLT-20251216-0001,1726600539,María Marcela Torres,maría.marcela.torres@galindo.com,433 89 08,1967-12-07,Cali,5235650,Empleado,3,Excelente,287991.45,14979419,819
+CLT-20251216-0002,1814763202,David Fernández Montes,david.fernández.montes@benavides.com,(+57) 606 635 11 61,1961-05-26,Cali,4417183,Empleado,16,Bueno,911514.58,6287781,721
+CLT-20251216-0003,1134031070,Rubén Ariza,rubén.ariza@garcia-jimenez.org,57 319 310 34 13,1997-06-13,Bogotá,8171884,Empleado,9,Regular,4414982.87,28153498,550
+CLT-20251216-0004,1397478786,Liliana Lorena Palacio,liliana.lorena.palacio@rojas-ortiz.com,3083276483,1972-01-10,Bogotá,6857277,Empleado,24,Regular,3209549.21,10434052,561
+CLT-20251216-0005,1864411347,Elkin Sergio Torres,elkin.sergio.torres@castillo-martinez.org,+573137672423,1963-02-21,Cali,14248244,Empleado,1,Excelente,2415061.3,40515368,818
+CLT-20251216-0006,1428853029,Omar Osorio,omar.osorio@torres-bolivar.net,57 321 012 26 91,2000-08-31,Medellín,5688470,Empleado,5,Malo,3843738.29,37046819,480
+CLT-20251216-0007,1924255163,Eduardo Orjuela Contreras,eduardo.orjuela.contreras@duarte.net,(+57) 305 146 27 04,1998-08-09,Cartagena,3833883,Pensionado,3,Excelente,174747.06,19420497,798
+CLT-20251216-0008,1653876785,Johana López Pineda,johana.lópez.pineda@sanchez.net,(+57) 320 957 01 54,1995-07-04,Cali,10827246,Empleado,3,Bueno,3971672.96,10915531,739
+CLT-20251216-0009,1876198296,María Melissa Erazo García,maría.melissa.erazo.garcía@mantilla.com,+57 607 478 24 89,1994-01-11,Bogotá,3895870,Empleado,7,Regular,1691694.79,48930871,631
+CLT-20251216-0010,1484779555,Edith Alejandra Sandoval Arias,edith.alejandra.sandoval.arias@vargas.com,6021983930,1996-03-06,Barranquilla,8869062,Empleado,0,Regular,5042685.99,3753932,601
+CLT-20251216-0011,1718309417,María María Valencia Molina,maría.maría.valencia.molina@rojas-hernandez.org,323 763 11 65,1979-11-28,Bogotá,10483893,Independiente,10,Excelente,1914644.28,38062808,813
+CLT-20251216-0012,1065082363,Camilo Alvarado Martínez,camilo.alvarado.martínez@padilla-meneses.com,57 303 387 26 24,1967-08-28,Cali,14775203,Empleado,7,Regular,7809734.58,9587950,618
+CLT-20251216-0013,1105128697,Antonio Giovanni Marín Prieto,antonio.giovanni.marín.prieto@arango.com,732 67 73,1998-05-29,Cúcuta,10316145,Empleado,3,Regular,5010415.1,39160231,567
+CLT-20251216-0014,1284759615,Ana Rodríguez,ana.rodríguez@gutierrez-benavides.net,57 322 343 09 80,1987-07-11,Barranquilla,18596865,Empleado,5,Bueno,6530408.75,7358428,704
+CLT-20251216-0015,1169042105,Andrés Dario Mora,andrés.dario.mora@salamanca.com,(+57)6041913619,1997-02-06,Cartagena,3631636,Empleado,8,Bueno,1159137.17,31410296,651
+CLT-20251216-0016,1219321646,Laura Margarita Guzmán,laura.margarita.guzmán@becerra.com,(+57)3251079911,1978-09-14,Bogotá,5343718,Independiente,10,Regular,2711370.8,17906335,605
+CLT-20251216-0017,1396776692,Johana Patricia Romero García,johana.patricia.romero.garcía@sanchez-palacio.com,(+57) 320 841 24 11,1977-07-31,Barranquilla,6806893,Empleado,16,Bueno,2659883.19,48296952,714
+CLT-20251216-0018,1738194420,Marcela Calderón Becerra,marcela.calderón.becerra@marquez.com,564 00 52,1974-10-24,Bogotá,5070554,Empleado,6,Regular,2330877.69,42879174,647
+CLT-20251216-0019,1120123666,Astrid Caicedo Osorio,astrid.caicedo.osorio@garces.com,018000598262,1961-08-13,Bogotá,6920686,Pensionado,19,Bueno,2461863.07,35591432,652
+CLT-20251216-0020,1965212976,Lucía Maldonado,lucía.maldonado@rojas-vargas.com,318 692 32 26,1963-09-03,Cartagena,5253657,Empleado,7,Malo,4075494.87,20636923,542
+CLT-20251216-0021,1861393416,Andrea Velandia,andrea.velandia@alvarado.com,+57 310 733 75 43,1988-12-22,Barranquilla,4142648,Pensionado,17,Excelente,402657.48,4644773,766
+CLT-20251216-0022,1377040284,María Diana Valencia Leal,maría.diana.valencia.leal@palacios.com,6027142940,1979-12-14,Pereira,17447830,Independiente,13,Malo,11044919.42,35411588,537
+CLT-20251216-0023,1124173718,Wilson Alexander Calderón,wilson.alexander.calderón@maldonado-diaz.com,573208835615,1995-10-05,Cali,19595773,Empleado,10,Regular,10542007.1,47845195,606
+CLT-20251216-0024,1332091877,Álvaro Luis Maldonado,álvaro.luis.maldonado@parra.com,+573066299468,1995-06-20,Medellín,18866963,Empleado,9,Bueno,4708837.81,4296705,725
+CLT-20251216-0025,1651397897,Lucía Rojas,lucía.rojas@ruiz.net,322 148 95 13,2000-06-04,Cartagena,8889269,Empleado,0,Excelente,1258437.72,3950951,759
+CLT-20251216-0026,1049621604,David Ramírez,david.ramírez@castrillon.com,(+57)3269367632,1962-08-15,Bucaramanga,18752216,Empleado,23,Bueno,6259406.36,14377188,723
+CLT-20251216-0027,1835822550,Liseth Estrada,liseth.estrada@torres-cifuentes.net,(+57)3208317278,1968-03-18,Cali,17360207,Empleado,3,Bueno,5114223.04,27317331,695
+CLT-20251216-0028,1458209399,Rolando Giovanny Ávila,rolando.giovanny.ávila@marin.info,+57 303 487 34 71,1995-04-23,Bogotá,15712940,Empleado,10,Bueno,5857271.0,3635366,701
+CLT-20251216-0029,1086519602,David Quintero,david.quintero@sanchez.com,(+57)3016658760,1997-09-18,Bogotá,12885106,Empleado,7,Regular,5435631.01,12857392,573
+CLT-20251216-0030,1919909014,Marta Elena Solano Monroy,marta.elena.solano.monroy@florez.biz,3288937346,1962-04-15,Cartagena,10846424,Empleado,27,Bueno,4066293.89,5058994,662
+CLT-20251216-0031,1902486082,José Enrique Duarte Parra,josé.enrique.duarte.parra@villegas-puentes.net,6038699016,1972-03-10,Barranquilla,3197462,Pensionado,29,Regular,1624686.68,990382,580
+CLT-20251216-0032,1362388455,María Rivera Rojas,maría.rivera.rojas@castro-angarita.biz,+57 301 708 05 31,1983-03-14,Bogotá,7080474,Pensionado,5,Bueno,2097743.95,26913358,699
+CLT-20251216-0033,1901115118,Leonor Quiroga,leonor.quiroga@trujillo.com,321 937 45 29,1974-07-11,Cali,10398737,Empleado,30,Malo,7872112.94,19142751,500
+CLT-20251216-0034,1027571992,Ligia Ana Álvarez,ligia.ana.álvarez@escobar-gamboa.biz,(+57) 313 193 14 91,2000-05-03,Cali,17829982,Empleado,0,Excelente,1058059.04,3924747,757
+CLT-20251216-0035,1074041730,Carolina Osorio,carolina.osorio@jaimes.info,609 565 72 62,1986-03-05,Bogotá,3182497,Empleado,16,Bueno,956563.37,35643271,673
+CLT-20251216-0036,1891990632,Miguel Yeison Vega Ruiz,miguel.yeison.vega.ruiz@castro.com,(+57)3299650752,1977-08-30,Cartagena,3799194,Empleado,30,Bueno,1272891.5,15784266,681
+CLT-20251216-0037,1596776072,Alberto Ernesto Herrera Rangel,alberto.ernesto.herrera.rangel@delgado.com,57 306 783 77 70,1979-10-04,Bucaramanga,2833508,Empleado,10,Regular,1370978.63,39169584,576
+CLT-20251216-0038,1396232693,Milena Alejandra Vargas,milena.alejandra.vargas@cortes-herrera.net,(+57)3157444313,2000-07-13,Bogotá,12042261,Empleado,7,Bueno,3361683.49,45076367,746
+CLT-20251216-0039,1205665554,Luis Sebastián Castellanos,luis.sebastián.castellanos@daza.org,(+57) 329 413 43 52,1973-07-22,Medellín,3934143,Pensionado,2,Excelente,488745.87,37781863,814
+CLT-20251216-0040,1048872110,José Lozano,josé.lozano@cortes.com,57 321 094 77 75,1979-08-17,Bogotá,10398649,Independiente,11,Excelente,725844.07,4616506,806
+CLT-20251216-0041,1882739959,Rita Muñoz Prieto,rita.muñoz.prieto@castillo.org,+576029229413,1968-09-20,Barranquilla,19727370,Empleado,21,Regular,10304306.72,43887607,588
+CLT-20251216-0042,1408427798,Ricardo Mercado Torres,ricardo.mercado.torres@gamboa-jimenez.org,573249909133,1996-07-08,Medellín,4975786,Independiente,11,Malo,3119112.37,7746286,369
+CLT-20251216-0043,1592697161,Álvaro Sánchez,álvaro.sánchez@sanchez.info,324 034 47 13,1972-10-14,Bogotá,10954171,Empleado,27,Regular,5953837.72,13663184,612
+CLT-20251216-0044,1456489494,Kevin Pineda,kevin.pineda@vasquez.com,(+57) 302 102 49 94,1974-06-02,Bogotá,9926230,Empleado,26,Malo,7635462.01,6194045,300
+CLT-20251216-0045,1579800791,Luis Santiago Bermúdez Valderrama,luis.santiago.bermúdez.valderrama@mendoza-carvajal.biz,+573194013990,1995-01-06,Medellín,12692300,Empleado,7,Regular,6694206.82,17579520,604
+CLT-20251216-0046,1505196410,Fabián Castellanos,fabián.castellanos@arango.org,573271756551,1972-11-17,Bogotá,1824461,Pensionado,17,Excelente,344841.72,46373541,797
+CLT-20251216-0047,1873559879,Claudia Aguirre Gutiérrez,claudia.aguirre.gutiérrez@gomez.com,(+57) 318 087 60 38,1988-03-17,Cartagena,6469202,Independiente,1,Bueno,1347960.27,24471348,676
+CLT-20251216-0048,1218568997,Edwin César Marín,edwin.césar.marín@caicedo-chaparro.info,57 321 093 24 80,1964-06-20,Pereira,9872828,Independiente,13,Regular,4647492.87,37573146,645
+CLT-20251216-0049,1126128312,Luis Ángel Barreto,luis.ángel.barreto@roa.net,(+57) 306 773 78 26,1992-05-11,Cartagena,6685949,Pensionado,5,Malo,4328132.15,10905308,306
+CLT-20251216-0050,1829653607,Miryam Johana Cuéllar Alvarado,miryam.johana.cuéllar.alvarado@herrera-mesa.com,8449972,1979-10-04,Cali,7518345,Independiente,27,Regular,3506834.99,27629602,581
+CLT-20251216-0051,1933727701,Javier Jaime Ríos Cárdenas,javier.jaime.ríos.cárdenas@puentes.org,+57 313 605 76 62,1982-11-08,Bogotá,10452514,Independiente,15,Excelente,1466024.02,25671940,808
+CLT-20251216-0052,1938654765,Josué Luis Paz Quintero,josué.luis.paz.quintero@lopez-vallejo.com,(+57) 607 262 17 45,1967-10-15,Bogotá,13232589,Empleado,21,Bueno,4751413.82,15273674,692
+CLT-20251216-0053,1673020489,Robinson Edinson Rivera,robinson.edinson.rivera@murcia.org,(+57)6028343161,1982-07-04,Bogotá,10848367,Empleado,16,Regular,6437180.37,18731761,618
+CLT-20251216-0054,1315001254,Erika Rentería Gómez,erika.rentería.gómez@rivera-sanchez.net,3292221969,1964-10-10,Manizales,12611545,Empleado,30,Malo,7857854.54,17529855,309
+CLT-20251216-0055,1274154962,Tatiana Margarita Moreno Henao,tatiana.margarita.moreno.henao@rodriguez.net,3017594647,1992-03-25,Bogotá,5137385,Empleado,3,Bueno,1382662.56,21050528,723
+CLT-20251216-0056,1114518079,Alberto Flórez,alberto.flórez@florez.org,3140640909,1993-11-03,Medellín,7877985,Empleado,12,Bueno,2692356.97,113499,742
+CLT-20251216-0057,1235154329,Wilmer Rodolfo Guevara Torres,wilmer.rodolfo.guevara.torres@diaz.com,603 204 70 95,1984-12-06,Bogotá,8111401,Pensionado,19,Bueno,1735797.33,44576236,665
+CLT-20251216-0058,1141905500,Alexander Guerrero,alexander.guerrero@pardo.com,3047451712,1974-08-15,Medellín,11577143,Empleado,9,Bueno,3859571.5,21889764,674
+CLT-20251216-0059,1392747974,Ruby Julieth Puentes Parada,ruby.julieth.puentes.parada@mercado.com,018001754965,1998-11-19,Medellín,15607837,Empleado,4,Regular,7426662.34,11678777,550
+CLT-20251216-0060,1352194058,Gladys Leidy Beltrán,gladys.leidy.beltrán@torres.com,3212004711,1999-02-28,Medellín,11696351,Empleado,5,Bueno,3344894.74,38922119,706
+CLT-20251216-0061,1450033924,Raquel Patricia Cárdenas Camacho,raquel.patricia.cárdenas.camacho@villamizar.com,57 329 640 53 77,1997-09-19,Bogotá,8670629,Empleado,1,Bueno,3110562.83,49389536,734
+CLT-20251216-0062,1065015165,Yadira Luz Duque Vásquez,yadira.luz.duque.vásquez@castro-bolanos.info,339 00 53,1985-05-13,Barranquilla,12747051,Empleado,7,Excelente,2427037.65,15761764,768
+CLT-20251216-0063,1352788129,María Nidia Rojas Rojas,maría.nidia.rojas.rojas@angulo.com,(+57) 302 284 21 02,1976-10-24,Medellín,2319580,Independiente,2,Excelente,456463.66,41021901,830
+CLT-20251216-0064,1347646966,Gloria Mesa,gloria.mesa@perez.com,3281177589,2001-01-11,Cali,8024163,Empleado,5,Regular,3825886.36,26820249,646
+CLT-20251216-0065,1323873102,Lorena Martha Garzón,lorena.martha.garzón@franco-gomez.info,(+57) 316 177 11 59,1996-06-10,Medellín,5076476,Empleado,0,Regular,2252778.76,46701848,565
+CLT-20251216-0066,1764668242,María Castro Barrera,maría.castro.barrera@florez-hurtado.com,(+57)3289611836,1998-04-10,Bogotá,16816317,Pensionado,9,Excelente,1562717.59,35643657,846
+CLT-20251216-0067,1335596237,Ariel Camilo Niño Castillo,ariel.camilo.niño.castillo@alvarez-munoz.com,321 111 61 52,1967-06-06,Medellín,16350299,Empleado,29,Regular,8892188.47,33875089,570
+CLT-20251216-0068,1719421270,Margarita Londoño,margarita.londoño@pena.biz,+576094494519,1983-05-23,Medellín,17427431,Empleado,24,Bueno,6105793.81,42792734,730
+CLT-20251216-0069,1394665673,Sofía Torres González,sofía.torres.gonzález@castellanos.com,573289980940,1998-10-24,Bogotá,9527759,Empleado,5,Bueno,2053200.34,19174891,719
+CLT-20251216-0070,1006556040,Marcela Castellanos Cáceres,marcela.castellanos.cáceres@polo.biz,(+57)6078201836,1984-11-04,Bogotá,4203737,Empleado,6,Excelente,194432.49,46570183,802
+CLT-20251216-0071,1640190407,Carlos Jesús Valencia,carlos.jesús.valencia@loaiza.com,+576087147679,1999-08-01,Bucaramanga,12602537,Independiente,6,Bueno,3568469.43,13880420,724
+CLT-20251216-0072,1461616250,Alberto Molina,alberto.molina@gutierrez.org,57 328 403 69 00,1984-06-12,Bogotá,2155383,Empleado,11,Regular,1192183.11,25526938,599
+CLT-20251216-0073,1128832213,Milena Sandra Hernández Muñoz,milena.sandra.hernández.muñoz@zapata.com,+57 602 768 38 85,1983-04-15,Bogotá,15560021,Independiente,15,Bueno,5398188.48,40483595,705
+CLT-20251216-0074,1925683580,Marina Cruz,marina.cruz@escobar-cordoba.biz,3116052975,1966-04-04,Bogotá,17795441,Independiente,23,Excelente,1196314.69,45576440,809
+CLT-20251216-0075,1562600500,Marina Luz Mejía,marina.luz.mejía@medina.com,305 218 18 83,1988-03-17,Bogotá,5782478,Empleado,0,Malo,4087198.43,26442251,409
+CLT-20251216-0076,1253691745,Javier Agustín Franco,javier.agustín.franco@sanchez.com,(+57) 608 612 77 99,1971-01-03,Medellín,6053319,Empleado,6,Regular,2641340.35,17458794,593
+CLT-20251216-0077,1855052486,Carlos Andrés Marín,carlos.andrés.marín@vega-romero.com,573177005411,1981-07-25,Medellín,14221364,Empleado,2,Bueno,5549756.81,28290736,745
+CLT-20251216-0078,1482897882,Miguel Cortés Mercado,miguel.cortés.mercado@arango.com,+576014715182,1963-10-01,Pereira,19599899,Empleado,24,Excelente,3731505.97,15047294,755
+CLT-20251216-0079,1415985367,Román Cristian León Morales,román.cristian.león.morales@guevara-duarte.com,(+57)3115186449,1980-03-17,Bogotá,2541193,Empleado,7,Malo,1626038.59,1367679,471
+CLT-20251216-0080,1333108786,Claudia Murillo Hernández,claudia.murillo.hernández@benavides.com,573186528168,1984-10-05,Bogotá,5338272,Empleado,11,Bueno,1300365.2,46940299,727
+CLT-20251216-0081,1822653967,José Jesús Angarita,josé.jesús.angarita@ramirez-anaya.com,(+57)6063418880,1984-03-18,Bucaramanga,5343085,Empleado,0,Regular,2312236.93,20873468,623
+CLT-20251216-0082,1774364348,Carlos Díaz Aguirre,carlos.díaz.aguirre@gomez-morales.com,+573294738347,1972-03-22,Cali,14093211,Empleado,26,Bueno,4834012.82,5100037,663
+CLT-20251216-0083,1835504321,Rosa Clemencia Bustamante Restrepo,rosa.clemencia.bustamante.restrepo@mora-guerrero.com,+573092407581,1980-02-18,Barranquilla,11619435,Independiente,18,Regular,6043062.75,8123867,594
+CLT-20251216-0084,1158214411,Isabel Nidia Ortiz,isabel.nidia.ortiz@lopez-vallejo.info,310 606 85 36,1995-11-22,Barranquilla,19375964,Empleado,0,Bueno,5311226.39,33954453,712
+CLT-20251216-0085,1849738493,Liliana María Granados,liliana.maría.granados@hernandez.info,+57 605 477 90 10,1983-10-10,Bogotá,5041296,Independiente,13,Bueno,1373438.62,30852585,716
+CLT-20251216-0086,1833409017,Esperanza Bonilla Silva,esperanza.bonilla.silva@moreno-gonzalez.com,3297117980,1968-07-10,Cali,10562461,Empleado,26,Regular,6167669.53,32446968,584
+CLT-20251216-0087,1447286055,Clara Milena Rodríguez Romero,clara.milena.rodríguez.romero@vergara.net,57 311 888 88 06,1999-10-16,Bogotá,12314747,Empleado,7,Regular,6971947.26,5815848,609
+CLT-20251216-0088,1846666926,José Jhon Arias Cano,josé.jhon.arias.cano@herrera.com,(+57)3120585277,1985-04-04,Bogotá,14216770,Empleado,6,Bueno,4248842.37,21811331,683
+CLT-20251216-0089,1039711044,Mariana Martínez Guevara,mariana.martínez.guevara@ramirez-mercado.com,+573148687403,1992-02-07,Bogotá,12919876,Empleado,6,Bueno,4124424.96,18540070,742
+CLT-20251216-0090,1293364102,Javier Ocampo,javier.ocampo@vera.biz,+573265277584,1983-07-19,Medellín,15137464,Empleado,22,Bueno,5322830.83,46346008,652
+CLT-20251216-0091,1585698675,Juliana María Agudelo,juliana.maría.agudelo@ruiz-garcia.com,573179627570,1973-03-28,Bogotá,4622352,Empleado,18,Bueno,1298327.27,16327933,720
+CLT-20251216-0092,1080574838,Mario Óscar Henao,mario.óscar.henao@henao.com,6046297021,1964-11-10,Medellín,19314783,Empleado,22,Bueno,7712900.69,36935945,689
+CLT-20251216-0093,1398320110,Eduardo Julián Calderón,eduardo.julián.calderón@marin-garcia.com,(+57) 325 654 31 02,1991-07-29,Bogotá,9935707,Empleado,5,Bueno,3420435.36,21176064,744
+CLT-20251216-0094,1230393232,Rafael Ronald González Guevara,rafael.ronald.gonzález.guevara@gutierrez.com,+57 606 217 27 15,1991-04-30,Barranquilla,17747008,Empleado,3,Bueno,5642082.31,35207784,687
+CLT-20251216-0095,1852225000,Giovanny Melo,giovanny.melo@palacios-gonzalez.com,+57 606 837 05 89,1972-10-21,Bogotá,9133068,Empleado,8,Bueno,2378739.69,47514316,656
+CLT-20251216-0096,1564461415,Viviana García Álvarez,viviana.garcía.álvarez@solano-bravo.com,+57 603 951 77 85,1993-07-13,Medellín,11302479,Empleado,0,Regular,4806445.86,32942311,610
+CLT-20251216-0097,1892699085,Kelly Hernández Mora,kelly.hernández.mora@delgado.com,3053584143,1964-09-23,Medellín,17562983,Empleado,27,Bueno,4160191.8,3447833,658
+CLT-20251216-0098,1100317984,Luis Suárez,luis.suárez@bedoya.com,(+57)3190010943,1997-04-05,Barranquilla,14945510,Empleado,2,Bueno,4713877.09,46066948,688
+CLT-20251216-0099,1311032572,Edwin Gómez Campo,edwin.gómez.campo@arteaga.biz,573171027677,1998-01-31,Bogotá,4358196,Empleado,9,Malo,2718164.62,27928965,433
+CLT-20251216-0100,1428118701,Carolina Patricia Prieto Ruiz,carolina.patricia.prieto.ruiz@ochoa.net,604 353 71 47,1984-06-17,Medellín,14263368,Pensionado,9,Bueno,4115612.12,39495253,657
+CLT-20251216-0101,1266578178,María Enith Alvarado,maría.enith.alvarado@guerra.com,+573027877470,1989-05-30,Bogotá,4829726,Empleado,2,Malo,3098547.33,14161661,344
+CLT-20251216-0102,1626360971,Enith Johana Parada,enith.johana.parada@martinez-castro.org,324 801 62 45,1975-08-07,Bogotá,4018759,Empleado,9,Excelente,328346.73,46262913,786
+CLT-20251216-0103,1389256938,Manuel Castillo Jaramillo,manuel.castillo.jaramillo@gutierrez.net,(+57) 309 912 16 55,1974-03-16,Barranquilla,10986454,Empleado,8,Regular,5392220.46,46129621,630
+CLT-20251216-0104,1043223380,Henry Alberto Palacios,henry.alberto.palacios@gomez.com,328 729 82 59,1994-12-27,Barranquilla,8137711,Empleado,4,Bueno,2513840.45,43462030,659
+CLT-20251216-0105,1637506993,Carlos Yerson Mena,carlos.yerson.mena@palacios-palacios.info,573170551694,1981-04-27,Bogotá,3501120,Pensionado,14,Excelente,215397.17,38198838,838
+CLT-20251216-0106,1620230209,Stella Ortiz,stella.ortiz@camargo.info,3089623091,2000-04-28,Bogotá,11703607,Empleado,7,Regular,6887985.25,33586119,555
+CLT-20251216-0107,1538824588,María Lucía Sánchez Barrios,maría.lucía.sánchez.barrios@caceres.com,+57 607 683 85 78,1988-11-18,Medellín,15996476,Empleado,18,Regular,8330048.55,1735763,552
+CLT-20251216-0108,1655064741,Ángela Lozano Vásquez,ángela.lozano.vásquez@ramirez-vargas.net,573134437575,1978-12-12,Medellín,10543289,Empleado,20,Bueno,3717793.55,11756850,685
+CLT-20251216-0109,1407693523,Jorge Córdoba,jorge.córdoba@figueroa-pedraza.com,3104157473,1997-12-03,Bogotá,7589765,Pensionado,7,Malo,5215511.92,32999159,385
+CLT-20251216-0110,1661078179,Fabiola Marcela Londoño Ortiz,fabiola.marcela.londoño.ortiz@fernandez.net,303 016 57 12,1968-05-22,Bogotá,12272927,Empleado,15,Regular,7014549.93,22132749,601
+CLT-20251216-0111,1436913550,Dahiana Mantilla,dahiana.mantilla@betancur.com,3154019380,1971-09-15,Medellín,19958179,Empleado,24,Excelente,351502.62,16938200,815
+CLT-20251216-0112,1897866344,Laura Velasco Saavedra,laura.velasco.saavedra@mesa-diaz.com,576058049915,1963-06-07,Bogotá,1538623,Empleado,16,Regular,782418.6,27732575,646
+CLT-20251216-0113,1355069350,Danilo Carlos Mora Ortiz,danilo.carlos.mora.ortiz@ariza.com,573005493296,1968-08-15,Bucaramanga,18226652,Empleado,4,Regular,10061077.4,13660562,606
+CLT-20251216-0114,1150980852,Rafael García Camacho,rafael.garcía.camacho@valencia-vargas.com,+57 313 745 49 90,1973-07-13,Bogotá,17764229,Independiente,22,Excelente,3457440.58,40860685,820
+CLT-20251216-0115,1717029885,Pablo Aguirre,pablo.aguirre@restrepo.biz,+57 324 145 93 32,1965-03-09,Cali,1958838,Empleado,3,Bueno,428283.95,7614246,669
+CLT-20251216-0116,1980108198,Carlos Omar Calderón Guerrero,carlos.omar.calderón.guerrero@uribe-meneses.com,57 309 187 85 19,1998-05-02,Manizales,18222706,Empleado,7,Malo,11997325.08,47339373,362
+CLT-20251216-0117,1576234459,María Esperanza Mora,maría.esperanza.mora@perez.info,57 601 839 71 87,1999-12-06,Cartagena,16827210,Empleado,2,Bueno,4656378.48,40223549,685
+CLT-20251216-0118,1722378827,Rocío Cruz Martínez,rocío.cruz.martínez@vanegas-medina.com,(+57)3091065180,1992-06-03,Cali,15423157,Independiente,9,Bueno,5514449.24,17929653,725
+CLT-20251216-0119,1825677464,Zulma Leidy Gutiérrez,zulma.leidy.gutiérrez@castaneda.biz,57 316 766 18 25,1973-03-16,Barranquilla,17929603,Empleado,17,Regular,8773124.7,32503600,598
+CLT-20251216-0120,1896382881,Andrea Alba Contreras,andrea.alba.contreras@tovar.info,018006863375,1976-02-10,Bogotá,16778829,Empleado,12,Malo,12985476.99,46808327,498
+CLT-20251216-0121,1034593072,Marcela Cuesta Vanegas,marcela.cuesta.vanegas@guerrero.com,57 303 119 07 90,1968-08-20,Bogotá,15283325,Pensionado,12,Excelente,2276314.17,47327041,834
+CLT-20251216-0122,1150469429,Eliana Alejandra Moreno Rojas,eliana.alejandra.moreno.rojas@chacon.org,+573199534283,1964-10-18,Cartagena,6603807,Pensionado,10,Bueno,1369655.47,33708188,706
+CLT-20251216-0123,1672155012,Jesús Martínez Núñez,jesús.martínez.núñez@osorio.biz,(+57) 325 662 46 28,1972-11-15,Cali,4845769,Empleado,27,Bueno,1411987.38,48482384,669
+CLT-20251216-0124,1982195860,Antonio David Zuluaga Sánchez,antonio.david.zuluaga.sánchez@londono.net,(+57) 322 634 35 17,1992-06-19,Cali,4010819,Empleado,12,Bueno,1579623.87,22720459,692
+CLT-20251216-0125,1404981031,Luis Nelson Ramírez,luis.nelson.ramírez@calderon.org,01 8003 735 403,1979-03-24,Cartagena,19405393,Independiente,15,Bueno,5110065.43,48232309,654
+CLT-20251216-0126,1746923032,Yanet Luz Anaya Acosta,yanet.luz.anaya.acosta@rueda.com,3167854458,1977-06-19,Bogotá,3795819,Pensionado,23,Bueno,1278735.18,19285678,662
+CLT-20251216-0127,1981754902,Felipe Rodrigo Camargo Castellanos,felipe.rodrigo.camargo.castellanos@arias.com,302 048 99 64,1982-10-01,Bogotá,4872463,Empleado,25,Bueno,1650791.6,1942617,695
+CLT-20251216-0128,1536120880,Diana Torres Jaramillo,diana.torres.jaramillo@hoyos.info,57 327 252 28 72,1977-09-05,Bogotá,14077579,Empleado,25,Bueno,3503057.53,27652324,672
+CLT-20251216-0129,1878316418,Lina Villa,lina.villa@martinez.com,(+57)6018203875,1966-01-06,Medellín,4149738,Empleado,29,Regular,1977386.92,45844385,579
+CLT-20251216-0130,1575244407,José Sebastián Peña Rodríguez,josé.sebastián.peña.rodríguez@rodriguez-guerra.biz,573011823398,1979-08-27,Medellín,16973623,Empleado,25,Regular,8349564.48,44750923,586
+CLT-20251216-0131,1084846271,Nicolás Ortiz,nicolás.ortiz@olaya-cruz.com,304 101 66 68,1987-12-19,Cali,19840790,Pensionado,9,Excelente,1752853.57,23190516,804
+CLT-20251216-0132,1692463878,Andrés José Pérez Sierra,andrés.josé.pérez.sierra@ospina-andrade.com,(+57) 320 339 74 01,1990-06-26,Bogotá,9891903,Independiente,3,Bueno,2576092.25,25816326,723
+CLT-20251216-0133,1192580427,Bernardo Londoño,bernardo.londoño@rodriguez-rojas.com,(+57) 311 429 39 68,1963-03-13,Cali,13544670,Empleado,26,Bueno,5398071.23,19812600,685
+CLT-20251216-0134,1537722224,Eduardo Gabriel Mercado,eduardo.gabriel.mercado@bastidas.com,(+57)3199965047,1966-04-18,Cali,1771722,Pensionado,29,Bueno,597353.61,49973879,713
+CLT-20251216-0135,1709391059,David Jaime Rivera Díaz,david.jaime.rivera.díaz@garcia-beltran.com,(+57)6066142626,2000-10-29,Cali,11103082,Empleado,3,Regular,4952237.47,23643859,636
+CLT-20251216-0136,1109770151,Luz Jhoana Marín,luz.jhoana.marín@garcia.info,01 8008 861 015,1979-04-26,Medellín,6089549,Empleado,25,Regular,3536083.82,43375184,624
+CLT-20251216-0137,1313368711,Stella Socorro Alvarado,stella.socorro.alvarado@giraldo-garcia.net,57 309 826 22 44,1961-10-18,Bogotá,13742711,Empleado,13,Regular,5744819.79,19804527,566
+CLT-20251216-0138,1296311802,Mauricio Martínez,mauricio.martínez@suarez-paez.com,+57 303 799 37 12,1990-07-15,Bogotá,19599520,Pensionado,5,Regular,9273934.4,33674876,611
+CLT-20251216-0139,1863370520,José Medina,josé.medina@mendoza-osorio.org,+57 603 745 93 75,1986-10-23,Bogotá,11403303,Empleado,2,Regular,5333815.73,7728908,578
+CLT-20251216-0140,1839638591,Jorge Edgar Rincón,jorge.edgar.rincón@valencia.biz,57 311 939 82 80,2000-02-23,Bogotá,14834916,Empleado,6,Malo,11288147.62,24546748,437
+CLT-20251216-0141,1879357576,Edwar Alberto Bautista Serrano,edwar.alberto.bautista.serrano@sandoval-hernandez.com,57 304 266 17 97,1965-08-30,Barranquilla,5646949,Empleado,12,Bueno,1889275.31,45120027,697
+CLT-20251216-0142,1583734594,Sebastián Salgado Polo,sebastián.salgado.polo@mercado.net,713 52 90,1989-06-03,Bogotá,5135491,Independiente,17,Regular,2538449.44,41577086,628
+CLT-20251216-0143,1238371847,Joel Alejandro Rodríguez,joel.alejandro.rodríguez@cano.com,+573256798250,1978-07-25,Cali,8927850,Pensionado,9,Regular,4705698.18,31156466,564
+CLT-20251216-0144,1374015041,Luis Camilo Burgos González,luis.camilo.burgos.gonzález@herrera-paez.net,325 717 75 14,1970-08-07,Cartagena,6190138,Empleado,7,Excelente,46069.64,33059478,767
+CLT-20251216-0145,1695752405,Karina González,karina.gonzález@buitrago.com,(+57) 322 825 86 73,1984-04-21,Medellín,14540790,Empleado,17,Bueno,4858037.86,49871289,745
+CLT-20251216-0146,1031344962,Víctor Díaz Navarro,víctor.díaz.navarro@avila.biz,9334191,1987-11-17,Bogotá,6684928,Empleado,8,Regular,3549592.35,32839523,597
+CLT-20251216-0147,1566629680,Rosa Ramírez González,rosa.ramírez.gonzález@alvarez.com,315 792 49 91,1994-04-08,Bogotá,8790360,Empleado,10,Bueno,3429216.43,24339448,732
+CLT-20251216-0148,1744571822,Lucía Moreno González,lucía.moreno.gonzález@palacios.org,+57 603 996 62 78,1986-05-12,Bogotá,13535097,Pensionado,14,Excelente,746816.41,8197999,777
+CLT-20251216-0149,1665086407,Olga Hernández Álvarez,olga.hernández.álvarez@leal.info,+57 608 736 88 76,1991-08-25,Bogotá,2216637,Independiente,6,Excelente,147853.75,8450608,847
+CLT-20251216-0150,1035106082,Mauricio Andrés Gómez Ochoa,mauricio.andrés.gómez.ochoa@torres-gutierrez.info,57 328 819 14 85,1980-10-31,Barranquilla,8451047,Empleado,4,Bueno,3064439.19,15636276,726
+CLT-20251216-0151,1456506372,Mery Mendoza,mery.mendoza@galvis.com,573107451713,1975-10-30,Bogotá,1595145,Empleado,25,Bueno,632962.51,8723624,734
+CLT-20251216-0152,1178221407,Mariana Elizabeth Romero Blanco,mariana.elizabeth.romero.blanco@hernandez.com,318 498 25 44,1990-02-04,Bogotá,2365038,Empleado,0,Excelente,169451.32,15967319,756
+CLT-20251216-0153,1145587477,Jeisson Molina,jeisson.molina@prada-angel.com,+57 603 532 53 67,1967-06-09,Bogotá,5753310,Empleado,24,Regular,2906670.62,4265307,625
+CLT-20251216-0154,1432557724,Eduardo García Rosero,eduardo.garcía.rosero@zambrano.info,57 325 901 75 18,1967-04-17,Bucaramanga,5159245,Empleado,25,Bueno,1260454.89,41279121,734
+CLT-20251216-0155,1346673808,Alberto Osorio Rojas,alberto.osorio.rojas@quintero-escobar.org,57 325 001 70 12,1979-03-26,Barranquilla,18996999,Empleado,15,Bueno,6243708.27,2090484,704
+CLT-20251216-0156,1947198944,Miguel Reinel Osorio Barragán,miguel.reinel.osorio.barragán@suarez.com,57 314 152 06 43,1969-12-07,Cali,5122597,Independiente,10,Bueno,1956525.55,4931878,658
+CLT-20251216-0157,1083686071,Pablo Rueda Rodríguez,pablo.rueda.rodríguez@vega.info,2051627,1993-05-28,Cúcuta,5734287,Independiente,6,Bueno,1872906.13,36799577,717
+CLT-20251216-0158,1147241457,Liliana Dora López Álvarez,liliana.dora.lópez.álvarez@perdomo-gallego.com,(+57) 608 618 90 92,1981-04-28,Cartagena,11395126,Independiente,3,Bueno,3658808.11,6655753,733
+CLT-20251216-0159,1093080561,Eugenia Ana Peña Pacheco,eugenia.ana.peña.pacheco@hernandez.org,+57 315 652 34 13,1975-09-28,Bogotá,19999740,Independiente,13,Regular,8859977.08,30303337,608
+CLT-20251216-0160,1220595661,Alexis Barrios,alexis.barrios@calderon.com,57 307 613 79 18,1981-06-26,Bogotá,14879164,Empleado,8,Bueno,3258792.36,28639647,669
+CLT-20251216-0161,1415364404,Maricela Saavedra,maricela.saavedra@salazar.info,(+57)6011091043,1969-12-09,Cali,17413789,Empleado,23,Excelente,2896860.03,6256566,766
+CLT-20251216-0162,1454810443,Alfonso Méndez Sierra,alfonso.méndez.sierra@castillo.com,(+57) 301 418 32 85,1989-03-24,Bogotá,3512627,Empleado,13,Bueno,1097054.12,22122167,735
+CLT-20251216-0163,1333041955,William Castellanos Bernal,william.castellanos.bernal@mendoza.com,561 79 90,1965-06-16,Bogotá,15691405,Empleado,11,Regular,8539453.03,19302482,614
+CLT-20251216-0164,1533019326,Luz Toro Narváez,luz.toro.narváez@guzman-paez.com,3052410564,1972-02-09,Bogotá,8638329,Empleado,17,Excelente,833062.13,7262412,847
+CLT-20251216-0165,1488764892,Marcela Emilce Méndez,marcela.emilce.méndez@mosquera.com,3041913800,1994-09-20,Cali,10847198,Pensionado,13,Bueno,3920657.61,37645770,736
+CLT-20251216-0166,1988085731,Paola Ortega,paola.ortega@diaz.net,3235365419,1987-01-08,Bogotá,2380932,Empleado,5,Regular,1265623.08,46538063,647
+CLT-20251216-0167,1863651372,Luis Fredy Martínez,luis.fredy.martínez@bejarano.info,3145187053,1976-02-23,Cali,11867805,Independiente,18,Malo,7953858.5,12173920,317
+CLT-20251216-0168,1498137488,Julio Suárez,julio.suárez@vega-rincon.com,018003206038,1977-06-19,Bogotá,6260523,Independiente,6,Regular,3721017.37,6157753,608
+CLT-20251216-0169,1001569849,Leonardo Edgar Rodríguez,leonardo.edgar.rodríguez@rivera.com,(+57) 323 670 24 10,1983-10-03,Medellín,12938571,Independiente,18,Excelente,806428.45,21768967,756
+CLT-20251216-0170,1623597716,Mayerly Beatriz Bermúdez Arias,mayerly.beatriz.bermúdez.arias@mora.biz,(+57)6055990623,1966-09-26,Cali,6720395,Empleado,14,Excelente,830423.33,45229274,812
+CLT-20251216-0171,1341511874,Franklin Jhon Roa,franklin.jhon.roa@ortiz-garcia.com,+57 608 691 21 27,1983-02-28,Bogotá,16332541,Empleado,13,Bueno,3970665.99,34382978,736
+CLT-20251216-0172,1331042889,Luis Mosquera Fuentes,luis.mosquera.fuentes@ortiz-gonzalez.com,573190352135,1991-09-17,Bogotá,17828685,Empleado,1,Bueno,4665479.44,14798741,688
+CLT-20251216-0173,1033374137,Rafael Buitrago Muñoz,rafael.buitrago.muñoz@ordonez-cortes.net,57 301 712 10 03,1972-10-15,Medellín,8587836,Empleado,0,Regular,4747632.09,19424468,605
+CLT-20251216-0174,1625265416,Diana Castillo Duque,diana.castillo.duque@munoz.com,+573072151070,1966-09-04,Cali,7395339,Empleado,26,Excelente,787725.4,15442468,795
+CLT-20251216-0175,1031656371,Lucero Mejía Vanegas,lucero.mejía.vanegas@carrillo-perez.com,573044720999,1994-09-20,Cartagena,3918452,Empleado,1,Bueno,1365221.06,29274201,723
+CLT-20251216-0176,1300407178,Paula Tatiana Nieto Acosta,paula.tatiana.nieto.acosta@hernandez-ramirez.net,57 308 065 78 75,1966-12-05,Bogotá,15904390,Empleado,12,Bueno,5437707.64,28030967,691
+CLT-20251216-0177,1031464348,Jhon Juan Ruiz,jhon.juan.ruiz@martinez-arroyo.net,319 321 33 48,1975-11-11,Medellín,7267106,Pensionado,2,Regular,3805238.76,46278946,563
+CLT-20251216-0178,1908927915,Nidia Erazo,nidia.erazo@mosquera-villa.com,573039559059,2000-02-18,Cali,9664346,Empleado,4,Bueno,2706886.32,5277916,678
+CLT-20251216-0179,1582101860,Blanca Díaz Ojeda,blanca.díaz.ojeda@diaz-gomez.com,309 308 70 59,1994-06-15,Bogotá,12675928,Empleado,8,Regular,5264007.1,42494988,649
+CLT-20251216-0180,1063947730,Yamile Carolina Díaz Arenas,yamile.carolina.díaz.arenas@sanchez.com,57 602 685 15 69,1982-12-23,Bogotá,13223088,Independiente,7,Bueno,5178751.93,43314944,682
+CLT-20251216-0181,1850234433,Alexander Obando,alexander.obando@salamanca.net,313 926 44 22,1990-09-08,Medellín,8119343,Empleado,15,Excelente,248240.45,43990465,822
+CLT-20251216-0182,1913493328,Emilia Núñez,emilia.núñez@gomez.org,309 172 51 35,1987-08-10,Bogotá,16562760,Empleado,19,Regular,9546934.39,43150451,630
+CLT-20251216-0183,1479565240,Juan James López,juan.james.lópez@ortiz.com,314 100 67 62,1983-10-22,Medellín,12107861,Empleado,8,Excelente,165360.11,29676080,795
+CLT-20251216-0184,1889924715,Mauricio Rivera Vásquez,mauricio.rivera.vásquez@angulo-escobar.com,3071040541,1967-11-11,Bogotá,18523401,Empleado,26,Excelente,1710608.25,2523779,832
+CLT-20251216-0185,1587386446,Carolina Estefanía Pérez,carolina.estefanía.pérez@quintero.info,6026629620,1966-01-23,Barranquilla,4529847,Empleado,30,Regular,2271326.73,31052053,555
+CLT-20251216-0186,1284825874,Yurany Adriana Cortés Velandia,yurany.adriana.cortés.velandia@castro.org,01 8007 205 061,1997-09-17,Medellín,16590558,Empleado,7,Malo,11851155.48,12632536,545
+CLT-20251216-0187,1214399191,Yeison Pineda,yeison.pineda@rodriguez.com,571 46 77,1993-08-23,Medellín,3576136,Pensionado,1,Bueno,1295252.72,23047718,672
+CLT-20251216-0188,1396642020,Angélica Elena Arias,angélica.elena.arias@marin.info,(+57)3243490211,1986-11-30,Bogotá,2813391,Empleado,19,Bueno,808995.24,29489097,697
+CLT-20251216-0189,1594425527,Rubén Camilo Tovar,rubén.camilo.tovar@sepulveda.biz,018007937416,1976-06-09,Cali,10992333,Empleado,25,Bueno,3901101.57,45560054,692
+CLT-20251216-0190,1727497537,Tatiana Galeano,tatiana.galeano@sanchez.com,(+57)3032061632,1999-11-06,Bogotá,3711634,Empleado,2,Bueno,1156517.85,25941884,724
+CLT-20251216-0191,1093445007,Alexander Bonilla,alexander.bonilla@velasquez-caicedo.com,(+57) 327 099 86 16,1965-07-08,Bogotá,6245548,Empleado,12,Malo,4134842.24,44027086,481
+CLT-20251216-0192,1993134057,Patricia Fernández Uribe,patricia.fernández.uribe@londono.com,018005646799,1967-10-11,Cali,4342698,Independiente,21,Bueno,1195700.49,22043688,744
+CLT-20251216-0193,1041642429,José Fernando Sánchez León,josé.fernando.sánchez.león@naranjo-quintero.com,+576055745054,1988-04-17,Bogotá,19162829,Empleado,11,Excelente,2569566.89,34124084,777
+CLT-20251216-0194,1798567178,Edinson Héctor Cardozo Torres,edinson.héctor.cardozo.torres@perdomo-ruiz.biz,637 36 78,1981-05-28,Bogotá,12966634,Pensionado,4,Malo,9041039.81,15203046,516
+CLT-20251216-0195,1761894343,Rocío Pérez,rocío.pérez@castillo.org,6081233030,1982-02-17,Cali,4893720,Independiente,1,Bueno,1507041.39,49569559,748
+CLT-20251216-0196,1426213526,Hernando Fernando Bravo,hernando.fernando.bravo@salgado.info,+573227985524,1995-05-01,Cali,5897276,Independiente,12,Bueno,1361389.42,12136367,671
+CLT-20251216-0197,1837336224,Isabel Elena Pérez,isabel.elena.pérez@zuluaga.com,(+57)3046800722,1999-11-25,Cali,16185882,Empleado,7,Excelente,1179301.47,48290577,846
+CLT-20251216-0198,1765299271,Martha León,martha.león@franco.com,(+57)3243748969,1981-09-29,Bogotá,16563522,Pensionado,6,Bueno,4104998.93,31475104,723
+CLT-20251216-0199,1602859986,María Adiela Parada,maría.adiela.parada@vega.info,(+57)6043545444,1986-06-04,Pereira,16283995,Empleado,13,Bueno,4174472.9,25627025,675
+CLT-20251216-0200,1730955923,Norma Yamile Arenas Carvajal,norma.yamile.arenas.carvajal@camargo.info,3146660993,1982-09-15,Bucaramanga,6143884,Independiente,17,Regular,2521670.93,32251892,641
+CLT-20251216-0201,1973375420,Nelson David Lozano,nelson.david.lozano@mosquera.net,573041724825,1993-05-01,Medellín,18811046,Empleado,14,Regular,8596885.09,10758378,605
+CLT-20251216-0202,1846205663,Martha Martha Bohórquez,martha.martha.bohórquez@arias-orozco.info,57 608 470 99 91,1989-07-27,Medellín,4577396,Independiente,0,Malo,2949708.78,30274686,401
+CLT-20251216-0203,1935067146,Bibiana Liliana Jiménez,bibiana.liliana.jiménez@hernandez.com,3297252175,1964-08-20,Bogotá,18344563,Empleado,0,Bueno,5085722.34,5476448,662
+CLT-20251216-0204,1817325063,Lucía Martínez Cárdenas,lucía.martínez.cárdenas@escobar.info,829 66 66,1975-03-17,Cali,12750477,Pensionado,15,Regular,5451082.88,19252150,567
+CLT-20251216-0205,1957784570,José Lozano Ariza,josé.lozano.ariza@tovar-contreras.com,7335421,1961-11-30,Barranquilla,17240723,Empleado,6,Bueno,3466251.49,5316751,720
+CLT-20251216-0206,1312273967,Juan Bravo,juan.bravo@padilla-hurtado.com,573225753260,1981-04-01,Bogotá,19209073,Empleado,1,Bueno,6823725.95,15947765,731
+CLT-20251216-0207,1181445989,Martha Emma Rojas Rodríguez,martha.emma.rojas.rodríguez@morales.com,+57 314 890 90 10,1995-04-19,Cali,16838187,Empleado,0,Excelente,2817660.86,33542971,823
+CLT-20251216-0208,1132709191,Johanna Guerrero,johanna.guerrero@munoz.com,573161849926,1986-11-01,Medellín,9618096,Empleado,7,Regular,4407534.79,104980,573
+CLT-20251216-0209,1534443249,Rocío Natalia Gutiérrez,rocío.natalia.gutiérrez@leon.net,+573056420873,1968-03-10,Manizales,4372727,Empleado,25,Bueno,1189909.76,35303251,720
+CLT-20251216-0210,1718356830,Enrique José Sandoval Fajardo,enrique.josé.sandoval.fajardo@sanchez-lopez.net,(+57)6081143744,2000-01-11,Bogotá,2182306,Empleado,5,Bueno,641656.92,42659144,652
+CLT-20251216-0211,1860707259,Silvia Xiomara Melo,silvia.xiomara.melo@alvarez.com,5225579,1985-06-21,Barranquilla,13482082,Empleado,3,Regular,6322563.9,49186839,644
+CLT-20251216-0212,1490204687,Rosa Carolina González,rosa.carolina.gonzález@perea-barrios.info,3221202169,1988-03-12,Barranquilla,12657473,Independiente,5,Excelente,891843.13,22719521,837
+CLT-20251216-0213,1656441105,Rodrigo Pedro Díaz Rivera,rodrigo.pedro.díaz.rivera@prieto.com,327 167 01 45,1985-05-12,Cali,17090157,Independiente,2,Malo,11889728.77,12232469,541
+CLT-20251216-0214,1777145921,Dayana Buitrago,dayana.buitrago@torres.net,(+57) 329 163 75 62,2000-03-13,Bucaramanga,16857178,Independiente,5,Excelente,679651.05,13386193,815
+CLT-20251216-0215,1911440994,María Betancur,maría.betancur@melo-polo.com,57 325 354 08 38,1995-05-12,Bogotá,14862181,Empleado,10,Malo,10531432.7,16999599,391
+CLT-20251216-0216,1481142194,Diego Moreno Cruz,diego.moreno.cruz@zuluaga.com,57 609 970 16 60,1999-12-14,Cartagena,3104037,Independiente,6,Regular,1447676.1,8353376,645
+CLT-20251216-0217,1955749296,Jessica Mercado,jessica.mercado@londono.com,57 310 375 89 97,1981-09-07,Bogotá,16255112,Empleado,15,Regular,7759035.6,12537091,616
+CLT-20251216-0218,1002358958,Esteban Luis Ochoa,esteban.luis.ochoa@mosquera-acevedo.com,01 8008 510 272,1976-01-18,Bogotá,10449661,Empleado,26,Regular,5699415.07,5296701,587
+CLT-20251216-0219,1231487470,Luis León Díaz,luis.león.díaz@luna-ramirez.com,609 360 91 77,1987-09-11,Cali,12278067,Empleado,19,Excelente,805244.51,19840061,771
+CLT-20251216-0220,1518544245,José Gabriel Cortés Mejía,josé.gabriel.cortés.mejía@ocampo.com,+57 607 716 99 58,2000-10-10,Bogotá,16395093,Empleado,6,Bueno,3417901.97,23659854,657
+CLT-20251216-0221,1148369653,Marcela Sindy Manrique Cárdenas,marcela.sindy.manrique.cárdenas@agudelo-rivas.net,573185833394,1970-01-12,Bogotá,4017963,Independiente,21,Regular,1933612.74,34432619,553
+CLT-20251216-0222,1541051458,Ever Carlos Blanco,ever.carlos.blanco@velez.com,01 8007 996 846,1973-01-21,Bogotá,6290883,Empleado,2,Regular,3369508.75,29405280,632
+CLT-20251216-0223,1056978109,Lina Rodríguez,lina.rodríguez@martinez.com,+57 302 043 80 57,1970-11-06,Medellín,13791943,Empleado,21,Bueno,5377387.86,2173342,697
+CLT-20251216-0224,1797159606,Natalia Gladys Londoño,natalia.gladys.londoño@londono.com,+576015666580,1976-03-22,Bogotá,13982697,Empleado,12,Bueno,3011552.53,9240562,685
+CLT-20251216-0225,1810790724,Mercedes Sara Polo Serrano,mercedes.sara.polo.serrano@vasquez.com,3172122816,1985-12-25,Bucaramanga,9875577,Empleado,12,Malo,5976528.04,12485473,330
+CLT-20251216-0226,1172796036,Fernanda Velásquez,fernanda.velásquez@sanabria.com,576089259094,1969-10-22,Cali,10283767,Pensionado,9,Regular,5561538.96,14399577,612
+CLT-20251216-0227,1558996745,Andrés Guillermo Silva,andrés.guillermo.silva@serna.biz,018008615335,1973-06-21,Medellín,8216870,Empleado,22,Excelente,1401512.55,30336071,761
+CLT-20251216-0228,1509874021,Manuel Alberto Gallego,manuel.alberto.gallego@bravo.com,+573239930561,1997-01-21,Cartagena,12223586,Empleado,4,Regular,6624060.23,36909683,641
+CLT-20251216-0229,1882732880,Antonio Vanegas Rodríguez,antonio.vanegas.rodríguez@molina-palacios.info,576039435811,1996-02-17,Bogotá,7341524,Pensionado,2,Regular,3683618.1,8144496,613
+CLT-20251216-0230,1928733904,Eugenia Rojas,eugenia.rojas@salazar.biz,(+57)6021207501,1975-06-19,Bogotá,2381945,Independiente,17,Bueno,749015.66,31367074,661
+CLT-20251216-0231,1978164385,Catalina Velásquez Córdoba,catalina.velásquez.córdoba@parra-cardona.biz,573250618091,1976-06-13,Barranquilla,3706140,Empleado,13,Bueno,1482155.84,48242526,723
+CLT-20251216-0232,1113962171,Judith García,judith.garcía@mesa-suarez.com,3176607283,1995-03-06,Medellín,3974663,Empleado,10,Excelente,252015.63,4977130,766
+CLT-20251216-0233,1680801356,Katherine Bautista Gaitán,katherine.bautista.gaitán@jimenez.com,7882100,1981-01-11,Barranquilla,19998673,Empleado,1,Regular,8727273.45,8659255,616
+CLT-20251216-0234,1227350811,Lucía Katherine Rentería,lucía.katherine.rentería@espitia-melo.com,3023943129,1984-05-10,Cartagena,6634347,Empleado,16,Bueno,1541778.4,47602473,660
+CLT-20251216-0235,1495279737,Manuela Montenegro,manuela.montenegro@caicedo.com,+573097552314,1998-04-22,Cali,9908918,Empleado,4,Excelente,1895281.97,18418097,761
+CLT-20251216-0236,1744594995,Norma Cecilia Cardona,norma.cecilia.cardona@sanchez.biz,3005336452,1981-10-04,Cali,18363556,Empleado,21,Regular,9518963.91,38966527,627
+CLT-20251216-0237,1522881542,Samuel Miguel Mosquera,samuel.miguel.mosquera@gonzalez.com,+57 609 183 41 10,1981-09-29,Barranquilla,12828633,Empleado,20,Regular,6577542.98,1904112,583
+CLT-20251216-0238,1583545743,Hugo Rojas Gómez,hugo.rojas.gómez@ortega.com,3127881658,1978-09-10,Cali,8573555,Empleado,28,Regular,4143747.94,42881973,587
+CLT-20251216-0239,1813043828,Vanessa Miranda,vanessa.miranda@hernandez.org,(+57) 602 575 03 73,1972-03-30,Bogotá,11636596,Empleado,14,Bueno,4200085.39,45968957,657
+CLT-20251216-0240,1416711804,David Hernán Delgado,david.hernán.delgado@prada-rangel.com,+573118449892,1985-07-16,Bogotá,6804299,Empleado,4,Bueno,2019857.7,13691752,741
+CLT-20251216-0241,1554762561,Pablo Morales Arango,pablo.morales.arango@rivera-fajardo.net,(+57) 315 577 90 82,1966-04-03,Medellín,12214480,Empleado,11,Regular,6988581.58,26757418,563
+CLT-20251216-0242,1168961168,Juan Andrés Franco Rojas,juan.andrés.franco.rojas@agudelo-ayala.com,3251777392,1973-09-04,Bogotá,12207752,Empleado,3,Bueno,2740693.82,30171877,699
+CLT-20251216-0243,1144658840,José Gómez Córdoba,josé.gómez.córdoba@molina.com,+57 302 869 90 41,1971-12-03,Medellín,15530273,Independiente,29,Bueno,5793746.95,10717262,690
+CLT-20251216-0244,1645145663,Lorena Yurani Gaviria Pérez,lorena.yurani.gaviria.pérez@rosero.org,+57 324 257 99 13,1988-11-28,Medellín,7869775,Empleado,9,Regular,3932157.54,34542599,561
+CLT-20251216-0245,1734834366,Jhon González Ramírez,jhon.gonzález.ramírez@nino-calderon.com,329 908 81 17,1995-04-12,Bogotá,14695018,Empleado,0,Bueno,5780099.09,14438097,713
+CLT-20251216-0246,1560540722,Susana Montoya Rodríguez,susana.montoya.rodríguez@arias-gomez.net,573237659916,1990-04-27,Cali,17290274,Empleado,8,Bueno,3486332.72,7214007,747
+CLT-20251216-0247,1304155269,Carmen Castañeda Chávez,carmen.castañeda.chávez@pardo.com,(+57) 321 806 35 65,1966-08-30,Medellín,15030961,Empleado,11,Bueno,4210417.54,38270953,659
+CLT-20251216-0248,1454795749,Ana Camila Muñoz,ana.camila.muñoz@morales.com,3288725887,1997-06-09,Cali,14463715,Independiente,9,Bueno,5103967.65,18771736,665
+CLT-20251216-0249,1790040374,Norbey Escobar,norbey.escobar@ordonez.com,307 213 86 58,1988-01-19,Barranquilla,5817226,Empleado,11,Malo,3948620.98,22755629,350
+CLT-20251216-0250,1863685029,Ana Alfonso,ana.alfonso@bravo.org,573211435190,1961-04-26,Barranquilla,18583316,Empleado,10,Bueno,3866277.13,2611472,716
+CLT-20251216-0251,1764080940,Tulio Castillo Hoyos,tulio.castillo.hoyos@martinez.info,+573203843098,1980-06-14,Bogotá,16833991,Empleado,19,Excelente,3006994.17,9380543,800
+CLT-20251216-0252,1093246752,Natalia Gladys Mosquera Hoyos,natalia.gladys.mosquera.hoyos@patino-romero.biz,(+57) 319 380 11 84,1971-09-03,Medellín,11540638,Empleado,22,Bueno,3479075.32,34206334,710
+CLT-20251216-0253,1488293766,Javier Nicolás Torres,javier.nicolás.torres@cordoba-munoz.biz,+57 321 818 45 18,1974-03-12,Cartagena,2058243,Empleado,25,Bueno,689020.06,27953544,738
+CLT-20251216-0254,1268587379,Duván Guerra,duván.guerra@marin.com,(+57)3177907141,2000-01-30,Cali,2394130,Independiente,3,Bueno,605968.88,43995965,724
+CLT-20251216-0255,1859166755,Víctor Portilla Buitrago,víctor.portilla.buitrago@pena-romero.net,2434165,1976-08-08,Bogotá,17621186,Independiente,12,Excelente,2216834.15,41589765,837
+CLT-20251216-0256,1196263306,Leidy Romero Lara,leidy.romero.lara@carrillo.com,57 303 433 33 95,1979-04-08,Bogotá,9626768,Empleado,14,Excelente,1825630.24,7374963,769
+CLT-20251216-0257,1659091699,Ligia González García,ligia.gonzález.garcía@cabrera.com,325 957 94 72,1994-06-26,Barranquilla,15356641,Pensionado,13,Regular,7403060.11,41035597,643
+CLT-20251216-0258,1058141154,Diego Zambrano,diego.zambrano@vera.net,316 271 87 50,1969-09-07,Medellín,3589813,Empleado,21,Regular,1808320.35,37640474,598
+CLT-20251216-0259,1349434459,Gladys Rivera,gladys.rivera@avila-munoz.net,+57 303 479 55 27,1967-10-25,Cali,12027790,Empleado,11,Malo,8322421.29,35777551,522
+CLT-20251216-0260,1300249927,Alberto Bermúdez Arias,alberto.bermúdez.arias@diaz-hernandez.org,301 438 66 32,1988-03-20,Bogotá,10370522,Empleado,9,Regular,4546984.76,16543619,588
+CLT-20251216-0261,1959141798,Leidy Rodríguez Salazar,leidy.rodríguez.salazar@delgado.com,+57 308 906 12 03,1970-02-09,Medellín,11197369,Empleado,11,Regular,6024721.8,32816441,642
+CLT-20251216-0262,1799500884,Jairo Méndez,jairo.méndez@munoz-mosquera.net,+57 305 061 59 39,1991-07-28,Barranquilla,10675712,Empleado,12,Bueno,3359597.04,36452922,748
+CLT-20251216-0263,1523442423,Janneth Gutiérrez Valencia,janneth.gutiérrez.valencia@cardona.info,(+57) 602 225 69 96,1995-09-11,Cali,6414923,Empleado,7,Bueno,1652009.9,47925210,745
+CLT-20251216-0264,1650027161,Carolina Álvarez Arango,carolina.álvarez.arango@medina.com,(+57) 327 622 02 34,1979-02-28,Bogotá,17575232,Pensionado,22,Bueno,6425335.05,18195408,663
+CLT-20251216-0265,1588876249,Sandra Alejandra López,sandra.alejandra.lópez@rodriguez.net,514 92 16,1993-02-27,Bogotá,9528973,Empleado,3,Bueno,3182360.55,35637591,702
+CLT-20251216-0266,1030678197,Paola Isabel Pineda Hernández,paola.isabel.pineda.hernández@vergara.info,(+57)3284872829,1972-07-26,Manizales,12582814,Empleado,17,Regular,5286153.17,9225256,570
+CLT-20251216-0267,1332496317,Víctor Leonardo Ospina Guzmán,víctor.leonardo.ospina.guzmán@ramos-torres.com,+573245642400,1997-04-13,Barranquilla,15153548,Empleado,3,Regular,8730405.9,31923662,586
+CLT-20251216-0268,1811182636,Carolina Correa Rodríguez,carolina.correa.rodríguez@suarez-castaneda.com,300 853 68 66,1994-06-08,Medellín,12276599,Empleado,3,Bueno,2600582.87,6003607,742
+CLT-20251216-0269,1085050803,Ana Aura Giraldo Rivera,ana.aura.giraldo.rivera@pineda-delgado.org,(+57) 304 846 31 22,1978-11-08,Cúcuta,2751521,Pensionado,1,Malo,1747251.48,11796980,401
+CLT-20251216-0270,1292201792,Luis Cárdenas,luis.cárdenas@trujillo.com,018000214427,1991-10-08,Bogotá,18122325,Independiente,0,Excelente,2714735.89,19425799,827
+CLT-20251216-0271,1233203933,Martha Sánchez,martha.sánchez@salazar-serna.info,57 317 051 20 46,1994-07-18,Medellín,5100413,Pensionado,8,Malo,3402018.43,30490850,527
+CLT-20251216-0272,1877516280,Luisa Andrea Lara,luisa.andrea.lara@salcedo-gonzalez.com,+57 317 303 71 83,1977-12-22,Bogotá,6003002,Independiente,10,Regular,2963106.72,12939353,608
+CLT-20251216-0273,1799641923,Jhon Arbey Rubio Sánchez,jhon.arbey.rubio.sánchez@guzman.com,57 310 313 65 02,1963-10-30,Cali,10132376,Independiente,18,Regular,4081491.67,22623215,574
+CLT-20251216-0274,1009588354,Dario Medina,dario.medina@murillo.info,(+57) 606 151 32 71,1977-07-02,Bogotá,7388632,Independiente,16,Regular,3899314.77,27211998,601
+CLT-20251216-0275,1849830412,Gloria Sánchez,gloria.sánchez@hernandez.com,01 8005 730 652,1997-06-16,Bogotá,4700593,Pensionado,0,Excelente,132191.84,21716540,780
+CLT-20251216-0276,1600248296,Mateo Reyes,mateo.reyes@rios-rincon.org,573085574982,1990-09-24,Bogotá,16489956,Empleado,0,Regular,9742380.85,20263242,596
+CLT-20251216-0277,1394184264,Mónica Lorena Fonseca,mónica.lorena.fonseca@rodriguez-henao.biz,573009593518,1997-10-24,Medellín,9428998,Empleado,10,Excelente,222948.37,20589425,840
+CLT-20251216-0278,1658245879,Juan Carrillo Castañeda,juan.carrillo.castañeda@ruiz-bedoya.com,604 281 02 20,1971-06-12,Bogotá,11934688,Empleado,7,Regular,6298439.28,19799638,567
+CLT-20251216-0279,1564596387,Juan José Bedoya Giraldo,juan.josé.bedoya.giraldo@narvaez.org,(+57)6069037170,1994-04-18,Medellín,17545122,Empleado,11,Excelente,2623819.79,40650452,810
+CLT-20251216-0280,1568031793,Emilio Alzate Martínez,emilio.alzate.martínez@ardila.com,(+57)3081138633,1979-01-17,Cartagena,19536100,Empleado,19,Regular,11040254.54,16607123,560
+CLT-20251216-0281,1822790554,Amparo Clemencia Velásquez Velásquez,amparo.clemencia.velásquez.velásquez@escobar.biz,603 922 86 85,1968-02-20,Bogotá,19133077,Pensionado,3,Bueno,6519657.69,5241384,720
+CLT-20251216-0282,1442750235,Didier Jhoan Caicedo Orjuela,didier.jhoan.caicedo.orjuela@osorio.org,018003684577,1986-04-03,Medellín,18461331,Empleado,16,Bueno,5673758.36,11041901,737
+CLT-20251216-0283,1555778818,José Gómez Gutiérrez,josé.gómez.gutiérrez@chacon.com,573133504888,1962-01-25,Medellín,8392130,Empleado,1,Regular,4177313.57,34250710,615
+CLT-20251216-0284,1394152254,Luz Cruz Sánchez,luz.cruz.sánchez@vargas.org,(+57) 319 315 72 79,1978-12-28,Cali,15439335,Empleado,9,Bueno,3266150.5,31029682,700
+CLT-20251216-0285,1409682018,Stella Milena Ariza,stella.milena.ariza@patino.com,573261390604,2000-03-04,Bogotá,10038167,Empleado,6,Regular,5512568.79,38809812,558
+CLT-20251216-0286,1539449617,Cecilia Ospina,cecilia.ospina@torres.biz,+573299813646,1983-03-14,Bogotá,19658433,Pensionado,15,Malo,15469546.47,4631796,404
+CLT-20251216-0287,1588574163,Patricia García Jaramillo,patricia.garcía.jaramillo@munoz-castillo.biz,+57 604 927 83 76,1964-04-24,Bogotá,7539171,Empleado,13,Regular,4170409.57,48941789,598
+CLT-20251216-0288,1096201527,Paola Marcela Osorio Duque,paola.marcela.osorio.duque@sandoval.com,313 559 04 25,2000-02-27,Cali,16550408,Empleado,2,Regular,9621636.99,25209145,594
+CLT-20251216-0289,1167494290,Edwin Óscar Salgado Moreno,edwin.óscar.salgado.moreno@marquez.org,(+57) 608 140 51 47,1986-05-25,Barranquilla,5480668,Empleado,7,Excelente,588907.08,35490022,846
+CLT-20251216-0290,1805687707,Alberto Ángel Ramírez,alberto.ángel.ramírez@caicedo-trujillo.com,6015698042,1996-07-25,Bogotá,2262870,Empleado,8,Malo,1567265.53,48257579,358
+CLT-20251216-0291,1071508836,Dary Natalia Martínez Hoyos,dary.natalia.martínez.hoyos@duran-vergara.com,602 604 63 68,1961-07-11,Barranquilla,9805125,Pensionado,23,Bueno,2265221.89,12648708,654
+CLT-20251216-0292,1602033662,Milton Sebastián Díaz Sierra,milton.sebastián.díaz.sierra@rodriguez.com,57 326 205 55 43,1992-02-15,Bogotá,15567380,Empleado,2,Regular,9141906.33,1049971,554
+CLT-20251216-0293,1956061953,Eliecer Pineda,eliecer.pineda@barbosa.com,(+57) 604 756 21 68,1987-04-22,Medellín,16480076,Empleado,1,Bueno,5614057.43,3266612,679
+CLT-20251216-0294,1582219061,Alexandra Fernanda Álvarez Calderón,alexandra.fernanda.álvarez.calderón@rojas.org,018003248262,1991-07-11,Bogotá,19611333,Empleado,9,Bueno,7310046.88,3787895,743
+CLT-20251216-0295,1197713683,Cecilia Velásquez Núñez,cecilia.velásquez.núñez@villa-sanchez.com,+573166474231,1969-01-05,Bogotá,12200632,Empleado,28,Bueno,4325217.29,21519471,734
+CLT-20251216-0296,1650262890,Andrea Castellanos Ávila,andrea.castellanos.ávila@avila.com,311 728 97 52,1979-02-12,Cartagena,18990283,Empleado,18,Bueno,4939376.23,4090797,672
+CLT-20251216-0297,1438719265,Mauricio Hernández Ramírez,mauricio.hernández.ramírez@velandia.com,+573031279757,1963-02-25,Bogotá,15834472,Pensionado,21,Bueno,3315371.38,23113287,717
+CLT-20251216-0298,1423216102,Fernanda Yulieth Calderón Bravo,fernanda.yulieth.calderón.bravo@rico.com,(+57) 321 770 38 86,1982-04-02,Medellín,12194953,Empleado,24,Regular,5873721.49,20125176,580
+CLT-20251216-0299,1203850254,Yaneth Delgado,yaneth.delgado@mendoza-loaiza.com,(+57)3226490827,1964-04-24,Medellín,9061308,Pensionado,17,Bueno,3094575.86,31073092,703
+CLT-20251216-0300,1145284437,Luis César Díaz Orozco,luis.césar.díaz.orozco@pena-cardona.com,(+57)3293714521,1998-02-21,Bucaramanga,19283574,Empleado,1,Excelente,936636.03,13645697,797
+CLT-20251216-0301,1759435175,Luz Lorena Morales,luz.lorena.morales@bonilla-bastidas.org,3068602592,1996-08-08,Cali,4602576,Empleado,10,Bueno,1683996.29,3458564,655
+CLT-20251216-0302,1330779274,Katerine Díaz Amaya,katerine.díaz.amaya@ariza-salamanca.com,573012309407,1989-07-05,Medellín,3942236,Empleado,6,Excelente,600557.41,48607301,792
+CLT-20251216-0303,1232866519,Edison Ángel Rodríguez Nieto,edison.ángel.rodríguez.nieto@navarro.org,1384983,1977-02-22,Cali,11673301,Pensionado,3,Malo,7039779.59,12752274,493
+CLT-20251216-0304,1716182084,Patricia Arango Gómez,patricia.arango.gómez@velasco.com,609 362 24 99,1963-03-02,Bogotá,17569917,Empleado,29,Malo,12986369.42,47229110,382
+CLT-20251216-0305,1395748400,Germán Manuel Gómez Solano,germán.manuel.gómez.solano@fonseca-uribe.net,(+57)6097472145,1982-12-04,Medellín,10997890,Empleado,11,Bueno,3373383.08,24109500,713
+CLT-20251216-0306,1094134670,Doris Viviana González Padilla,doris.viviana.gonzález.padilla@vanegas-calderon.com,573295489952,1996-12-14,Bucaramanga,17136501,Independiente,5,Excelente,3363272.94,31506968,797
+CLT-20251216-0307,1760839571,Rafael Víctor Rincón Díaz,rafael.víctor.rincón.díaz@gonzales-rodriguez.com,(+57)3213966055,1976-10-17,Bogotá,11999920,Independiente,0,Bueno,3750034.35,14849453,724
+CLT-20251216-0308,1322427487,María Diana Castro Angulo,maría.diana.castro.angulo@caicedo.com,(+57)3169902355,1981-11-25,Bogotá,15511595,Empleado,26,Bueno,3710968.5,15436288,720
+CLT-20251216-0309,1957840329,Aníbal Ernesto Jaimes Ramos,aníbal.ernesto.jaimes.ramos@triana.com,(+57) 324 958 80 39,1992-04-20,Medellín,12826777,Empleado,15,Bueno,4673030.72,48557151,743
+CLT-20251216-0310,1301141657,Raúl Ariel Romero,raúl.ariel.romero@herrera.net,3099629145,1971-02-12,Medellín,13317071,Empleado,28,Excelente,1918493.29,32770353,832
+CLT-20251216-0311,1398984826,Marcela García,marcela.garcía@salcedo-suarez.net,573121503178,1977-02-16,Bogotá,3470720,Pensionado,21,Bueno,1276578.36,4988229,650
+CLT-20251216-0312,1204238238,Pilar Espitia,pilar.espitia@salgado-ardila.net,573152182307,1971-06-11,Bogotá,15337586,Independiente,0,Excelente,1934688.15,4561251,808
+CLT-20251216-0313,1737716816,Esteban Guzmán Rodríguez,esteban.guzmán.rodríguez@bohorquez.com,(+57) 324 094 35 33,1963-12-15,Medellín,14022537,Pensionado,21,Excelente,1788514.55,41373913,750
+CLT-20251216-0314,1720613955,Fernando Ruiz,fernando.ruiz@ortiz.com,57 609 609 88 13,1990-12-22,Manizales,19358087,Independiente,17,Bueno,3917499.81,35528616,652
+CLT-20251216-0315,1262878922,Fernando Jhonny Arenas,fernando.jhonny.arenas@garcia.com,018007020701,2000-01-09,Medellín,18351573,Empleado,1,Regular,9814542.19,12030394,580
+CLT-20251216-0316,1957000205,Andrés Osorio Díaz,andrés.osorio.díaz@mendez.com,573153817921,2001-07-10,Bogotá,7940171,Empleado,3,Regular,3576917.13,23786139,601
+CLT-20251216-0317,1248779766,Luis Jesús Franco Castañeda,luis.jesús.franco.castañeda@sanchez.com,57 316 255 77 01,1992-12-23,Cali,16901408,Empleado,2,Bueno,6727548.1,15157023,733
+CLT-20251216-0318,1649012758,Luis Jairo Meza Gutiérrez,luis.jairo.meza.gutiérrez@hernandez.com,+573181487696,1984-09-05,Bogotá,2563155,Empleado,20,Excelente,194422.49,37091165,771
+CLT-20251216-0319,1223594003,Mercedes Esperanza Quiroz Flórez,mercedes.esperanza.quiroz.flórez@vega.com,018003219719,1984-02-22,Cartagena,4274485,Empleado,3,Bueno,1225845.06,22231194,655
+CLT-20251216-0320,1074740628,Alexander Luis Marín Álvarez,alexander.luis.marín.álvarez@gonzalez.biz,+573170132902,1988-07-28,Bucaramanga,9209684,Empleado,1,Bueno,3440953.25,38036240,737
+CLT-20251216-0321,1210095433,Lorena Jiménez Garzón,lorena.jiménez.garzón@carrillo.com,573165190986,1991-05-22,Bogotá,10907757,Empleado,10,Regular,5592428.53,2208001,576
+CLT-20251216-0322,1000905503,Jennifer Martínez Galeano,jennifer.martínez.galeano@londono.com,6077369656,1964-07-28,Bogotá,6338265,Pensionado,9,Regular,3438776.74,26729193,580
+CLT-20251216-0323,1596379379,Iván Durán Ortega,iván.durán.ortega@benitez-mosquera.biz,(+57) 603 842 20 10,1973-10-07,Barranquilla,14557928,Independiente,4,Regular,7397064.99,25759483,638
+CLT-20251216-0324,1923581992,Silvio Hernández Hernández,silvio.hernández.hernández@santos-velez.biz,573078687653,1989-04-04,Barranquilla,4131596,Empleado,7,Bueno,1631421.27,3603506,693
+CLT-20251216-0325,1764643763,Fernanda Rodríguez Zapata,fernanda.rodríguez.zapata@ortiz.com,576023975197,1977-01-25,Medellín,14811145,Empleado,14,Malo,9853489.37,42555270,391
+CLT-20251216-0326,1263315107,Miguel García,miguel.garcía@barrera-vergara.com,018009490580,1966-12-23,Cali,14097239,Empleado,24,Bueno,4735811.97,44336941,681
+CLT-20251216-0327,1857085656,Daniel Jeison Córdoba Quintero,daniel.jeison.córdoba.quintero@gutierrez-gomez.org,573194079290,1984-12-21,Cali,3966475,Independiente,4,Excelente,122342.72,47759845,790
+CLT-20251216-0328,1520507291,Rubén Trujillo,rubén.trujillo@hernandez.com,+57 302 944 40 19,1980-06-22,Bogotá,13603091,Empleado,24,Excelente,14134.22,20687478,766
+CLT-20251216-0329,1867412340,Yasmín Mena Navarro,yasmín.mena.navarro@munoz.com,57 322 805 12 92,1986-02-13,Bogotá,4429209,Empleado,3,Excelente,397604.49,37227971,795
+CLT-20251216-0330,1226405706,Germán Camilo Flórez Durán,germán.camilo.flórez.durán@ardila.com,+576094276747,1972-05-04,Bogotá,4622718,Empleado,13,Bueno,1649791.4,25852879,660
+CLT-20251216-0331,1934453606,Héctor Giraldo Muñoz,héctor.giraldo.muñoz@rodriguez-chaparro.info,+57 315 801 85 69,1997-01-20,Bogotá,9645087,Empleado,4,Bueno,2256145.81,25550493,713
+CLT-20251216-0332,1274173441,Enrique Ortiz,enrique.ortiz@orozco.com,+573085258001,1967-08-24,Bogotá,6396760,Empleado,25,Excelente,556103.95,28259699,782
+CLT-20251216-0333,1377437882,Adriana Silva,adriana.silva@bonilla.com,576022091093,1991-04-21,Bogotá,9774189,Empleado,3,Regular,4878888.94,41383942,550
+CLT-20251216-0334,1862429499,Elisa Patricia Hoyos,elisa.patricia.hoyos@triana.com,+57 304 717 46 54,1999-06-24,Barranquilla,14777219,Empleado,6,Bueno,4788386.96,22115170,733
+CLT-20251216-0335,1357185297,Sara Castro Martínez,sara.castro.martínez@munoz.com,+573217396271,1987-05-27,Bogotá,6067579,Empleado,10,Bueno,1945522.2,46660276,700
+CLT-20251216-0336,1979906691,Alba Mejía Ávila,alba.mejía.ávila@forero-lopez.com,(+57)6011947072,1968-03-09,Bogotá,12208483,Pensionado,25,Bueno,4138572.62,32950942,698
+CLT-20251216-0337,1003976873,Fernando Bermúdez Rentería,fernando.bermúdez.rentería@toro.biz,(+57)6096830671,2000-01-23,Medellín,10905312,Pensionado,3,Regular,5219140.84,7642882,619
+CLT-20251216-0338,1392297332,Héctor Diego Barrera,héctor.diego.barrera@marquez.com,+573028063461,1967-02-16,Bogotá,7537355,Empleado,22,Regular,3844200.53,48802462,587
+CLT-20251216-0339,1150262600,Mauricio James Mendoza,mauricio.james.mendoza@ramirez.org,57 307 618 47 87,1973-11-07,Cali,3820579,Empleado,4,Regular,2136205.56,27457027,580
+CLT-20251216-0340,1435410744,María Martínez,maría.martínez@rojas.net,(+57)3282931027,1963-11-15,Medellín,9978590,Empleado,19,Regular,5418846.14,25299425,601
+CLT-20251216-0341,1260578402,Leidy Prada,leidy.prada@bernal.com,602 879 29 11,1964-01-28,Barranquilla,19430394,Empleado,1,Bueno,7462795.36,46419796,696
+CLT-20251216-0342,1348144622,María Diana Quintero Perea,maría.diana.quintero.perea@obando.net,+57 602 253 09 25,1988-04-24,Bogotá,19515575,Independiente,11,Bueno,7472128.23,7339657,728
+CLT-20251216-0343,1594217027,Carlos Guerrero,carlos.guerrero@mendoza.com,+57 602 119 62 07,1986-02-17,Pereira,2986350,Empleado,10,Bueno,982527.79,43402228,705
+CLT-20251216-0344,1952317880,Andrea López,andrea.lópez@guerrero-arevalo.info,+57 604 332 48 76,2001-05-12,Medellín,5054909,Independiente,4,Excelente,261579.78,34270902,823
+CLT-20251216-0345,1673441905,Stella Becerra,stella.becerra@romero-rodriguez.com,+573018195883,1966-12-12,Bogotá,8916594,Empleado,16,Bueno,2480835.72,45604196,653
+CLT-20251216-0346,1735774878,Hugo Álvaro Castro Ramírez,hugo.álvaro.castro.ramírez@zapata-perez.com,+576081543645,1971-02-10,Cali,17699109,Empleado,30,Excelente,1472478.89,5761618,794
+CLT-20251216-0347,1520830707,Eliana Lucila Díaz,eliana.lucila.díaz@gonzalez.org,+573163531531,1962-12-08,Bogotá,11965303,Empleado,15,Bueno,4269866.23,34971424,742
+CLT-20251216-0348,1628238027,Eliana Edilma Rivera Torres,eliana.edilma.rivera.torres@martinez-mejia.com,(+57)3226527354,1993-01-03,Bogotá,16681608,Empleado,13,Bueno,4338099.15,47699570,663
+CLT-20251216-0349,1914453695,Claudia María Jaramillo Castro,claudia.maría.jaramillo.castro@cruz-perez.com,304 929 29 83,1968-07-08,Bogotá,7014808,Empleado,5,Malo,5247763.11,34627764,409
+CLT-20251216-0350,1635205122,Adriana Beatriz Prieto,adriana.beatriz.prieto@perea-castro.biz,57 303 569 39 29,1975-09-08,Medellín,17003964,Empleado,21,Bueno,4778275.2,12378349,653
+CLT-20251216-0351,1787564180,Laura Gómez,laura.gómez@gomez.com,+573273180632,1992-12-26,Bogotá,8121109,Independiente,3,Bueno,2321910.89,298637,740
+CLT-20251216-0352,1718371516,Jesús Augusto López,jesús.augusto.lópez@perez-cruz.org,6081772625,1993-08-10,Bogotá,3599291,Empleado,5,Bueno,1295386.53,36030011,664
+CLT-20251216-0353,1457309058,Liliana Johanna Contreras,liliana.johanna.contreras@benavides-avila.org,(+57)3019508501,1981-02-20,Cali,10303119,Empleado,12,Regular,5129889.94,42889851,625
+CLT-20251216-0354,1695970088,Manuel Beltrán Morales,manuel.beltrán.morales@rueda.com,(+57)3138179335,1972-11-19,Cali,5332992,Empleado,21,Bueno,1968426.34,41430508,688
+CLT-20251216-0355,1068042141,Mateo César Salazar,mateo.césar.salazar@herrera-reyes.net,57 606 278 84 79,1964-08-30,Bogotá,4343804,Empleado,5,Regular,2009605.1,16010344,568
+CLT-20251216-0356,1082621546,Cindy Ángela García Burbano,cindy.ángela.garcía.burbano@perez.com,57 322 380 46 82,1980-07-31,Medellín,18640438,Empleado,5,Bueno,5951615.29,38574580,718
+CLT-20251216-0357,1023661636,Javier Daniel Franco Jiménez,javier.daniel.franco.jiménez@palacio.com,3295579887,1965-03-29,Medellín,7312795,Empleado,26,Bueno,2178689.35,9415141,656
+CLT-20251216-0358,1243505251,Jesús Carlos Angulo Pérez,jesús.carlos.angulo.pérez@arias-gutierrez.com,(+57) 609 554 72 92,1978-08-26,Medellín,13547355,Independiente,17,Malo,9441446.81,13094851,426
+CLT-20251216-0359,1173145929,Derly Villa Aguirre,derly.villa.aguirre@gonzalez.org,+57 601 674 52 38,1971-05-27,Medellín,15228270,Empleado,2,Regular,7357174.5,29786386,647
+CLT-20251216-0360,1323797338,Carlos Daniel Obando,carlos.daniel.obando@caceres.info,(+57) 606 575 20 88,1997-04-09,Medellín,8899742,Empleado,7,Bueno,2269172.41,36078303,748
+CLT-20251216-0361,1858538383,Marlon Benjamín Gallego Portilla,marlon.benjamín.gallego.portilla@padilla.com,320 281 40 69,1970-12-19,Barranquilla,18119957,Empleado,17,Bueno,4034267.07,7664278,696
+CLT-20251216-0362,1565254032,Inés Luz Martínez Bedoya,inés.luz.martínez.bedoya@ocampo.com,6048187186,2000-08-29,Manizales,19687957,Empleado,3,Regular,8039028.03,48249947,563
+CLT-20251216-0363,1426874654,Francisco Alfonso Martínez,francisco.alfonso.martínez@becerra.com,+57 315 045 54 78,1985-07-12,Medellín,9805783,Empleado,2,Bueno,3920965.24,30181026,665
+CLT-20251216-0364,1862950738,Sandra Estefanía Villamizar,sandra.estefanía.villamizar@gutierrez-cifuentes.biz,3229912347,1989-03-29,Bogotá,9450590,Empleado,13,Bueno,3284293.57,46246972,667
+CLT-20251216-0365,1007106953,Andrés Aurelio Tovar,andrés.aurelio.tovar@henao-castro.com,01 8007 923 264,1966-12-23,Medellín,8433005,Empleado,8,Regular,4731658.74,38257041,571
+CLT-20251216-0366,1794414358,José Arley Palacio Suárez,josé.arley.palacio.suárez@torres-mercado.com,+57 304 714 62 73,1999-01-07,Manizales,12360013,Empleado,8,Malo,8139401.53,38435634,473
+CLT-20251216-0367,1643054662,Luz Castro,luz.castro@morales.com,321 589 04 29,1965-07-01,Cartagena,4695226,Pensionado,8,Excelente,704372.3,27621754,766
+CLT-20251216-0368,1383739723,Patricia Cruz,patricia.cruz@martinez.biz,310 448 18 32,1970-03-06,Bogotá,5952366,Independiente,21,Bueno,2037369.7,16613117,668
+CLT-20251216-0369,1887793353,Karen Ana Ruiz,karen.ana.ruiz@vera.com,609 589 52 02,1982-06-23,Bogotá,10516651,Empleado,24,Regular,4995771.69,5067811,615
+CLT-20251216-0370,1109970339,Alexis Camilo Cáceres,alexis.camilo.cáceres@sanchez.com,01 8009 888 167,1972-01-20,Medellín,10835704,Pensionado,10,Regular,6235551.84,30514108,649
+CLT-20251216-0371,1334549462,Luz Patricia Rodríguez,luz.patricia.rodríguez@morales.org,(+57) 325 240 13 22,1984-08-26,Barranquilla,4625315,Empleado,2,Regular,2274220.44,44569937,600
+CLT-20251216-0372,1083467647,Lucía Sandra Bejarano Salazar,lucía.sandra.bejarano.salazar@guevara.com,+573010890714,1968-07-23,Bogotá,8809159,Empleado,26,Malo,6738738.22,33199758,440
+CLT-20251216-0373,1840064269,María Soto,maría.soto@villegas.org,+573025012495,1967-07-11,Bogotá,5882015,Independiente,24,Bueno,1747355.97,23067975,662
+CLT-20251216-0374,1542142157,Carlos César Padilla,carlos.césar.padilla@garcia.net,(+57)3034280138,1977-05-31,Cúcuta,16921005,Empleado,0,Excelente,3145387.67,10602094,804
+CLT-20251216-0375,1896297562,Manuel William Mendoza Yepes,manuel.william.mendoza.yepes@bejarano-salazar.net,306 151 71 82,1973-04-07,Bucaramanga,8288672,Empleado,27,Malo,6480758.82,43620573,370
+CLT-20251216-0376,1530120085,Alonso Hernando Velásquez Gómez,alonso.hernando.velásquez.gómez@florez.org,573173864631,1983-04-15,Bogotá,4631970,Empleado,20,Regular,2084747.13,24954012,600
+CLT-20251216-0377,1425598787,Saúl Manuel Rodríguez Gil,saúl.manuel.rodríguez.gil@guzman-buitrago.com,(+57) 606 466 91 21,1968-02-12,Bogotá,11751189,Empleado,22,Regular,6475450.76,28805200,577
+CLT-20251216-0378,1899912828,Alberto Elkin Parra,alberto.elkin.parra@bonilla-castro.org,(+57) 306 579 67 84,1976-10-21,Bogotá,17498978,Empleado,0,Excelente,2077756.89,34859313,793
+CLT-20251216-0379,1247843014,Kelly González Vargas,kelly.gonzález.vargas@valderrama.com,57 320 269 52 49,1994-10-18,Bogotá,5546455,Empleado,3,Malo,3796342.05,8870124,487
+CLT-20251216-0380,1851188873,Mery Vanessa Guzmán,mery.vanessa.guzmán@ramirez-duran.info,+57 324 858 80 06,1994-06-14,Barranquilla,4936885,Empleado,12,Excelente,362921.96,20082685,767
+CLT-20251216-0381,1038634432,Liliana Cecilia Rivera,liliana.cecilia.rivera@diaz.com,3076246719,1992-03-27,Bogotá,6293353,Empleado,14,Excelente,708998.09,40957830,777
+CLT-20251216-0382,1544048929,Álvaro Héctor Córdoba Acosta,álvaro.héctor.córdoba.acosta@giraldo.org,+57 319 545 00 90,1971-08-06,Cartagena,6579272,Independiente,2,Malo,4758229.53,29687878,335
+CLT-20251216-0383,1821620818,Yuliana Romero Villamizar,yuliana.romero.villamizar@herrera.com,3250333491,1962-10-15,Bogotá,5632470,Empleado,4,Bueno,1559103.64,28815790,732
+CLT-20251216-0384,1350165292,Katerine Luz Pérez,katerine.luz.pérez@cruz.org,+57 326 407 90 56,1997-08-06,Barranquilla,4326917,Empleado,0,Bueno,1385478.01,48397546,734
+CLT-20251216-0385,1360742313,Alexander López Reyes,alexander.lópez.reyes@mora-cabrera.com,3094563718,1974-12-20,Cali,11621672,Independiente,9,Bueno,3735035.4,12659853,680
+CLT-20251216-0386,1670629385,Isabel María Orjuela Castillo,isabel.maría.orjuela.castillo@yepes.org,(+57)3141987635,1976-04-30,Cartagena,18105676,Empleado,16,Bueno,4494124.83,42820980,651
+CLT-20251216-0387,1712381203,Camila Lucía Cifuentes,camila.lucía.cifuentes@alvarez.net,(+57)3282082973,1990-06-02,Cali,13616445,Empleado,17,Malo,8529294.53,38143362,495
+CLT-20251216-0388,1607862900,Fernando Leonardo Montes Márquez,fernando.leonardo.montes.márquez@pineda.com,57 302 466 51 36,1990-06-22,Bogotá,17304628,Empleado,0,Malo,13048959.84,1120006,310
+CLT-20251216-0389,1737504834,Yeison Jaimes,yeison.jaimes@moreno.com,57 304 778 66 03,1978-05-30,Barranquilla,3528998,Empleado,16,Malo,2398289.41,19225870,408
+CLT-20251216-0390,1707242295,Marcela Gómez Angulo,marcela.gómez.angulo@diaz.info,6076015941,1979-11-11,Bogotá,14998190,Empleado,2,Excelente,1609500.21,41342218,815
+CLT-20251216-0391,1120186460,Alejandra Mireya Benítez,alejandra.mireya.benítez@galvis.org,(+57) 324 713 91 55,1977-01-07,Barranquilla,8318176,Empleado,20,Malo,5249396.46,21927841,466
+CLT-20251216-0392,1154917225,Roberto Sarmiento Rubio,roberto.sarmiento.rubio@diaz.info,3249078515,1975-10-17,Bucaramanga,3718454,Empleado,2,Bueno,1069045.15,16014684,664
+CLT-20251216-0393,1389766149,Felipe Vargas Castro,felipe.vargas.castro@becerra-pinto.com,576062034864,1970-10-26,Bogotá,16712634,Independiente,23,Regular,6868988.24,44699843,551
+CLT-20251216-0394,1323076194,Elisa Elena Chávez Medina,elisa.elena.chávez.medina@rubio.com,(+57)3027560417,1978-05-07,Barranquilla,6104063,Empleado,25,Regular,2641634.14,23266987,583
+CLT-20251216-0395,1885193689,Gabriel Franklin Quintero Salazar,gabriel.franklin.quintero.salazar@benavides.com,316 985 70 02,1967-10-16,Barranquilla,7102347,Independiente,3,Bueno,2485503.81,18036479,653
+CLT-20251216-0396,1618270581,Johan Carlos Castillo Méndez,johan.carlos.castillo.méndez@gonzalez.net,+57 605 396 57 72,1982-04-22,Cali,12741104,Empleado,18,Regular,5789508.21,4286376,613
+CLT-20251216-0397,1422511155,Raúl Alberto Peña,raúl.alberto.peña@garces-loaiza.com,6045089317,1973-05-02,Bogotá,16773902,Empleado,5,Bueno,3540766.44,38043084,663
+CLT-20251216-0398,1095628804,María Beltrán Carvajal,maría.beltrán.carvajal@perez-ospina.com,(+57) 326 771 33 34,1971-02-11,Bogotá,5369953,Independiente,0,Bueno,1620463.74,2955333,710
+CLT-20251216-0399,1919485633,Omar Flórez,omar.flórez@carvajal.com,3226204439,1990-04-23,Bogotá,13713024,Empleado,13,Bueno,3154227.73,2373209,681
+CLT-20251216-0400,1503457793,Leonel Manuel Duque Cruz,leonel.manuel.duque.cruz@bohorquez.biz,(+57)3066941180,1961-08-29,Medellín,15467253,Empleado,3,Malo,10270055.34,5226912,530
+CLT-20251216-0401,1651089619,Claudia Moreno,claudia.moreno@parada.com,6489646,1985-01-25,Cartagena,3267384,Pensionado,2,Excelente,525616.24,3082215,786
+CLT-20251216-0402,1182392760,Michel Velásquez Murillo,michel.velásquez.murillo@rincon.com,+573186241502,1978-09-02,Medellín,11925287,Empleado,9,Bueno,3704212.13,534802,688
+CLT-20251216-0403,1969366248,Freddy Gerardo Cano Carmona,freddy.gerardo.cano.carmona@avila-castellanos.com,(+57) 325 625 72 87,1980-03-18,Bogotá,9639768,Pensionado,24,Bueno,3068706.27,33108874,719
+CLT-20251216-0404,1038506797,Diana Martínez,diana.martínez@munoz-rueda.biz,57 608 870 75 87,1973-06-03,Cali,9725093,Empleado,11,Excelente,1813530.54,1604590,838
+CLT-20251216-0405,1218757401,Deisy Bibiana González,deisy.bibiana.gonzález@diaz-perez.net,(+57) 309 939 08 92,1967-04-29,Cali,1821948,Empleado,23,Malo,1093701.55,44110914,326
+CLT-20251216-0406,1952803809,Darwin Vargas Zapata,darwin.vargas.zapata@rodriguez-carrillo.com,(+57) 315 915 20 17,1967-05-17,Cali,8385180,Pensionado,4,Bueno,2076451.63,33019498,661
+CLT-20251216-0407,1704560130,Daniel Brandon Hurtado Rodríguez,daniel.brandon.hurtado.rodríguez@angarita.org,+57 609 730 45 01,1963-12-10,Bogotá,2973048,Empleado,28,Malo,2317364.54,34880450,549
+CLT-20251216-0408,1095765217,Alejandra Andrea Alfonso,alejandra.andrea.alfonso@melo.biz,(+57) 314 214 76 49,1988-02-08,Medellín,4348852,Independiente,2,Bueno,1309376.51,42762820,657
+CLT-20251216-0409,1525728730,Gloria López Morales,gloria.lópez.morales@rivas-acosta.org,573216592661,1974-07-23,Bucaramanga,16095603,Empleado,10,Regular,6859006.94,19574046,600
+CLT-20251216-0410,1695366600,Rocío Quiroz,rocío.quiroz@forero.net,347 61 74,1976-03-20,Barranquilla,12447186,Pensionado,4,Bueno,3166454.26,5012188,724
+CLT-20251216-0411,1317270985,Flor Suárez Vargas,flor.suárez.vargas@gomez.com,+57 326 617 94 54,1990-01-24,Medellín,5156521,Empleado,3,Excelente,169520.61,31276429,848
+CLT-20251216-0412,1192792696,Kelly María Mena,kelly.maría.mena@benitez.com,3245977945,1992-06-15,Barranquilla,8467115,Empleado,9,Bueno,2478064.78,8047262,739
+CLT-20251216-0413,1935890335,Sandra García Riascos,sandra.garcía.riascos@lopez.com,5277697,1978-08-09,Pereira,2853243,Empleado,7,Bueno,1059450.94,9953841,700
+CLT-20251216-0414,1094097510,Santiago Samir Gil,santiago.samir.gil@hernandez.com,6079303723,1981-07-21,Cartagena,18728847,Empleado,12,Excelente,1119388.39,11668066,821
+CLT-20251216-0415,1178354412,María Kelly Sánchez Salazar,maría.kelly.sánchez.salazar@daza.info,320 793 34 96,1968-11-18,Barranquilla,19958994,Empleado,1,Bueno,5836182.49,9381352,678
+CLT-20251216-0416,1446339338,Claudia López,claudia.lópez@daza-hurtado.net,3107678997,1990-05-05,Medellín,5886075,Empleado,2,Excelente,471570.92,46055824,783
+CLT-20251216-0417,1287600528,Edith Lina Salazar Ruiz,edith.lina.salazar.ruiz@guerrero.com,+573260243757,1965-04-12,Bogotá,4016152,Empleado,4,Excelente,51785.9,43351446,792
+CLT-20251216-0418,1140830436,Johana Elizabeth Duque Caballero,johana.elizabeth.duque.caballero@vanegas-giraldo.biz,57 317 293 41 72,1992-11-01,Barranquilla,5611346,Pensionado,13,Excelente,517360.4,11273564,800
+CLT-20251216-0419,1530133267,Diana Calderón López,diana.calderón.lópez@moreno-velasquez.com,314 522 80 15,1989-04-07,Bogotá,18147239,Empleado,5,Excelente,2479685.62,11596895,807
+CLT-20251216-0420,1276834410,Luis Torres Londoño,luis.torres.londoño@serna-solano.net,(+57) 302 891 07 71,1994-01-20,Medellín,6487242,Empleado,7,Excelente,803349.62,16494337,820
+CLT-20251216-0421,1884344748,Sara Viviana Andrade,sara.viviana.andrade@gomez.com,57 312 478 71 25,1967-11-21,Cartagena,17573610,Empleado,20,Excelente,983334.82,9209753,817
+CLT-20251216-0422,1825942935,Steven Luis Ramírez,steven.luis.ramírez@vargas.com,3182145653,1989-04-01,Medellín,9860011,Pensionado,11,Regular,5525881.62,1310634,612
+CLT-20251216-0423,1860892562,Leonor Contreras Mesa,leonor.contreras.mesa@pena-pena.info,(+57) 325 072 08 11,1970-05-07,Bogotá,13043869,Empleado,0,Malo,9136951.76,26063826,356
+CLT-20251216-0424,1422266433,Alexander Rigoberto Pérez,alexander.rigoberto.pérez@duran.com,+576066846684,1965-02-20,Medellín,2483260,Independiente,15,Regular,1379966.59,3931990,648
+CLT-20251216-0425,1751936102,Rosario Maldonado,rosario.maldonado@marin-rojas.net,+573256341085,1970-12-14,Barranquilla,9310200,Empleado,17,Malo,5772574.14,44081425,534
+CLT-20251216-0426,1304865220,Nelson Mena Hernández,nelson.mena.hernández@lopez.com,(+57) 325 200 89 43,1997-10-04,Bogotá,3375983,Independiente,6,Regular,1990346.21,38634043,572
+CLT-20251216-0427,1785964167,Nelson Ospino,nelson.ospino@sepulveda.net,311 017 49 07,1968-06-22,Medellín,7408947,Empleado,29,Bueno,1953004.9,49533394,740
+CLT-20251216-0428,1767346496,Argemiro Roberto Villamil,argemiro.roberto.villamil@soto.com,3192683158,1999-06-12,Medellín,13300494,Pensionado,7,Malo,9479545.34,37789597,344
+CLT-20251216-0429,1087990100,Elsa Gloria López Amaya,elsa.gloria.lópez.amaya@martinez.info,(+57)3071586988,1988-12-30,Medellín,17956315,Empleado,16,Excelente,201713.98,40376906,792
+CLT-20251216-0430,1739827290,Freddy Orozco Acevedo,freddy.orozco.acevedo@ariza-guerrero.com,(+57) 609 282 77 28,1990-11-27,Bogotá,8260022,Pensionado,10,Regular,3866944.24,11909130,568
+CLT-20251216-0431,1645963305,Lorena María Sánchez Velásquez,lorena.maría.sánchez.velásquez@gonzalez-arias.com,576055821545,1969-01-14,Cali,6253074,Pensionado,11,Regular,3559851.13,24487343,634
+CLT-20251216-0432,1954617911,José Carlos Páez Salazar,josé.carlos.páez.salazar@rojas-fonseca.info,8185106,1981-09-21,Cali,14773984,Empleado,5,Bueno,3949266.38,21649534,705
+CLT-20251216-0433,1510271691,Julián Galeano,julián.galeano@palacio.info,+573272519966,1986-08-19,Barranquilla,17847719,Empleado,19,Regular,7760911.66,37713658,578
+CLT-20251216-0434,1790180346,Norma Carolina Gómez Camacho,norma.carolina.gómez.camacho@jaimes-gaviria.com,573181813989,1991-02-10,Bucaramanga,7383824,Empleado,0,Bueno,2560702.74,19764719,723
+CLT-20251216-0435,1539704301,Oliva Guzmán,oliva.guzmán@gonzalez.com,6096433971,1993-05-03,Bogotá,14639963,Empleado,9,Regular,8112970.89,38083123,628
+CLT-20251216-0436,1469243880,William Rincón Saavedra,william.rincón.saavedra@guerrero.com,+57 314 111 82 42,1984-02-03,Bogotá,8912014,Empleado,23,Regular,3750371.97,33298415,594
+CLT-20251216-0437,1728650400,Carmen López Suárez,carmen.lópez.suárez@martinez.com,6076046152,1988-09-02,Medellín,12221267,Independiente,10,Excelente,2163947.04,5954301,783
+CLT-20251216-0438,1055703707,Eduardo Niño,eduardo.niño@moreno.org,57 307 886 14 05,1969-03-10,Bogotá,8535837,Independiente,23,Bueno,1822904.44,17224022,699
+CLT-20251216-0439,1289008064,Jaime Andrés Gómez Barrera,jaime.andrés.gómez.barrera@corredor.net,+57 604 349 67 18,1962-03-23,Bogotá,16204227,Empleado,12,Regular,9622399.99,27784355,598
+CLT-20251216-0440,1978707870,Ángel Juan Vargas,ángel.juan.vargas@cardenas.org,3120074946,1989-10-17,Bogotá,4903377,Empleado,7,Regular,2734838.9,38792647,559
+CLT-20251216-0441,1048838858,Marco Alberto Sepúlveda,marco.alberto.sepúlveda@mena.com,573116128463,1980-02-07,Cartagena,2621147,Empleado,5,Bueno,691310.17,7027979,670
+CLT-20251216-0442,1293145630,Libardo Esneider Acevedo,libardo.esneider.acevedo@duran.com,(+57)3079502097,1991-10-07,Cali,4016663,Empleado,15,Bueno,1524825.03,6248149,705
+CLT-20251216-0443,1596775664,Gina Sandoval,gina.sandoval@narvaez.com,018000715695,1989-01-27,Pereira,7036387,Empleado,6,Regular,3425595.19,3594065,602
+CLT-20251216-0444,1133964179,Juan Solano Benavides,juan.solano.benavides@arias-ramirez.com,300 453 19 43,1961-07-13,Medellín,19623602,Empleado,12,Bueno,5029619.75,15941595,712
+CLT-20251216-0445,1007661580,Emilse Marlén Gómez Rincón,emilse.marlén.gómez.rincón@bustamante.biz,57 604 349 87 28,1975-03-09,Cali,6653623,Empleado,21,Excelente,5077.48,5880639,811
+CLT-20251216-0446,1918563539,Elizabeth Alicia Hernández,elizabeth.alicia.hernández@rangel.com,+573008948706,1999-09-28,Medellín,8199974,Empleado,1,Excelente,339401.82,42828250,764
+CLT-20251216-0447,1294243484,Graciela Ruiz,graciela.ruiz@duarte.info,57 318 030 46 87,1988-08-23,Bogotá,11846623,Empleado,17,Regular,5854469.48,44361647,597
+CLT-20251216-0448,1867232189,José Juan García,josé.juan.garcía@ceron.biz,(+57)6021332541,1999-11-14,Bogotá,14299176,Empleado,4,Bueno,4134679.01,17669493,684
+CLT-20251216-0449,1265379125,Alejandro José Bautista Betancur,alejandro.josé.bautista.betancur@ortega.com,(+57)3183199717,1977-12-30,Barranquilla,3568274,Empleado,11,Excelente,497039.84,6489603,802
+CLT-20251216-0450,1955720128,María María Gómez,maría.maría.gómez@martinez.info,+576091496110,1982-04-11,Cali,9134061,Empleado,17,Bueno,3362790.72,35069902,710
+CLT-20251216-0451,1250302083,Elías Castillo,elías.castillo@mesa.info,573299150785,1988-12-07,Bucaramanga,9406834,Empleado,18,Bueno,2029910.21,47936244,723
+CLT-20251216-0452,1971059887,Luz María Forero Vega,luz.maría.forero.vega@hernandez.info,+573223200249,1974-02-18,Pereira,6447522,Pensionado,5,Excelente,976398.23,11601711,774
+CLT-20251216-0453,1950499784,Alfonso Arango Mosquera,alfonso.arango.mosquera@guevara.com,3150892038,2000-09-04,Barranquilla,5734099,Empleado,2,Excelente,89874.57,45843774,783
+CLT-20251216-0454,1687790466,Laura Ramírez,laura.ramírez@serna.com,327 959 95 94,1974-08-05,Bogotá,12229012,Empleado,17,Malo,9573296.01,4497096,383
+CLT-20251216-0455,1532501508,Enrique López Pardo,enrique.lópez.pardo@villegas.com,307 933 75 63,1963-10-30,Medellín,10767761,Independiente,19,Bueno,4128708.25,829720,703
+CLT-20251216-0456,1384277885,Juan Cerón Morales,juan.cerón.morales@cortes.com,+573239500334,1965-12-22,Bucaramanga,5275505,Empleado,30,Bueno,1211466.7,39455591,663
+CLT-20251216-0457,1264102119,Sandra Muñoz Pérez,sandra.muñoz.pérez@ramirez.com,605 802 61 53,1998-09-10,Bogotá,4888676,Independiente,4,Regular,2803631.5,23076669,612
+CLT-20251216-0458,1943161757,Rosa Rosa Pérez Silva,rosa.rosa.pérez.silva@martinez.com,+573086559630,1990-06-22,Bogotá,17372810,Empleado,12,Excelente,956943.51,9653789,792
+CLT-20251216-0459,1937217159,Graciela Milena Sánchez Vargas,graciela.milena.sánchez.vargas@melo.info,(+57)3017912868,1980-01-07,Bogotá,9471838,Independiente,0,Excelente,900237.94,18024390,788
+CLT-20251216-0460,1564225204,César Miguel Ruiz,césar.miguel.ruiz@ramos.org,(+57) 319 033 37 36,1986-05-26,Bogotá,11933727,Empleado,7,Bueno,3560115.3,46720039,745
+CLT-20251216-0461,1273298690,Lucía Hilda Jaramillo Rubio,lucía.hilda.jaramillo.rubio@garcia.net,313 907 89 56,1986-06-01,Bogotá,16368324,Empleado,20,Regular,7597744.91,48908900,606
+CLT-20251216-0462,1026540961,Felipe Diego Cifuentes Ruiz,felipe.diego.cifuentes.ruiz@marin.com,311 488 81 43,1986-12-23,Barranquilla,8593088,Independiente,11,Malo,5855622.95,32511582,431
+CLT-20251216-0463,1211147379,Luz Gloria Vásquez,luz.gloria.vásquez@valencia.com,+573092840445,1983-09-02,Cartagena,6834230,Empleado,16,Excelente,969872.09,27070718,753
+CLT-20251216-0464,1506810427,Esneider Pinto Uribe,esneider.pinto.uribe@molina.biz,303 373 89 87,1961-10-07,Bogotá,7329658,Empleado,14,Excelente,1221018.31,3867317,796
+CLT-20251216-0465,1225039914,Enrique Andrés Sanabria Osorio,enrique.andrés.sanabria.osorio@cardona-velasquez.com,+57 606 492 40 75,1989-05-19,Cali,8181015,Empleado,3,Bueno,2983626.46,33898457,680
+CLT-20251216-0466,1321733001,Alejandro Gallego Castellanos,alejandro.gallego.castellanos@fernandez-ospina.com,+57 607 725 99 99,1997-07-17,Bogotá,13997910,Empleado,5,Bueno,4048485.14,31848678,683
+CLT-20251216-0467,1611512082,Emilia María Giraldo Ortega,emilia.maría.giraldo.ortega@henao-suarez.com,603 482 09 70,1983-05-03,Pereira,4533049,Independiente,24,Bueno,1257074.03,10932530,678
+CLT-20251216-0468,1708207780,Bertha Elena Rojas,bertha.elena.rojas@garcia.com,+573166212867,1980-10-07,Barranquilla,9053506,Empleado,27,Regular,4108632.36,27481562,648
+CLT-20251216-0469,1332599234,Elena Yesenia Rojas,elena.yesenia.rojas@figueroa-vergara.com,573193874302,1974-12-15,Bogotá,1798566,Empleado,0,Bueno,407308.33,11623299,727
+CLT-20251216-0470,1944076106,Andrés Diego Arévalo Silva,andrés.diego.arévalo.silva@cruz-escobar.com,3175469263,1999-09-11,Cartagena,11749526,Empleado,6,Regular,6366758.41,18480342,608
+CLT-20251216-0471,1750032322,Norma Ardila Cruz,norma.ardila.cruz@lopez.com,(+57) 308 413 76 81,1973-06-10,Medellín,9955673,Independiente,12,Bueno,2592746.15,34939417,650
+CLT-20251216-0472,1440337297,Andrés Luis Castañeda,andrés.luis.castañeda@perez-rojas.com,(+57)3201765636,1983-02-22,Cali,18663552,Empleado,19,Malo,14805741.51,25114134,376
+CLT-20251216-0473,1351232074,María González,maría.gonzález@zambrano.net,57 307 274 22 09,1970-03-31,Bogotá,5127386,Empleado,27,Bueno,1370328.42,18554476,733
+CLT-20251216-0474,1083306581,Andrea Luz Villamizar,andrea.luz.villamizar@cabrera.com,573030837081,1972-06-02,Cartagena,11525766,Independiente,25,Excelente,1192440.96,16126399,826
+CLT-20251216-0475,1829368594,Santiago Marín Carvajal,santiago.marín.carvajal@castaneda-oviedo.com,57 303 106 00 53,1964-04-08,Cúcuta,15059293,Empleado,15,Regular,8074057.26,48404496,583
+CLT-20251216-0476,1777401428,Martha Edna Bautista,martha.edna.bautista@gomez.com,+573158393866,1972-05-19,Barranquilla,15544733,Independiente,18,Bueno,5399407.34,39126058,693
+CLT-20251216-0477,1431793991,Martha Luz Valencia,martha.luz.valencia@ruiz.com,(+57) 309 501 36 49,1961-12-23,Bogotá,8961270,Pensionado,21,Regular,4728528.08,31926048,588
+CLT-20251216-0478,1184102823,Argemiro Luis Lozano Cerón,argemiro.luis.lozano.cerón@bustos-carvajal.biz,+57 601 852 57 15,1999-09-10,Bogotá,7203805,Empleado,7,Regular,4144341.5,12155821,583
+CLT-20251216-0479,1249758689,Alfonso Villamizar Mora,alfonso.villamizar.mora@garzon.com,57 306 391 02 57,1961-11-11,Bogotá,7642754,Empleado,11,Malo,5960723.18,43918365,523
+CLT-20251216-0480,1255619239,Alberto Rivera,alberto.rivera@carvajal.com,+57 601 445 08 64,1963-07-16,Medellín,11804071,Empleado,9,Bueno,4454487.05,24943185,665
+CLT-20251216-0481,1860552321,Enrique Alberto Martínez,enrique.alberto.martínez@benavides.net,+573127017130,1977-11-09,Medellín,17288587,Pensionado,2,Excelente,2193564.66,38944153,774
+CLT-20251216-0482,1892516620,Yudy Hernández Pérez,yudy.hernández.pérez@moreno.biz,(+57)3242336293,1998-04-22,Cartagena,18293234,Empleado,0,Excelente,2490432.7,35556860,769
+CLT-20251216-0483,1291908293,Jorge Cardona,jorge.cardona@garcia-cardozo.biz,+57 312 776 89 62,1974-08-30,Bogotá,6109213,Independiente,14,Malo,4084216.46,38212027,520
+CLT-20251216-0484,1639073265,José Eduardo Márquez Uribe,josé.eduardo.márquez.uribe@sanchez.info,573174689715,1981-05-22,Cali,7551768,Pensionado,10,Regular,3757126.69,42347892,550
+CLT-20251216-0485,1013780688,Edith Ramírez Alarcón,edith.ramírez.alarcón@ariza.biz,(+57) 315 674 91 60,1961-03-29,Medellín,16668389,Empleado,5,Bueno,5871250.94,11314940,747
+CLT-20251216-0486,1274081636,Liliana Amparo Ramírez,liliana.amparo.ramírez@romero.com,+576061663370,1990-08-25,Bogotá,4454177,Empleado,15,Excelente,386365.48,28817198,754
+CLT-20251216-0487,1265659616,Carmen Cárdenas Duarte,carmen.cárdenas.duarte@escobar.com,766 91 83,1978-04-06,Barranquilla,19410772,Independiente,24,Excelente,1448437.26,944699,774
+CLT-20251216-0488,1707044021,Marleny Muñoz Suárez,marleny.muñoz.suárez@orozco-ardila.com,605 195 24 36,1997-03-29,Bogotá,2101165,Empleado,5,Regular,1103820.53,16698237,563
+CLT-20251216-0489,1563673646,Julia Rodríguez García,julia.rodríguez.garcía@hoyos-ardila.com,573052237281,1989-05-23,Bucaramanga,14369818,Independiente,9,Bueno,3753727.23,4381337,708
+CLT-20251216-0490,1278476998,Julián Alberto Ramírez Zambrano,julián.alberto.ramírez.zambrano@mendoza-barreto.com,3014161415,1974-01-06,Cúcuta,18957982,Pensionado,10,Bueno,5072530.94,46089035,712
+CLT-20251216-0491,1010207613,Margarita Acosta,margarita.acosta@ortiz.org,576095138069,1967-10-26,Cali,13554459,Empleado,7,Regular,5868764.95,27071155,566
+CLT-20251216-0492,1338468976,Felipe Enrique Osorio Arias,felipe.enrique.osorio.arias@ibarra.biz,+57 319 055 10 76,1984-04-21,Cali,8586368,Empleado,22,Regular,4447211.14,11340374,554
+CLT-20251216-0493,1395598590,María González Contreras,maría.gonzález.contreras@beltran-navarro.info,+57 326 305 05 05,1977-11-14,Cúcuta,14089368,Empleado,19,Regular,6356528.76,35885353,634
+CLT-20251216-0494,1459471600,David Jairo Mena Alzate,david.jairo.mena.alzate@ospino-zuluaga.com,+57 314 932 89 80,1984-08-29,Bogotá,5127685,Empleado,14,Regular,2071319.91,46288322,620
+CLT-20251216-0495,1939294072,Tatiana García Roa,tatiana.garcía.roa@perez-marin.com,328 333 21 16,1998-04-20,Bogotá,9980489,Empleado,0,Bueno,2301754.46,46653547,734
+CLT-20251216-0496,1822817838,Ana Oviedo,ana.oviedo@torres-munoz.info,57 602 628 71 53,1987-01-20,Barranquilla,4888321,Independiente,13,Regular,2219275.39,40643432,563
+CLT-20251216-0497,1919274413,Wilmar Villamizar Vanegas,wilmar.villamizar.vanegas@montes-torres.com,3111159319,1999-03-13,Bogotá,18665936,Independiente,7,Regular,7905899.58,7651252,575
+CLT-20251216-0498,1333717796,Carlos Alexander Rivera,carlos.alexander.rivera@fernandez.biz,573255289931,1961-01-26,Bogotá,10324611,Independiente,9,Regular,6139260.92,24019727,620
+CLT-20251216-0499,1898954542,José Melo Ruiz,josé.melo.ruiz@sierra.com,3120954814,1981-02-26,Bogotá,18154900,Empleado,0,Malo,13391794.65,32256811,322
+CLT-20251216-0500,1869956555,Víctor Alberto Jiménez Parada,víctor.alberto.jiménez.parada@sanchez-becerra.com,+576097276420,1964-12-16,Medellín,5205446,Pensionado,24,Regular,2778689.91,10008917,642
+CLT-20251216-0501,1419900806,Alejandro Felipe Romero,alejandro.felipe.romero@silva.com,+573086125904,1987-08-04,Bogotá,4898744,Pensionado,9,Malo,3570534.6,30652056,312
+CLT-20251216-0502,1225234901,Pablo Fabián Marín Ramos,pablo.fabián.marín.ramos@cifuentes.com,57 319 126 62 01,1970-10-24,Bogotá,4849031,Empleado,21,Regular,2787359.23,19499633,644
+CLT-20251216-0503,1698037200,Gildardo Juan Martínez,gildardo.juan.martínez@vega-manrique.biz,57 300 136 74 92,1996-01-13,Cali,5388994,Empleado,2,Excelente,817191.37,3079564,771
+CLT-20251216-0504,1835082100,Sergio Arroyo Sandoval,sergio.arroyo.sandoval@leal-bernal.com,+573250111178,1967-01-21,Bogotá,12528027,Empleado,23,Bueno,3602345.26,41728763,693
+CLT-20251216-0505,1852920067,María Alexandra Córdoba Castro,maría.alexandra.córdoba.castro@diaz.biz,573192151826,1967-05-24,Cali,7636079,Empleado,12,Excelente,611268.47,30637792,811
+CLT-20251216-0506,1524590810,Elena Figueroa,elena.figueroa@delgado.net,57 609 831 29 20,1997-01-11,Manizales,15651240,Empleado,0,Regular,8755020.55,7587097,570
+CLT-20251216-0507,1094297000,Luis Carlos Rojas,luis.carlos.rojas@munoz.com,+57 324 582 60 34,1971-12-05,Cali,4980034,Empleado,5,Bueno,1584398.12,38181147,749
+CLT-20251216-0508,1707765063,Elsy Delgado,elsy.delgado@marin.net,319 883 10 30,1980-12-03,Medellín,13532582,Pensionado,4,Regular,7747608.28,48806842,612
+CLT-20251216-0509,1231971150,Patricia Yadira Rojas Hernández,patricia.yadira.rojas.hernández@mosquera.com,01 8004 462 671,1998-07-11,Bogotá,5289552,Empleado,5,Regular,2582029.09,4250410,636
+CLT-20251216-0510,1575422885,Pedro Ballesteros,pedro.ballesteros@garcia.com,+573059892625,1970-09-15,Cali,19109966,Empleado,30,Regular,9847934.99,37917328,593
+CLT-20251216-0511,1133811016,Eduardo Alfonso Vargas,eduardo.alfonso.vargas@gonzalez.com,57 315 423 40 16,1979-05-04,Bogotá,18918094,Empleado,23,Bueno,6434347.16,6391591,694
+CLT-20251216-0512,1632248231,Liliana Luz Velandia Díaz,liliana.luz.velandia.díaz@lopez-romero.org,3184910256,1981-10-26,Bucaramanga,14414316,Empleado,20,Excelente,2382507.18,41131963,814
+CLT-20251216-0513,1592352971,Carolina Villamizar Bolaños,carolina.villamizar.bolaños@nieto.com,5822269,1997-02-20,Bogotá,17246723,Independiente,5,Regular,9897603.32,5024121,585
+CLT-20251216-0514,1759674935,Matilde Henao,matilde.henao@buitrago.info,573075784468,1986-02-23,Bogotá,3189489,Empleado,7,Bueno,989057.71,25409938,706
+CLT-20251216-0515,1907575563,Lucía Yolima Erazo Parra,lucía.yolima.erazo.parra@acevedo.com,829 01 48,1982-03-29,Cali,16535693,Empleado,15,Excelente,1648463.56,21210530,752
+CLT-20251216-0516,1784687698,Yanet Salazar,yanet.salazar@acosta.net,57 609 660 93 06,1995-07-29,Barranquilla,4944138,Empleado,1,Bueno,1024259.2,36849396,729
+CLT-20251216-0517,1734523269,Deicy Vanessa Cáceres Anaya,deicy.vanessa.cáceres.anaya@gomez.net,302 152 85 06,1996-11-23,Bogotá,11720611,Empleado,5,Regular,6006420.67,43929192,556
+CLT-20251216-0518,1893059429,Eduardo Eduardo González Caro,eduardo.eduardo.gonzález.caro@gaitan.info,3143096348,1977-12-14,Cali,8979890,Empleado,22,Regular,4188171.53,41591253,641
+CLT-20251216-0519,1061736645,Nataly Galindo,nataly.galindo@rodriguez-cruz.com,311 052 65 01,1994-03-08,Barranquilla,16684469,Empleado,5,Excelente,2533770.04,14881196,787
+CLT-20251216-0520,1441006226,Mauricio García Molina,mauricio.garcía.molina@barreto.com,+57 303 765 45 62,1971-06-02,Bogotá,19877446,Independiente,15,Bueno,6766664.48,3072116,741
+CLT-20251216-0521,1173768263,Luis Mendoza,luis.mendoza@romero.com,313 134 02 66,1990-11-09,Bogotá,15230834,Empleado,12,Excelente,1860756.37,12585824,850
+CLT-20251216-0522,1714299118,Leandro Carlos Ramírez,leandro.carlos.ramírez@gonzalez-reyes.info,+57 602 156 86 21,1993-07-28,Barranquilla,7894762,Empleado,10,Regular,3328061.79,27814634,625
+CLT-20251216-0523,1055877346,Ana Sierra Castañeda,ana.sierra.castañeda@salcedo.com,573274471639,1977-01-19,Bogotá,5634549,Empleado,16,Regular,2761497.65,44188280,613
+CLT-20251216-0524,1927892045,Dora Díaz Castro,dora.díaz.castro@portilla-vargas.biz,+573071892392,1968-10-13,Bucaramanga,1645546,Independiente,15,Bueno,345094.56,29045412,749
+CLT-20251216-0525,1457739343,Luz Alejandra Castro Ramírez,luz.alejandra.castro.ramírez@garzon.com,+57 316 843 35 67,1970-11-28,Cali,7445927,Empleado,21,Regular,3236968.25,8615555,591
+CLT-20251216-0526,1118170604,Johana Franco,johana.franco@morales-valderrama.biz,57 305 020 00 53,1981-08-31,Bogotá,18415128,Pensionado,24,Regular,8908004.18,40868874,600
+CLT-20251216-0527,1462683433,Felipe Gamboa,felipe.gamboa@vargas.com,(+57)3141108255,1967-10-25,Cali,13004432,Empleado,19,Malo,8980459.44,8950432,491
+CLT-20251216-0528,1698198840,Alfredo William Calderón,alfredo.william.calderón@rojas-florez.com,+57 608 291 09 33,1977-03-03,Medellín,18689755,Independiente,29,Bueno,6360102.36,21066196,677
+CLT-20251216-0529,1817104656,Ofelia Natalia Suárez,ofelia.natalia.suárez@lozano.com,+57 606 836 84 85,1993-03-24,Bogotá,8240719,Empleado,10,Bueno,2825552.24,46077704,740
+CLT-20251216-0530,1849206491,Bertha María Guerrero,bertha.maría.guerrero@perez.com,3109036788,1995-03-31,Bogotá,7466404,Independiente,12,Bueno,2530083.54,21634649,711
+CLT-20251216-0531,1430408291,Ana Janeth Flórez,ana.janeth.flórez@ortiz.com,4878844,1987-07-07,Barranquilla,15508234,Empleado,13,Regular,8975750.22,35829610,616
+CLT-20251216-0532,1240442416,Guillermo Caicedo,guillermo.caicedo@lozano.com,(+57) 609 242 40 33,1972-08-07,Barranquilla,5072556,Empleado,8,Excelente,147435.58,44979996,770
+CLT-20251216-0533,1348495661,Camila Barrera,camila.barrera@monroy.com,+57 606 469 45 00,1986-01-28,Bogotá,11117221,Empleado,9,Regular,4772463.75,4162952,619
+CLT-20251216-0534,1705789384,Juan Domínguez,juan.domínguez@lopez.com,01 8003 735 439,1997-07-11,Cartagena,2584022,Independiente,8,Bueno,750707.23,41346363,745
+CLT-20251216-0535,1159272622,Carlos Moreno Bonilla,carlos.moreno.bonilla@lopez-diaz.com,573039724042,1986-01-16,Bogotá,14548871,Empleado,21,Bueno,5191930.98,46716392,698
+CLT-20251216-0536,1077361692,Maribel Pacheco Díaz,maribel.pacheco.díaz@vargas-chavez.biz,607 182 09 16,1970-09-22,Bogotá,14504176,Empleado,17,Bueno,5187016.87,45979555,745
+CLT-20251216-0537,1141926172,Rosario Nidia Franco,rosario.nidia.franco@fuentes.com,3018513,1963-12-08,Cali,9933608,Independiente,29,Bueno,3712884.59,29733511,740
+CLT-20251216-0538,1165907416,Fabio Gregorio Ayala Álvarez,fabio.gregorio.ayala.álvarez@martinez.com,018001001841,1993-07-19,Pereira,13839344,Empleado,11,Regular,7048696.58,40492614,587
+CLT-20251216-0539,1413801909,Carlos Barreto Rodríguez,carlos.barreto.rodríguez@romero.com,+57 311 721 31 45,1990-01-09,Bogotá,16559729,Pensionado,16,Excelente,2260929.12,12547785,755
+CLT-20251216-0540,1961628678,Natalia Luz Salgado,natalia.luz.salgado@agudelo.biz,(+57) 325 926 24 94,1966-09-23,Bogotá,15878336,Empleado,8,Bueno,4014804.22,10799752,709
+CLT-20251216-0541,1284972125,Ramón Fernando Sierra,ramón.fernando.sierra@vera.com,(+57) 602 752 67 71,1986-01-28,Cali,6694417,Empleado,20,Excelente,1243324.93,40055961,834
+CLT-20251216-0542,1195283935,Carlos Ruiz,carlos.ruiz@romero-zapata.info,3295236687,1969-08-20,Bogotá,11605078,Empleado,22,Bueno,3650207.83,24030717,678
+CLT-20251216-0543,1565803901,Sebastián Emilio Flórez Murillo,sebastián.emilio.flórez.murillo@castano.com,57 305 030 58 72,1989-08-30,Medellín,7669623,Empleado,17,Bueno,2739985.46,10695172,694
+CLT-20251216-0544,1316428807,María Carolina Miranda,maría.carolina.miranda@sanchez-marquez.biz,57 303 302 12 60,1970-06-10,Pereira,8922175,Empleado,6,Regular,4752547.26,22217499,629
+CLT-20251216-0545,1511988629,Manuel Narváez Vergara,manuel.narváez.vergara@polo.com,57 301 096 22 72,1965-12-23,Bogotá,19300589,Empleado,21,Bueno,6026935.8,43573793,680
+CLT-20251216-0546,1839018541,Felipe Camargo,felipe.camargo@velez.com,573082066784,1991-03-04,Bogotá,9681481,Empleado,3,Malo,7130510.21,21537718,438
+CLT-20251216-0547,1291872669,Guillermo Salazar,guillermo.salazar@guzman.com,(+57) 319 036 28 91,1971-08-18,Medellín,10990166,Empleado,16,Excelente,1136092.63,25163008,755
+CLT-20251216-0548,1862578964,Jairo Augusto Parra Flórez,jairo.augusto.parra.flórez@jaimes-ramirez.com,605 315 95 03,1964-09-04,Bogotá,11446673,Empleado,3,Regular,5019394.47,34486889,648
+CLT-20251216-0549,1201588378,María Stella Tovar,maría.stella.tovar@ramirez.com,576051970051,1981-12-29,Bogotá,19551439,Empleado,24,Bueno,6361776.56,14145305,737
+CLT-20251216-0550,1807284495,Germán Tomás Sierra,germán.tomás.sierra@bonilla-quiroz.com,(+57)3168182096,1982-05-11,Barranquilla,15734107,Independiente,23,Regular,6940564.98,47160275,632
+CLT-20251216-0551,1084560232,William Robinson Gutiérrez Sánchez,william.robinson.gutiérrez.sánchez@lopez.com,3088985725,1992-06-21,Bogotá,3919962,Independiente,1,Regular,1688527.22,30818083,556
+CLT-20251216-0552,1042963526,Manuel Ordóñez,manuel.ordóñez@guevara.org,(+57)6059297102,1990-04-13,Medellín,7472425,Independiente,8,Regular,3823018.47,38585066,607
+CLT-20251216-0553,1173379761,Tatiana Lorena Pérez,tatiana.lorena.pérez@castro.com,812 74 74,1981-01-27,Cali,15071023,Empleado,0,Bueno,3065117.43,45184313,729
+CLT-20251216-0554,1922347724,Heidy Domínguez Reyes,heidy.domínguez.reyes@castillo-zuluaga.com,+573258955168,1985-09-10,Bucaramanga,3621901,Independiente,11,Regular,1872963.25,47035396,563
+CLT-20251216-0555,1795688388,Fernando Duván Carrillo Beltrán,fernando.duván.carrillo.beltrán@bermudez.com,(+57) 602 414 62 96,1964-11-03,Medellín,11225302,Empleado,29,Regular,5166671.35,5805267,600
+CLT-20251216-0556,1689862456,Ramón Camacho Romero,ramón.camacho.romero@maldonado.com,(+57) 316 365 15 59,1992-11-02,Pereira,2534119,Independiente,9,Bueno,777197.96,9152404,668
+CLT-20251216-0557,1167225747,Alberto Alfredo González Cárdenas,alberto.alfredo.gonzález.cárdenas@sanchez-rojas.org,576041960567,1998-01-19,Medellín,11501116,Empleado,0,Regular,6703238.95,48944143,621
+CLT-20251216-0558,1089755462,Katerine Irene Carrillo Ortiz,katerine.irene.carrillo.ortiz@garcia.com,573176834201,1972-12-10,Bucaramanga,6243719,Empleado,17,Excelente,6280.98,40040831,789
+CLT-20251216-0559,1450006352,Enrique Gallego Pérez,enrique.gallego.pérez@acosta-barrios.com,573259608931,1984-09-22,Cartagena,8548205,Empleado,20,Regular,4964021.93,23075493,568
+CLT-20251216-0560,1015232939,Cecilia Ospino Rico,cecilia.ospino.rico@triana.info,+573116480727,1982-07-01,Cali,6900732,Empleado,5,Excelente,851391.51,16961213,822
+CLT-20251216-0561,1831488913,María Alicia Díaz,maría.alicia.díaz@carvajal.com,(+57)3039055044,1998-02-13,Bogotá,3324968,Empleado,8,Regular,1950007.19,36832774,635
+CLT-20251216-0562,1377666117,Judith Camila Cárdenas,judith.camila.cárdenas@salcedo-osorio.com,57 603 927 65 28,1988-11-19,Bogotá,3760319,Empleado,10,Bueno,900534.42,38963114,735
+CLT-20251216-0563,1680867460,Eduardo Meza Pacheco,eduardo.meza.pacheco@narvaez-cuesta.com,811 09 61,1990-09-23,Bogotá,9369616,Empleado,14,Excelente,1160924.99,12985469,834
+CLT-20251216-0564,1914511555,Valentina Tatiana Cifuentes,valentina.tatiana.cifuentes@rojas-castano.net,+57 311 371 57 66,1980-09-07,Pereira,11756767,Empleado,10,Regular,5061041.21,38041457,571
+CLT-20251216-0565,1304517929,Yuly Ocampo,yuly.ocampo@cuellar-ortiz.biz,57 300 600 02 58,1995-07-01,Bogotá,1662131,Independiente,6,Bueno,593600.21,47794874,696
+CLT-20251216-0566,1596720830,Enrique Tomás Chacón,enrique.tomás.chacón@ramirez-franco.com,573226265826,1977-05-31,Barranquilla,6006555,Empleado,11,Regular,2800932.22,32209165,612
+CLT-20251216-0567,1905197350,Luz Yenny Mora Barrera,luz.yenny.mora.barrera@alarcon.com,(+57)3011060920,1987-08-20,Cartagena,5151817,Independiente,4,Excelente,625046.94,18831816,775
+CLT-20251216-0568,1681249622,Alexandra María Ardila,alexandra.maría.ardila@castano.com,573138364041,1991-10-31,Barranquilla,10332689,Empleado,0,Regular,5428007.21,48816690,630
+CLT-20251216-0569,1119111815,Eugenia Henao Murillo,eugenia.henao.murillo@chaparro-gonzalez.com,3142117536,1967-12-30,Medellín,2546704,Empleado,1,Regular,1313539.39,39596666,619
+CLT-20251216-0570,1225803577,Esther María García,esther.maría.garcía@guerrero.info,3024029901,1966-02-24,Barranquilla,19608559,Empleado,28,Bueno,6961811.96,24549672,743
+CLT-20251216-0571,1005384337,Harol Jairo Ávila,harol.jairo.ávila@guzman.com,+573090808823,1998-02-22,Bogotá,11264311,Empleado,8,Excelente,1128961.45,6076977,780
+CLT-20251216-0572,1089595982,Luis Alberto Valencia,luis.alberto.valencia@aguirre.com,958 47 76,1975-11-30,Medellín,7064786,Empleado,30,Regular,3024252.18,10685235,568
+CLT-20251216-0573,1421793625,Arnulfo Vargas Ramírez,arnulfo.vargas.ramírez@orozco.com,3037676945,1980-02-01,Bogotá,17723682,Empleado,8,Malo,10777486.83,32725110,310
+CLT-20251216-0574,1964107065,Angie Fernanda Ospina,angie.fernanda.ospina@fonseca.net,+57 309 649 85 60,1986-05-28,Cartagena,8438186,Empleado,14,Bueno,3023335.31,26044487,655
+CLT-20251216-0575,1263408355,Andrea Cecilia Mercado,andrea.cecilia.mercado@rojas.com,(+57) 604 851 05 05,1985-04-20,Medellín,12374022,Independiente,8,Excelente,2396703.04,42517960,822
+CLT-20251216-0576,1227821348,Mateo Julio Flórez,mateo.julio.flórez@rojas.com,3265533077,2001-11-28,Bogotá,7333431,Empleado,6,Bueno,2021854.09,39438458,682
+CLT-20251216-0577,1486174310,Elcy Salazar,elcy.salazar@agudelo.biz,57 309 040 90 74,1969-05-27,Bogotá,14127498,Empleado,27,Malo,9106300.55,27235609,502
+CLT-20251216-0578,1042005043,Marisol Castillo Triana,marisol.castillo.triana@franco-garcia.com,3244556185,1996-11-08,Bogotá,17676930,Empleado,3,Regular,7094097.37,9326005,632
+CLT-20251216-0579,1905245576,Mario Jhon Benavides Cárdenas,mario.jhon.benavides.cárdenas@cuesta-lopez.com,+576032021563,1969-03-21,Bogotá,10922403,Empleado,26,Bueno,2592772.42,24308370,679
+CLT-20251216-0580,1738993413,Julieth Mariana Ayala Montoya,julieth.mariana.ayala.montoya@munoz.com,+576053414596,1961-04-17,Bogotá,15412126,Empleado,15,Regular,8384984.59,32314035,570
+CLT-20251216-0581,1808564991,Margarita González Ruiz,margarita.gonzález.ruiz@murcia.info,57 605 688 39 77,1971-01-11,Cali,15287489,Empleado,4,Excelente,131913.7,38486028,755
+CLT-20251216-0582,1897156491,David Fernando Jiménez García,david.fernando.jiménez.garcía@navarro.com,(+57)6087170303,1998-12-18,Medellín,6427975,Empleado,6,Excelente,332017.31,12082114,822
+CLT-20251216-0583,1921763158,Olga Carolina Aguilar Castellanos,olga.carolina.aguilar.castellanos@ochoa-alvarez.info,(+57) 608 981 23 56,1995-12-06,Medellín,2124784,Pensionado,3,Regular,1159271.24,19022317,610
+CLT-20251216-0584,1933974335,Sara Diana Castro Pérez,sara.diana.castro.pérez@jaimes.com,57 300 724 07 87,1981-11-10,Barranquilla,17662109,Empleado,18,Excelente,2933194.39,40321603,773
+CLT-20251216-0585,1227704161,Fernando Edilberto García,fernando.edilberto.garcía@medina.net,(+57)3107451066,1990-04-27,Bogotá,18639768,Pensionado,2,Bueno,6427688.38,22996279,699
+CLT-20251216-0586,1556862328,Milena Alejandra Hurtado Contreras,milena.alejandra.hurtado.contreras@gonzalez-martinez.com,57 604 231 00 94,1994-07-19,Bogotá,5936338,Empleado,13,Excelente,240241.88,33846994,762
+CLT-20251216-0587,1420808111,Marcela Mayra Bermúdez,marcela.mayra.bermúdez@lopez-ardila.com,57 323 235 49 40,1988-06-27,Medellín,7453300,Independiente,17,Bueno,2407040.51,2619699,665
+CLT-20251216-0588,1915433559,Andrea Valeria Trujillo,andrea.valeria.trujillo@moreno.com,(+57)3172076502,1981-09-25,Cartagena,4626936,Empleado,0,Bueno,1045991.84,40498498,749
+CLT-20251216-0589,1637808176,Walter Pérez,walter.pérez@tamayo-orozco.info,57 307 100 94 38,1961-08-14,Bogotá,15978630,Empleado,13,Bueno,4379350.85,2915093,711
+CLT-20251216-0590,1485993109,Myriam Guevara López,myriam.guevara.lópez@galvis-ceron.com,57 324 570 54 58,1983-10-20,Bogotá,14292174,Empleado,13,Bueno,5158391.58,46755255,711
+CLT-20251216-0591,1919408110,Luis Héctor Padilla Rodríguez,luis.héctor.padilla.rodríguez@navarro.com,57 320 396 53 13,1988-11-17,Bogotá,9301837,Independiente,13,Malo,5737033.7,40150719,301
+CLT-20251216-0592,1965531606,Leonardo Paz Monsalve,leonardo.paz.monsalve@ospino-pardo.com,+57 305 569 64 43,1998-01-14,Cali,1738708,Empleado,3,Bueno,388715.51,482784,690
+CLT-20251216-0593,1465423722,Nancy Narváez,nancy.narváez@ospina-alzate.com,3110727284,1969-04-29,Cartagena,15218564,Empleado,8,Bueno,3514814.35,43726520,704
+CLT-20251216-0594,1487326515,Lucía Gutiérrez Vera,lucía.gutiérrez.vera@rojas.com,+576015740650,1962-01-07,Medellín,13768979,Independiente,13,Regular,8238802.62,26672696,621
+CLT-20251216-0595,1166469722,Carolina Gutiérrez Andrade,carolina.gutiérrez.andrade@amaya.com,573291430753,1999-02-12,Medellín,17688931,Empleado,4,Excelente,1977954.44,32464594,849
+CLT-20251216-0596,1988050927,Alejandro Parada López,alejandro.parada.lópez@hurtado-perez.biz,+573192342683,1978-09-26,Medellín,14859017,Empleado,7,Regular,8484495.51,44243723,639
+CLT-20251216-0597,1586081231,Jesús Jiménez,jesús.jiménez@rivera.com,+57 606 787 58 57,1992-05-04,Bogotá,6928943,Independiente,1,Excelente,704456.69,22712179,831
+CLT-20251216-0598,1094949900,Camilo Camilo Gómez Velásquez,camilo.camilo.gómez.velásquez@garzon.com,+57 325 298 94 06,1989-08-07,Bogotá,1677524,Pensionado,13,Regular,947215.76,31653147,583
+CLT-20251216-0599,1494158268,Alejandra Rodríguez Arévalo,alejandra.rodríguez.arévalo@garcia.com,(+57)3191497501,1996-03-17,Cali,8941374,Empleado,6,Bueno,2877385.76,48620017,716
+CLT-20251216-0600,1795024339,Judith Delgado,judith.delgado@hernandez-lara.com,573140793110,1999-03-16,Bogotá,11112312,Empleado,7,Regular,5772785.11,11762246,634
+CLT-20251216-0601,1111247194,Karen González López,karen.gonzález.lópez@rodriguez-mora.biz,+576095146723,1974-11-10,Bogotá,18886339,Empleado,22,Bueno,3904219.32,40232764,671
+CLT-20251216-0602,1152134379,Edinson Mario Mejía Acevedo,edinson.mario.mejía.acevedo@navarro.net,+573077441975,1973-07-14,Barranquilla,2710010,Empleado,8,Bueno,897023.67,10565939,695
+CLT-20251216-0603,1498177231,Jhon Benavides,jhon.benavides@guerra-sanchez.com,(+57)3219609409,1968-04-05,Bucaramanga,14758802,Independiente,2,Bueno,3543028.66,1031229,720
+CLT-20251216-0604,1297323455,José Leonel Corredor Correa,josé.leonel.corredor.correa@bejarano.net,+57 323 586 81 22,1992-02-24,Bogotá,11046027,Empleado,8,Regular,5653608.17,39119932,574
+CLT-20251216-0605,1298865449,Pablo Julio Cruz,pablo.julio.cruz@suarez.info,+57 317 929 88 42,1970-06-27,Bogotá,16759180,Empleado,16,Malo,11982501.05,17522628,318
+CLT-20251216-0606,1072552707,William Dario Orozco,william.dario.orozco@gomez.com,301 177 53 31,1988-06-07,Barranquilla,18383555,Pensionado,17,Bueno,7158613.18,34446086,723
+CLT-20251216-0607,1066493225,Juliana Flórez Quiroz,juliana.flórez.quiroz@vargas.info,57 319 025 17 62,1965-05-03,Barranquilla,9893355,Empleado,7,Regular,5868847.91,37793605,649
+CLT-20251216-0608,1466071607,Diana Esther Duarte Torres,diana.esther.duarte.torres@montes.com,(+57)3002056981,1971-12-27,Bogotá,16896398,Empleado,8,Regular,9788163.87,1835474,631
+CLT-20251216-0609,1532764356,Juan Wilson Vallejo,juan.wilson.vallejo@roa.info,+57 325 598 21 76,1996-11-24,Medellín,8894803,Empleado,5,Regular,3966957.86,21188328,551
+CLT-20251216-0610,1320218787,Ramón Jaramillo Hernández,ramón.jaramillo.hernández@gonzalez.com,018005034465,1996-02-27,Bogotá,10336549,Independiente,5,Bueno,2259589.11,45211101,672
+CLT-20251216-0611,1617783670,Shirley Ana Gutiérrez,shirley.ana.gutiérrez@marquez.net,573169081974,1997-04-29,Bucaramanga,17490547,Empleado,10,Bueno,4262677.65,38501202,674
+CLT-20251216-0612,1359210922,María Salazar,maría.salazar@hernandez.com,+576062371990,1974-08-08,Bogotá,18243639,Independiente,6,Regular,8154400.82,16244137,581
+CLT-20251216-0613,1514076961,Orlando Ávila García,orlando.ávila.garcía@ortiz.com,576054783567,1998-06-25,Cali,13446296,Empleado,7,Excelente,286915.15,5267211,847
+CLT-20251216-0614,1573577697,Yuri Rodríguez,yuri.rodríguez@estrada.net,320 662 66 82,1974-04-22,Cartagena,19668850,Empleado,15,Malo,15137188.64,24910577,525
+CLT-20251216-0615,1377730669,Marina Mayerly Riascos,marina.mayerly.riascos@herrera.com,301 903 68 90,1985-12-24,Barranquilla,10718510,Empleado,7,Bueno,4253950.85,34301597,666
+CLT-20251216-0616,1082261164,Shirley Vargas,shirley.vargas@hernandez.com,576078559342,1964-10-29,Bogotá,3316911,Empleado,11,Bueno,944109.54,36290322,737
+CLT-20251216-0617,1531426239,Teresa María Rico,teresa.maría.rico@galvis.com,+573245843845,1974-12-19,Bogotá,7365326,Empleado,22,Bueno,1650375.38,34776158,736
+CLT-20251216-0618,1300415621,María Norma Rueda,maría.norma.rueda@ramirez.net,304 831 52 03,1994-01-16,Bogotá,8571676,Empleado,4,Bueno,1887050.74,24266721,683
+CLT-20251216-0619,1290230887,Augusto Daniel González Sierra,augusto.daniel.gonzález.sierra@fernandez-suarez.com,+576078496706,1963-04-04,Medellín,9457069,Empleado,15,Bueno,3704384.65,23024813,703
+CLT-20251216-0620,1571758865,Martha Rivera,martha.rivera@duran.net,310 954 93 05,1990-04-17,Manizales,13992638,Empleado,4,Bueno,3919597.04,30247910,737
+CLT-20251216-0621,1866935604,Milton Páez Oviedo,milton.páez.oviedo@cortes.com,018007699842,1964-11-04,Bogotá,9169427,Empleado,27,Regular,4989663.75,15824617,568
+CLT-20251216-0622,1301399464,Felipe Ángel Moreno,felipe.ángel.moreno@angarita.net,3159609454,1961-12-28,Barranquilla,6518000,Empleado,28,Bueno,1316300.05,28287773,716
+CLT-20251216-0623,1133472999,Adolfo Arrieta,adolfo.arrieta@jaramillo-ruiz.com,573077070705,1961-10-18,Medellín,19417482,Empleado,27,Regular,10816830.43,20134953,600
+CLT-20251216-0624,1296831273,Leonardo Jaime Parra Murillo,leonardo.jaime.parra.murillo@caicedo.com,(+57) 304 723 22 90,1966-05-16,Bogotá,4821043,Empleado,20,Regular,1986304.79,17065091,645
+CLT-20251216-0625,1340735257,Luz María Duque Estrada,luz.maría.duque.estrada@cortes.com,+57 304 058 09 35,2000-06-02,Bogotá,12729210,Pensionado,4,Bueno,3463125.62,37412620,702
+CLT-20251216-0626,1219088340,María Inés Palacios,maría.inés.palacios@jaramillo-salcedo.biz,(+57)6066642059,1977-01-31,Cali,5568055,Empleado,18,Bueno,1870405.28,40639519,718
+CLT-20251216-0627,1667777623,Efrain Rivera Valderrama,efrain.rivera.valderrama@perez.com,(+57) 609 990 19 35,1980-12-19,Barranquilla,7356551,Empleado,15,Malo,4832678.33,21816439,414
+CLT-20251216-0628,1409191906,Danny Eduardo Murillo,danny.eduardo.murillo@garcia.com,+57 329 868 18 09,1971-03-04,Bogotá,4130919,Pensionado,27,Bueno,1062904.94,42393487,693
+CLT-20251216-0629,1314676472,Álvaro Rafael Ruiz Ramírez,álvaro.rafael.ruiz.ramírez@valencia.com,(+57)3251376515,2000-02-07,Bogotá,15653812,Empleado,5,Regular,8051186.22,4787820,590
+CLT-20251216-0630,1844287643,Ester Teresa Calderón,ester.teresa.calderón@torres-nino.com,018003692944,1991-07-06,Barranquilla,11276296,Empleado,14,Regular,5875818.43,26538557,596
+CLT-20251216-0631,1618487909,Alexander Andrés Salazar,alexander.andrés.salazar@barrera-perdomo.com,(+57)3202164871,1971-01-21,Cali,18979701,Independiente,4,Malo,12959298.32,12340393,469
+CLT-20251216-0632,1078398946,Edilma Palacio Rodríguez,edilma.palacio.rodríguez@molina.biz,573252683415,1972-04-26,Bogotá,9943872,Empleado,12,Malo,7359851.31,5373053,316
+CLT-20251216-0633,1079191190,William Mario Portilla,william.mario.portilla@caceres.info,573247229812,1964-01-14,Bogotá,17377480,Empleado,2,Bueno,3567127.15,26643059,729
+CLT-20251216-0634,1407350359,Stella Arias,stella.arias@mendoza-palacios.org,(+57) 301 347 50 98,1991-10-27,Cali,6710143,Empleado,7,Excelente,1250219.86,26162136,806
+CLT-20251216-0635,1045026751,Jorge Flórez Uribe,jorge.flórez.uribe@nieto.com,+573115421447,1970-09-14,Cartagena,5741673,Empleado,11,Excelente,962898.98,1917387,791
+CLT-20251216-0636,1992691339,David Juan Rico Muñoz,david.juan.rico.muñoz@soto.com,(+57)3088209088,1968-03-06,Pereira,17477101,Empleado,4,Bueno,6539575.62,18281422,739
+CLT-20251216-0637,1457953635,María Marta Rodríguez Ramírez,maría.marta.rodríguez.ramírez@marin.com,57 605 276 74 12,1999-10-29,Medellín,19595488,Independiente,6,Excelente,2341990.8,42348882,831
+CLT-20251216-0638,1351237825,Rodrigo Alfredo Torres,rodrigo.alfredo.torres@palacios.info,+57 321 506 18 53,1966-01-06,Medellín,19410823,Empleado,2,Bueno,5229929.09,36216514,696
+CLT-20251216-0639,1146968057,Cielo Pineda,cielo.pineda@rivera.com,322 727 42 31,1977-09-10,Barranquilla,15331264,Empleado,24,Bueno,3997084.1,6197,694
+CLT-20251216-0640,1041674854,María María Velásquez Rojas,maría.maría.velásquez.rojas@pacheco-avila.org,57 305 782 43 47,1973-01-29,Bogotá,11122144,Pensionado,15,Bueno,2242929.62,33012974,748
+CLT-20251216-0641,1235074866,Ernesto Jhon Mosquera Ramos,ernesto.jhon.mosquera.ramos@corredor.biz,+573253612751,1967-07-12,Medellín,15943012,Empleado,6,Regular,8280812.4,484390,621
+CLT-20251216-0642,1902072866,Gustavo Hernando Perdomo,gustavo.hernando.perdomo@agudelo-pacheco.com,3148360854,1993-11-16,Bogotá,16166855,Empleado,13,Bueno,3761281.85,49467141,683
+CLT-20251216-0643,1979648466,Camilo Anderson Salazar,camilo.anderson.salazar@ortiz.com,(+57)3104763928,1978-09-12,Bogotá,4157837,Independiente,21,Bueno,1030779.2,41152243,733
+CLT-20251216-0644,1649572144,Ligia Luz Bolaños León,ligia.luz.bolaños.león@rodriguez.com,(+57)3158108358,1969-10-01,Bogotá,19349087,Empleado,9,Regular,9337497.41,4594538,608
+CLT-20251216-0645,1860373645,Jacqueline Yuliana Medina Becerra,jacqueline.yuliana.medina.becerra@vallejo.biz,(+57)3083000818,1980-09-14,Bogotá,16692347,Empleado,4,Bueno,5417513.84,12602336,718
+CLT-20251216-0646,1246966247,Johan Gómez Gutiérrez,johan.gómez.gutiérrez@perdomo.com,+57 316 241 11 86,1962-08-10,Cali,2242589,Empleado,14,Excelente,45871.48,18065379,779
+CLT-20251216-0647,1102603195,María Serrano,maría.serrano@fernandez.com,+573168044731,1971-04-17,Barranquilla,4526508,Empleado,25,Excelente,446838.36,22945383,797
+CLT-20251216-0648,1312715124,Eugenio Escobar,eugenio.escobar@lopez-parada.net,(+57) 307 488 36 07,1986-08-01,Bogotá,17058668,Independiente,4,Regular,6931745.8,5383680,649
+CLT-20251216-0649,1240583512,Efrén Castellanos Forero,efrén.castellanos.forero@bastidas.com,329 145 21 18,1991-09-26,Barranquilla,14667489,Independiente,8,Excelente,1379174.53,12897806,751
+CLT-20251216-0650,1151752540,Sandra Valderrama Vega,sandra.valderrama.vega@garzon-ortega.org,300 746 45 20,1966-09-01,Bogotá,5592350,Independiente,14,Malo,4154760.96,25823349,308
+CLT-20251216-0651,1741308499,Santiago Francisco Bohórquez,santiago.francisco.bohórquez@tovar.net,57 325 357 78 81,1979-03-16,Medellín,8183367,Empleado,6,Bueno,2898541.99,34973054,737
+CLT-20251216-0652,1174046155,Fernanda María Hernández,fernanda.maría.hernández@zambrano.com,576097672872,1961-11-19,Medellín,11972652,Empleado,29,Malo,7563391.11,48871163,331
+CLT-20251216-0653,1561008736,José González Barragán,josé.gonzález.barragán@garzon-arias.com,(+57) 605 848 39 58,1979-05-29,Cali,9999765,Independiente,27,Bueno,2597565.12,24187823,664
+CLT-20251216-0654,1176349437,Alberto Enrique Cano Orjuela,alberto.enrique.cano.orjuela@forero.com,(+57) 602 971 04 33,1970-03-02,Bogotá,9417699,Independiente,18,Regular,4378313.67,11231363,581
+CLT-20251216-0655,1683268661,Enrique Andrés Correa Sánchez,enrique.andrés.correa.sánchez@loaiza.com,(+57) 304 694 59 64,1984-10-21,Bogotá,1799636,Empleado,19,Malo,1288927.03,46355542,497
+CLT-20251216-0656,1605225064,María Ana Ariza Castro,maría.ana.ariza.castro@hernandez.org,+57 315 999 49 73,1978-11-07,Pereira,4502447,Empleado,29,Bueno,1350661.35,46032965,747
+CLT-20251216-0657,1153902993,María Moreno Rojas,maría.moreno.rojas@acosta.com,(+57)6065028767,1970-12-05,Bogotá,3515022,Empleado,3,Excelente,453138.99,47065334,779
+CLT-20251216-0658,1381169366,Paola Elena Perdomo,paola.elena.perdomo@velasco-ruiz.com,(+57)3024268774,1993-03-31,Cali,12128015,Independiente,7,Malo,9189546.93,23308098,305
+CLT-20251216-0659,1930009065,Yaneth Marina Romero,yaneth.marina.romero@ordonez-fuentes.com,573239836520,1962-09-05,Medellín,14175822,Empleado,14,Bueno,3217152.26,2650031,719
+CLT-20251216-0660,1978222564,Inés Lina Rodríguez Álvarez,inés.lina.rodríguez.álvarez@ceballos-mora.com,(+57) 300 476 04 40,1967-05-13,Bogotá,17944758,Empleado,14,Excelente,669794.3,23331381,826
+CLT-20251216-0661,1526456141,Libia Chaparro,libia.chaparro@ortega.net,603 205 09 22,1991-11-20,Medellín,6880232,Independiente,11,Excelente,213322.25,19842256,849
+CLT-20251216-0662,1337408933,Wilmer González Marín,wilmer.gonzález.marín@andrade.com,6017552958,1965-03-14,Barranquilla,18477124,Empleado,11,Bueno,4381052.82,1256268,680
+CLT-20251216-0663,1158391889,Jair Camacho Martínez,jair.camacho.martínez@ortiz.org,+573086204485,1995-02-01,Medellín,12260708,Independiente,3,Regular,6518502.07,36168759,613
+CLT-20251216-0664,1998872869,Carolina Amparo Benavides,carolina.amparo.benavides@lopez-prada.com,425 90 20,1999-06-27,Medellín,6671795,Empleado,1,Regular,3099182.27,43010334,558
+CLT-20251216-0665,1899052967,Miguel Samuel Barbosa,miguel.samuel.barbosa@bedoya.com,573106424295,1981-11-25,Bogotá,2968921,Empleado,15,Regular,1264626.31,2098746,554
+CLT-20251216-0666,1316681193,David Díaz Loaiza,david.díaz.loaiza@benavides-ortiz.info,319 558 72 09,1973-01-04,Bogotá,14539212,Empleado,1,Regular,7344690.45,47064387,627
+CLT-20251216-0667,1372504153,Carlos Jaramillo Chacón,carlos.jaramillo.chacón@arrieta.net,01 8004 183 437,1990-06-25,Medellín,3878135,Empleado,2,Excelente,714379.78,44006594,831
+CLT-20251216-0668,1510252663,José González,josé.gonzález@correa.com,+57 319 051 50 26,1973-08-23,Cali,3536760,Independiente,25,Bueno,1233252.25,27914146,728
+CLT-20251216-0669,1174746805,Enrique Augusto López Barreto,enrique.augusto.lópez.barreto@vasquez-espinosa.info,(+57)3299667345,1981-10-19,Pereira,10419292,Empleado,6,Bueno,3614036.33,20394689,662
+CLT-20251216-0670,1819450756,Jairo Diego Gómez,jairo.diego.gómez@gonzalez.org,(+57) 319 028 24 98,1976-11-25,Bogotá,4896551,Empleado,21,Regular,2479281.49,12714473,630
+CLT-20251216-0671,1097064811,Damaris Amparo Hernández Vergara,damaris.amparo.hernández.vergara@alzate-hernandez.com,(+57)3262702324,1964-08-14,Bogotá,7502817,Independiente,18,Bueno,2338090.27,7080936,708
+CLT-20251216-0672,1468740794,Andrés Moreno,andrés.moreno@vanegas.net,57 310 725 17 86,1974-10-17,Bogotá,15830258,Empleado,16,Regular,6860230.11,12106206,570
+CLT-20251216-0673,1416154320,Aida Nelly Serrano Toro,aida.nelly.serrano.toro@ruiz.biz,+573146968157,1967-06-24,Cúcuta,19414727,Pensionado,17,Malo,13369028.27,23644068,383
+CLT-20251216-0674,1396353078,Martha León,martha.león@herrera-bravo.org,(+57) 311 327 30 34,1976-12-16,Medellín,13972837,Empleado,7,Bueno,4564201.56,48712155,677
+CLT-20251216-0675,1305977902,Luis Flórez Díaz,luis.flórez.díaz@giraldo-pinto.com,+57 306 226 81 71,1971-03-20,Medellín,14085028,Empleado,14,Regular,8242972.27,17051632,600
+CLT-20251216-0676,1172747645,Santiago Luis Prieto,santiago.luis.prieto@hernandez-palacios.info,5766046,1961-10-15,Cúcuta,1506564,Empleado,4,Regular,898802.97,39980966,588
+CLT-20251216-0677,1838596152,Karen Yenny Cardona,karen.yenny.cardona@amaya-meza.com,57 601 626 86 12,1986-04-30,Bucaramanga,1720413,Empleado,8,Bueno,420429.95,21132895,715
+CLT-20251216-0678,1466957486,Alberto Guerra,alberto.guerra@restrepo.com,57 327 509 54 65,1991-12-02,Cartagena,6691366,Empleado,11,Excelente,616100.57,10476170,781
+CLT-20251216-0679,1191907920,Brayan Rodríguez,brayan.rodríguez@mosquera-rodriguez.com,573109150863,1979-02-22,Cali,9317986,Empleado,6,Bueno,2423239.97,38284745,742
+CLT-20251216-0680,1462890681,María López Bonilla,maría.lópez.bonilla@herrera-cruz.org,57 308 970 15 50,1994-07-15,Bucaramanga,12394857,Independiente,13,Regular,5386563.13,46277943,626
+CLT-20251216-0681,1410075954,Angie Vanegas Guerra,angie.vanegas.guerra@puentes.com,573260241613,1967-11-03,Bucaramanga,11579525,Empleado,1,Excelente,1872041.36,25605126,792
+CLT-20251216-0682,1917237134,Leider Garzón,leider.garzón@velez.com,323 642 48 09,1997-08-24,Cali,13174600,Independiente,3,Regular,6414197.34,8089337,627
+CLT-20251216-0683,1222410957,Wilmar Buitrago Ortiz,wilmar.buitrago.ortiz@ocampo.com,(+57) 304 795 13 30,1988-08-31,Bogotá,1883674,Empleado,1,Regular,991638.94,3632465,622
+CLT-20251216-0684,1631268027,David Mario Padilla,david.mario.padilla@acevedo-valencia.biz,328 055 55 72,1992-04-21,Pereira,6519072,Empleado,12,Bueno,2213575.22,10280909,746
+CLT-20251216-0685,1274547837,Edison César Lozano Pérez,edison.césar.lozano.pérez@gomez-melo.com,57 328 513 85 44,1987-07-03,Bogotá,18435906,Empleado,10,Excelente,1592625.08,26462528,823
+CLT-20251216-0686,1179029593,Daniel Felipe Sánchez,daniel.felipe.sánchez@romero.com,3187368269,2000-10-05,Barranquilla,3154605,Empleado,2,Bueno,796574.34,26744696,711
+CLT-20251216-0687,1310686099,Luz Sandra Ángel,luz.sandra.ángel@leal.biz,01 8006 536 945,1999-10-18,Bogotá,8147419,Empleado,8,Bueno,2692312.06,13160001,659
+CLT-20251216-0688,1539345534,Víctor Hernán Pacheco,víctor.hernán.pacheco@lozano.info,3172264085,1982-08-01,Medellín,10434105,Empleado,21,Regular,4848544.2,38655929,596
+CLT-20251216-0689,1449113543,Pablo Héctor López Murillo,pablo.héctor.lópez.murillo@diaz-gomez.com,+57 607 199 81 99,1989-05-29,Bogotá,13187272,Empleado,9,Excelente,908668.74,43983811,794
+CLT-20251216-0690,1397602212,Ricardo Juan Pineda,ricardo.juan.pineda@villamizar.biz,01 8008 327 532,1967-02-23,Bogotá,16338108,Empleado,11,Regular,7974511.0,15669221,643
+CLT-20251216-0691,1222272362,Eder Ever Ruiz Jiménez,eder.ever.ruiz.jiménez@restrepo.com,573078195237,1963-01-22,Barranquilla,4379454,Pensionado,27,Excelente,47769.34,41674768,786
+CLT-20251216-0692,1504883307,María María Buitrago,maría.maría.buitrago@garcia-guerrero.com,018001980770,1996-04-29,Bogotá,1960812,Empleado,0,Bueno,707571.08,20476125,744
+CLT-20251216-0693,1390169075,Eliecer Salcedo,eliecer.salcedo@becerra-molina.info,573211249125,1963-09-03,Cali,19552467,Empleado,19,Bueno,6047281.68,17358244,668
+CLT-20251216-0694,1225577036,Pablo Sánchez Vargas,pablo.sánchez.vargas@lopez-bedoya.com,(+57)3273454757,1993-10-18,Bogotá,2117016,Empleado,2,Bueno,807023.56,35352888,675
+CLT-20251216-0695,1158939532,Julián Hurtado,julián.hurtado@gutierrez.com,3142947742,1970-06-27,Bogotá,10602695,Empleado,21,Excelente,1388439.6,559297,834
+CLT-20251216-0696,1030069819,Patricia Jiménez Flórez,patricia.jiménez.flórez@orozco.org,3458867,1976-06-19,Medellín,13586948,Empleado,12,Regular,5486622.44,43581244,640
+CLT-20251216-0697,1401968761,Armando William Sierra,armando.william.sierra@leal-reyes.com,(+57) 327 276 01 53,1996-07-27,Bogotá,4842145,Empleado,2,Malo,3374647.88,40071132,547
+CLT-20251216-0698,1697928604,Alberto Sánchez,alberto.sánchez@mosquera.org,2833506,1969-02-04,Bogotá,16867468,Empleado,16,Bueno,5777003.85,2667738,712
+CLT-20251216-0699,1936963884,Alfonso Fernando Burgos,alfonso.fernando.burgos@manrique.info,(+57) 323 342 33 72,1997-07-20,Bogotá,14700307,Empleado,10,Regular,5934138.27,45923357,614
+CLT-20251216-0700,1098096189,Janneth Ortiz,janneth.ortiz@diaz.com,(+57) 324 033 39 97,1979-11-03,Cúcuta,10756938,Independiente,26,Regular,5649097.13,25982578,621
+CLT-20251216-0701,1210910630,Luis Walter Martínez Angulo,luis.walter.martínez.angulo@gonzalez-garcia.com,601 789 39 74,1965-12-05,Cali,10901745,Empleado,2,Bueno,2925562.1,26363488,716
+CLT-20251216-0702,1865184508,Consuelo Inés Franco,consuelo.inés.franco@avila.biz,(+57) 307 258 78 44,2001-01-13,Bogotá,9131216,Pensionado,4,Bueno,2872495.29,28619581,719
+CLT-20251216-0703,1727827896,Oswaldo Vargas,oswaldo.vargas@mora.com,57 320 587 72 21,1979-09-10,Cartagena,5921539,Empleado,6,Bueno,1348425.06,36329640,689
+CLT-20251216-0704,1684921630,Fredy López Prieto,fredy.lópez.prieto@montoya.com,(+57)3048458714,1984-04-05,Bucaramanga,19075995,Empleado,18,Malo,13086377.88,9741012,381
+CLT-20251216-0705,1915211668,Alexandra Ana Sánchez Castañeda,alexandra.ana.sánchez.castañeda@leon.com,(+57) 327 964 34 74,1972-08-24,Cartagena,3775461,Empleado,26,Bueno,1471373.84,7944836,743
+CLT-20251216-0706,1482870156,Carlos Enrique Mosquera,carlos.enrique.mosquera@salazar-medina.biz,5606527,1982-06-01,Medellín,2489296,Pensionado,9,Regular,1433900.16,27785764,631
+CLT-20251216-0707,1316535751,Amanda Ramírez,amanda.ramírez@rodriguez-osorio.biz,+573188339874,1978-05-17,Manizales,10687074,Empleado,24,Excelente,401692.06,8827894,828
+CLT-20251216-0708,1504520959,María Ana Vanegas,maría.ana.vanegas@ocampo.info,57 304 996 01 05,2001-04-22,Bogotá,10454423,Empleado,5,Regular,5462147.52,40021088,560
+CLT-20251216-0709,1119218400,Ángel Mendoza,ángel.mendoza@hernandez-zambrano.com,3222949381,1980-04-19,Bogotá,17492116,Independiente,11,Excelente,2960149.64,31458185,799
+CLT-20251216-0710,1877579923,Antonio Fabián Castellanos Muñoz,antonio.fabián.castellanos.muñoz@barrios-hernandez.com,+573157325737,1997-02-03,Bucaramanga,17990177,Empleado,0,Bueno,4187344.58,15184928,702
+CLT-20251216-0711,1648128701,Enrique Pedro Rueda,enrique.pedro.rueda@saavedra.biz,(+57) 317 080 85 09,1978-05-02,Pereira,8967680,Empleado,29,Regular,5359522.15,13727930,606
+CLT-20251216-0712,1848403687,Aldair Olaya Arboleda,aldair.olaya.arboleda@rincon.com,881 82 81,1983-03-20,Bogotá,17939755,Empleado,24,Regular,10285847.89,16561383,644
+CLT-20251216-0713,1954938502,Leonor Jenny Mejía Castro,leonor.jenny.mejía.castro@sanchez.org,(+57)3178606940,1991-09-01,Cali,14263239,Empleado,16,Regular,6829668.75,49826174,640
+CLT-20251216-0714,1918666268,José Torres Osorio,josé.torres.osorio@orozco.net,(+57)3239592323,1978-07-28,Medellín,2792247,Independiente,7,Bueno,810650.51,2846483,700
+CLT-20251216-0715,1906987914,Juan Rodríguez,juan.rodríguez@patino.com,(+57)6037553334,2001-12-01,Bogotá,2817065,Pensionado,1,Bueno,854205.48,42322107,700
+CLT-20251216-0716,1029309334,David Villegas,david.villegas@monsalve.com,+57 310 736 07 76,1985-02-20,Bucaramanga,11719141,Empleado,19,Regular,5357791.08,11172726,638
+CLT-20251216-0717,1544068557,Sandra Liliana Aguilar López,sandra.liliana.aguilar.lópez@vanegas.com,57 329 556 33 18,1972-11-15,Medellín,18846622,Empleado,23,Malo,13055352.66,43359138,346
+CLT-20251216-0718,1007790637,Jairo Alfonso Garcés,jairo.alfonso.garcés@arenas-castillo.com,315 416 43 16,1962-01-21,Medellín,19834380,Empleado,14,Excelente,1640538.48,30258437,841
+CLT-20251216-0719,1151113932,José Ciro Padilla Burbano,josé.ciro.padilla.burbano@diaz.com,(+57) 322 270 09 34,1964-01-17,Cali,8275713,Empleado,29,Regular,3459545.4,21748290,570
+CLT-20251216-0720,1556842161,Edwin Emilio Guerrero,edwin.emilio.guerrero@villamizar.com,57 311 207 34 65,1972-11-03,Cali,5645456,Empleado,16,Excelente,797394.36,42551879,843
+CLT-20251216-0721,1356033513,Edwin Gómez,edwin.gómez@campo.com,3208698221,1962-09-19,Bogotá,18668677,Empleado,24,Regular,8064493.86,36933087,592
+CLT-20251216-0722,1071216706,Carolina Torres,carolina.torres@tamayo.biz,018007290477,1989-07-13,Bogotá,6536175,Empleado,9,Excelente,189035.82,47784698,848
+CLT-20251216-0723,1658858259,Carlos Hoyos,carlos.hoyos@becerra.org,+573023822311,1985-11-01,Cali,16473941,Pensionado,0,Bueno,3890143.34,8829582,682
+CLT-20251216-0724,1198241468,Jorge Garzón Vargas,jorge.garzón.vargas@navarro.org,(+57) 328 942 56 52,1978-01-06,Cartagena,1909624,Independiente,19,Bueno,708627.5,36473745,680
+CLT-20251216-0725,1852760232,Katherine Vera,katherine.vera@gonzales.com,576088326509,1964-03-23,Cali,8777078,Empleado,19,Bueno,2590487.85,27524792,681
+CLT-20251216-0726,1485443094,Juan Ignacio Manrique,juan.ignacio.manrique@cardenas.net,+573214855245,1988-07-24,Bogotá,19865736,Empleado,4,Bueno,6470808.28,13934323,694
+CLT-20251216-0727,1282247375,Hugo Miguel López Zuluaga,hugo.miguel.lópez.zuluaga@ocampo.com,018002137118,1996-04-12,Bogotá,2732154,Independiente,4,Excelente,17721.89,38795145,761
+CLT-20251216-0728,1468327642,Luis Romero,luis.romero@bustamante.net,573068323035,1991-10-03,Pereira,3145219,Empleado,5,Excelente,625102.95,10827023,845
+CLT-20251216-0729,1389399078,Blanca Contreras Gómez,blanca.contreras.gómez@moreno.com,3012932896,1997-03-28,Barranquilla,13585925,Empleado,6,Malo,8404596.35,20085312,494
+CLT-20251216-0730,1452328921,Isabel Carol Núñez Jiménez,isabel.carol.núñez.jiménez@correa-hernandez.com,2148439,1996-06-18,Cartagena,15838608,Empleado,11,Regular,6541110.27,31595983,592
+CLT-20251216-0731,1883089574,Myriam Hernández,myriam.hernández@cabrera.biz,3066933513,1993-09-07,Medellín,19184955,Empleado,1,Bueno,4642165.79,14029173,730
+CLT-20251216-0732,1721895231,Carlos Castillo,carlos.castillo@rojas.com,+573101848197,2000-10-30,Medellín,19248503,Empleado,4,Malo,13411059.48,46214806,517
+CLT-20251216-0733,1165009000,Sofía Milena Hernández Villamizar,sofía.milena.hernández.villamizar@rangel.com,(+57) 300 641 76 92,1991-11-17,Cali,12119593,Empleado,4,Bueno,3818017.66,41825206,713
+CLT-20251216-0734,1928878021,Fabio David López Bolívar,fabio.david.lópez.bolívar@moreno-gaitan.info,573260144485,2001-09-21,Cali,18938432,Independiente,1,Regular,9460660.05,12073369,574
+CLT-20251216-0735,1108588563,Hernán Vargas Mosquera,hernán.vargas.mosquera@arevalo.org,573241789969,1961-11-02,Barranquilla,1553046,Independiente,6,Excelente,144397.75,7913861,803
+CLT-20251216-0736,1618073204,José González Velasco,josé.gonzález.velasco@gonzalez.com,3260577980,1967-09-01,Bogotá,15392915,Empleado,20,Excelente,1076426.68,42782138,786
+CLT-20251216-0737,1231970687,Eliecer Méndez Castaño,eliecer.méndez.castaño@diaz.com,3207455534,1962-09-14,Bogotá,10036835,Empleado,24,Regular,4632546.46,34003365,637
+CLT-20251216-0738,1224821156,Stiven Alexander Bermúdez Acevedo,stiven.alexander.bermúdez.acevedo@fuentes.biz,312 715 59 83,1971-11-20,Bogotá,12683118,Pensionado,26,Bueno,4374145.22,41338613,692
+CLT-20251216-0739,1335999953,Néstor Luis Camargo,néstor.luis.camargo@zapata.com,57 325 575 22 50,1988-08-03,Medellín,12839279,Independiente,4,Malo,8933848.36,31843186,460
+CLT-20251216-0740,1318046292,Diana Lucía Mora,diana.lucía.mora@montoya.com,919 64 25,1999-02-05,Bucaramanga,16955773,Empleado,6,Regular,8603249.16,22488828,557
+CLT-20251216-0741,1658654741,Jhon Ever López,jhon.ever.lópez@manrique.com,57 308 240 73 33,1980-12-16,Bogotá,18984316,Empleado,0,Bueno,6549452.92,21173037,737
+CLT-20251216-0742,1920767267,Marina Mariana Sánchez Jiménez,marina.mariana.sánchez.jiménez@ramos.org,+573062896964,1962-05-16,Bogotá,12630652,Empleado,4,Regular,7295539.04,23729395,553
+CLT-20251216-0743,1343763518,Rodrigo Fernando Arias,rodrigo.fernando.arias@mosquera.com,018009218785,1976-12-05,Bogotá,12880066,Empleado,12,Malo,9341939.81,11138023,329
+CLT-20251216-0744,1881625287,Lilia Angie Pinzón,lilia.angie.pinzón@restrepo.com,(+57)3297796120,1998-08-30,Medellín,11844207,Empleado,1,Regular,5482682.0,2122533,580
+CLT-20251216-0745,1068479854,Julio Andrés Romero Salas,julio.andrés.romero.salas@mosquera.com,6085976263,1971-01-08,Bogotá,13968275,Empleado,5,Bueno,5449657.54,14504901,654
+CLT-20251216-0746,1437165399,Enrique Jaramillo,enrique.jaramillo@castaneda.org,+573109059119,1995-07-11,Bogotá,8281297,Independiente,8,Malo,5703783.21,1673344,387
+CLT-20251216-0747,1645883049,Mónica Dora Ardila,mónica.dora.ardila@perea.info,57 607 751 16 96,1977-11-20,Bogotá,17722626,Empleado,27,Regular,8945062.9,21967278,616
+CLT-20251216-0748,1943888359,Carlos Javier López Mosquera,carlos.javier.lópez.mosquera@sierra-diaz.biz,+573035157184,1990-03-30,Bogotá,5953248,Independiente,16,Bueno,1234170.86,26010604,689
+CLT-20251216-0749,1063507748,Estella Martínez,estella.martínez@arias.net,6056409,1998-11-14,Bogotá,2977400,Empleado,0,Regular,1544846.37,5843564,648
+CLT-20251216-0750,1574681649,Magaly Diana Beltrán,magaly.diana.beltrán@obando.com,57 319 272 82 70,1973-04-30,Bogotá,11985115,Independiente,10,Excelente,1818127.13,42872554,786
+CLT-20251216-0751,1866729585,Nataly Campo,nataly.campo@betancur-gonzalez.com,(+57) 322 173 92 95,1969-02-21,Bogotá,10782818,Empleado,4,Bueno,3823128.12,45038372,664
+CLT-20251216-0752,1718016609,Octavio Iván Giraldo Cardona,octavio.iván.giraldo.cardona@martinez.info,+573060507918,1968-11-16,Medellín,2011930,Empleado,11,Malo,1432343.57,6870289,369
+CLT-20251216-0753,1753987850,Vanessa Cecilia Silva,vanessa.cecilia.silva@guzman.com,+573127346666,2000-02-03,Bogotá,6249858,Empleado,1,Malo,4754895.51,38526054,528
+CLT-20251216-0754,1654620914,Esther Esther Ruiz,esther.esther.ruiz@suarez-angel.com,+576093803149,1993-11-25,Bogotá,12866191,Empleado,10,Bueno,2703768.75,1945666,699
+CLT-20251216-0755,1413284726,Gabriel Sebastián Gómez,gabriel.sebastián.gómez@romero.com,573288285031,1981-07-28,Cali,3305224,Empleado,18,Excelente,259074.54,47290112,838
+CLT-20251216-0756,1531797707,Rolando Gregorio Amaya García,rolando.gregorio.amaya.garcía@jaramillo.com,576063631403,1974-10-24,Barranquilla,16459782,Independiente,21,Regular,7612453.8,13297429,560
+CLT-20251216-0757,1167427481,Arley Arias Velasco,arley.arias.velasco@carvajal.com,573294346066,1964-01-02,Bogotá,17126143,Empleado,14,Bueno,3743487.74,46882212,732
+CLT-20251216-0758,1272113539,Fernando Galeano Ayala,fernando.galeano.ayala@rodriguez.info,+57 602 331 11 27,1994-03-07,Bogotá,17116117,Independiente,9,Bueno,6666550.49,9644998,696
+CLT-20251216-0759,1305808958,Juan Gabriel Pedraza,juan.gabriel.pedraza@gutierrez.com,(+57) 313 187 32 80,1988-01-21,Medellín,14655918,Independiente,10,Excelente,2688670.43,22167933,753
+CLT-20251216-0760,1818772601,Jairo Luis Gómez Giraldo,jairo.luis.gómez.giraldo@arevalo.info,(+57) 606 179 08 33,1966-08-25,Barranquilla,3693292,Independiente,9,Bueno,998253.11,30953405,727
+CLT-20251216-0761,1989817920,Emilia Herrera,emilia.herrera@romero.com,(+57) 316 248 13 23,1978-01-09,Medellín,5774633,Independiente,10,Bueno,1623464.13,47934055,659
+CLT-20251216-0762,1905617801,Pablo Óscar Bohórquez,pablo.óscar.bohórquez@agudelo.net,3028501168,1965-09-05,Medellín,11637402,Empleado,7,Bueno,3260372.89,27745616,711
+CLT-20251216-0763,1397684067,Natalia Pérez,natalia.pérez@sanchez.com,2609069,1982-11-05,Manizales,14378743,Empleado,25,Excelente,598840.56,46577568,822
+CLT-20251216-0764,1613634721,Mery María Vásquez Rodríguez,mery.maría.vásquez.rodríguez@florez.com,57 329 457 72 78,1993-05-18,Bucaramanga,12982354,Empleado,11,Bueno,3209638.59,44467155,723
+CLT-20251216-0765,1276178153,David Jorge Ariza,david.jorge.ariza@morales.biz,573120768362,1987-05-24,Bogotá,17828603,Empleado,14,Excelente,2125438.67,21835754,801
+CLT-20251216-0766,1787535182,Alberto Diego Loaiza,alberto.diego.loaiza@marin-giraldo.com,(+57)3156283333,1992-04-19,Bogotá,3835644,Independiente,12,Bueno,1293002.25,40024089,732
+CLT-20251216-0767,1588631184,Danna Dora Páez Morales,danna.dora.páez.morales@rivera-suarez.biz,(+57) 607 171 87 49,1992-06-28,Barranquilla,3563001,Pensionado,0,Excelente,582218.3,38974673,834
+CLT-20251216-0768,1463624345,Sandra Esperanza Sánchez Flórez,sandra.esperanza.sánchez.flórez@barbosa.com,+57 319 249 26 93,1996-03-04,Bogotá,6506872,Empleado,3,Bueno,1680729.27,41310348,690
+CLT-20251216-0769,1818857275,Adriana Correa Salas,adriana.correa.salas@ruiz-saavedra.org,(+57) 320 111 00 05,1969-11-03,Medellín,11557448,Pensionado,29,Bueno,4422351.76,20438013,694
+CLT-20251216-0770,1228719736,Lucía Susana Ramírez,lucía.susana.ramírez@sepulveda-morales.com,+573275244182,1971-03-17,Cartagena,4495988,Empleado,4,Bueno,1449048.62,34253966,657
+CLT-20251216-0771,1169952308,Ana González Chávez,ana.gonzález.chávez@cortes.com,57 608 727 10 26,1988-11-01,Bogotá,13889064,Independiente,11,Malo,11022082.07,56593,372
+CLT-20251216-0772,1628022146,Juan José Pacheco Figueroa,juan.josé.pacheco.figueroa@diaz.org,315 151 22 94,1990-12-18,Medellín,2546386,Empleado,12,Bueno,866902.79,26458899,705
+CLT-20251216-0773,1680991511,Richard González Betancur,richard.gonzález.betancur@jimenez-alzate.com,319 709 96 25,1974-05-16,Barranquilla,19791151,Empleado,12,Bueno,4644627.32,9332753,696
+CLT-20251216-0774,1970963114,Juan Castro,juan.castro@rincon.com,57 304 476 50 47,1996-05-16,Bogotá,15500100,Empleado,0,Excelente,3092133.68,44967373,752
+CLT-20251216-0775,1788815055,Claudia María Bohórquez,claudia.maría.bohórquez@rodriguez.biz,+57 310 465 58 66,1961-09-07,Bogotá,6331700,Pensionado,4,Regular,3149009.37,29308797,632
+CLT-20251216-0776,1524877670,Carlos Javier Muñoz,carlos.javier.muñoz@ortiz-caro.com,+573181021312,1974-01-31,Cali,15453793,Empleado,13,Regular,8943364.9,46666867,608
+CLT-20251216-0777,1927380508,Andrés Julián Moreno,andrés.julián.moreno@rodriguez.com,(+57)6021297519,1966-11-27,Medellín,18593128,Empleado,5,Bueno,6768164.19,25817767,650
+CLT-20251216-0778,1771219787,Diana Cano García,diana.cano.garcía@rodriguez.com,(+57)3001658373,1967-03-14,Medellín,18215373,Empleado,29,Regular,8148646.99,33670450,596
+CLT-20251216-0779,1475148289,Ricardo Juan Gutiérrez Buitrago,ricardo.juan.gutiérrez.buitrago@palacios.com,+573042893113,1965-02-15,Medellín,2622794,Empleado,18,Malo,1871704.26,47303866,476
+CLT-20251216-0780,1682144873,Miriam Tovar Torres,miriam.tovar.torres@jimenez.com,573245380442,1987-10-25,Medellín,4186472,Empleado,2,Excelente,612307.69,18751583,828
+CLT-20251216-0781,1665553914,María Esther Pabón,maría.esther.pabón@garcia-cabrera.info,5159591,1965-01-25,Cali,4467767,Pensionado,2,Bueno,1457084.33,44542631,719
+CLT-20251216-0782,1322387947,Daniel Alfredo Ramos,daniel.alfredo.ramos@alvarez-anaya.com,309 205 67 75,1994-12-17,Medellín,11985750,Independiente,7,Regular,6960329.44,35905474,610
+CLT-20251216-0783,1792270274,Miguel Maldonado Cárdenas,miguel.maldonado.cárdenas@guerrero-rodriguez.com,+573162650622,1970-08-17,Cali,12623763,Empleado,1,Bueno,4949982.74,19771475,726
+CLT-20251216-0784,1362189456,Sandra Rodríguez Ortega,sandra.rodríguez.ortega@rodriguez.com,573184337976,1979-05-24,Bogotá,11702924,Empleado,18,Regular,6000571.93,4121676,556
+CLT-20251216-0785,1379427505,Dairo Pérez Tamayo,dairo.pérez.tamayo@martinez.info,3123873670,1965-01-09,Medellín,11289613,Empleado,4,Regular,5925504.68,19247872,585
+CLT-20251216-0786,1734501221,Víctor Quintero,víctor.quintero@osorio.com,(+57)3152597107,1982-02-04,Cali,9957427,Empleado,3,Excelente,559551.5,17244006,825
+CLT-20251216-0787,1977261959,Camilo Alberto Valencia,camilo.alberto.valencia@acevedo-pabon.info,(+57) 308 595 32 59,1976-11-04,Bogotá,6571269,Empleado,22,Regular,3114475.06,11770852,573
+CLT-20251216-0788,1504392951,Sonia Angie Guerra Vargas,sonia.angie.guerra.vargas@alvarez.biz,(+57) 605 295 18 77,1999-04-16,Barranquilla,19196233,Pensionado,2,Regular,8994771.2,5664086,646
+CLT-20251216-0789,1910289093,Jhon Juan Solano Amaya,jhon.juan.solano.amaya@ortega.com,+573159782457,1985-09-17,Bogotá,15356231,Independiente,5,Regular,6873287.57,29540315,643
+CLT-20251216-0790,1991825163,Francisco Sebastián Bravo,francisco.sebastián.bravo@calderon.com,(+57) 328 436 60 44,1973-10-06,Bogotá,13078819,Empleado,14,Excelente,691596.17,7784250,788
+CLT-20251216-0791,1395815219,Patricia María Arango Castellanos,patricia.maría.arango.castellanos@guevara-chacon.info,+57 318 297 51 47,1966-04-25,Cali,17480843,Empleado,21,Regular,9622951.83,35736868,610
+CLT-20251216-0792,1174913716,Alberto Calderón,alberto.calderón@hernandez.com,01 8007 525 680,1980-05-02,Medellín,10312237,Empleado,25,Excelente,1794902.05,796115,836
+CLT-20251216-0793,1691082762,Armando Medina Valencia,armando.medina.valencia@valencia-tovar.com,+57 320 271 12 21,1963-04-23,Cali,12092752,Empleado,17,Malo,8907221.97,2752645,544
+CLT-20251216-0794,1363094446,Heidy Moreno Gallego,heidy.moreno.gallego@pena.info,(+57) 318 086 62 81,1985-04-04,Barranquilla,15988329,Empleado,8,Regular,8480420.51,18293245,582
+CLT-20251216-0795,1060681634,Inés Luz Vallejo Muñoz,inés.luz.vallejo.muñoz@carrillo.com,320 033 22 85,1977-03-28,Barranquilla,14624942,Independiente,18,Bueno,4900207.09,16226719,716
+CLT-20251216-0796,1821988751,Jhon Víctor Medina,jhon.víctor.medina@rincon-camacho.biz,01 8001 039 033,1995-09-06,Bogotá,12821486,Empleado,10,Regular,7675492.45,21023182,558
+CLT-20251216-0797,1426470378,José Hernando Murillo Arias,josé.hernando.murillo.arias@sanchez.org,3148586239,1972-02-17,Cali,1901358,Empleado,7,Bueno,580014.68,46003096,682
+CLT-20251216-0798,1421585878,Enrique Valencia,enrique.valencia@bernal.com,+573298632106,1978-09-03,Cartagena,7978674,Pensionado,21,Excelente,988393.7,3817280,777
+CLT-20251216-0799,1789954575,Astrid Xiomara Ramírez,astrid.xiomara.ramírez@jimenez.org,573157039438,1999-10-05,Cartagena,5586598,Empleado,2,Regular,2368691.98,40579776,639
+CLT-20251216-0800,1923802382,Lucía Rojas,lucía.rojas@rojas-monroy.biz,+573176927789,1973-04-08,Cúcuta,7682840,Empleado,29,Bueno,2254077.0,5081092,748
+CLT-20251216-0801,1083401954,Yesid Soto,yesid.soto@gonzalez.com,3404769,1977-11-13,Bogotá,15827185,Empleado,24,Regular,8444053.91,21703283,649
+CLT-20251216-0802,1796551594,María Sandra Ramírez,maría.sandra.ramírez@garcia-guerrero.com,573101424731,1989-10-02,Bogotá,3593373,Empleado,8,Bueno,957745.11,4030467,658
+CLT-20251216-0803,1015401798,Carmenza Montenegro,carmenza.montenegro@garcia.info,01 8004 409 712,1972-11-02,Bogotá,17999445,Empleado,15,Malo,11522053.54,26349251,438
+CLT-20251216-0804,1442837170,María Ruth Gómez Zapata,maría.ruth.gómez.zapata@cardozo.com,(+57)6054447340,1992-08-25,Bogotá,15970468,Independiente,3,Bueno,5248975.92,29634046,659
+CLT-20251216-0805,1896995844,Johanna Karina Barragán Gómez,johanna.karina.barragán.gómez@velasquez-narvaez.com,+576089451957,1999-04-14,Bucaramanga,9908618,Empleado,0,Regular,4000633.83,33400174,635
+CLT-20251216-0806,1156439562,Rosa Pabón Bonilla,rosa.pabón.bonilla@galvis-romero.com,(+57) 315 754 27 86,1997-10-03,Cali,14602462,Empleado,8,Bueno,4964998.29,26261736,748
+CLT-20251216-0807,1357345648,Arbey Andrés Muñoz,arbey.andrés.muñoz@franco-cardona.net,3005829582,1970-04-29,Bogotá,17964470,Independiente,25,Bueno,5044109.7,48839644,678
+CLT-20251216-0808,1087771298,Francia Mercado Luna,francia.mercado.luna@rangel-ceron.net,576034819048,1987-12-06,Bucaramanga,1610976,Empleado,17,Bueno,544271.89,32350924,695
+CLT-20251216-0809,1588894456,Mauricio Alexander Perea,mauricio.alexander.perea@guzman-fonseca.com,316 137 23 08,1986-05-12,Bogotá,12688380,Pensionado,20,Regular,6091982.56,42431090,618
+CLT-20251216-0810,1259666580,Esther Yineth Vélez,esther.yineth.vélez@suarez-rojas.com,+573000041321,1981-10-26,Medellín,12910613,Empleado,5,Excelente,1186845.16,19458796,799
+CLT-20251216-0811,1710371538,Carmen Damaris Salazar,carmen.damaris.salazar@rodriguez-carvajal.com,+57 315 346 99 79,1985-04-15,Medellín,7909002,Empleado,11,Bueno,2198868.21,7165080,730
+CLT-20251216-0812,1343202087,Ruth Rendón,ruth.rendón@gomez-bermudez.biz,018001699570,1994-12-25,Bogotá,16196295,Empleado,9,Regular,6931829.47,12958233,599
+CLT-20251216-0813,1270750852,José Reyes Espitia,josé.reyes.espitia@lopez.com,(+57)3265397054,1993-04-10,Barranquilla,3613681,Empleado,13,Regular,1910486.39,33533235,552
+CLT-20251216-0814,1543629617,Alberto Camilo Rodríguez Hernández,alberto.camilo.rodríguez.hernández@garcia-diaz.com,+57 318 049 18 72,1962-11-17,Bogotá,2742946,Empleado,3,Bueno,733857.98,48386295,733
+CLT-20251216-0815,1737453788,Jorge Carlos Gutiérrez Quintero,jorge.carlos.gutiérrez.quintero@tamayo.com,327 306 26 04,1968-06-02,Bogotá,19052982,Empleado,18,Bueno,6394477.31,36008025,659
+CLT-20251216-0816,1245599679,Martha Leal Orozco,martha.leal.orozco@marin.com,3022990775,1994-07-13,Bogotá,2737409,Empleado,9,Regular,1362624.56,1279296,639
+CLT-20251216-0817,1114168939,José Silva Aguirre,josé.silva.aguirre@ortega-castro.net,573211145768,1997-12-10,Medellín,5880119,Independiente,1,Excelente,744024.93,20625059,771
+CLT-20251216-0818,1200565007,Marlene Francy González Pérez,marlene.francy.gonzález.pérez@ramirez.net,+57 307 129 61 80,1999-10-10,Bogotá,3646061,Empleado,3,Regular,1535962.41,33362735,575
+CLT-20251216-0819,1064418051,Diana Milena Cano Giraldo,diana.milena.cano.giraldo@mesa.org,(+57) 320 425 37 33,1986-04-06,Bogotá,15801283,Empleado,10,Bueno,5801902.29,49521536,737
+CLT-20251216-0820,1922014373,Jairo Alberto Pérez Cortés,jairo.alberto.pérez.cortés@sanchez.net,(+57) 604 717 81 92,1997-10-19,Bogotá,19816854,Independiente,9,Excelente,3315070.71,14309746,758
+CLT-20251216-0821,1046073086,Eder Arley Parra,eder.arley.parra@ocampo-gomez.com,(+57) 317 932 79 86,1990-05-07,Bogotá,5551546,Empleado,17,Bueno,1951424.03,11277701,681
+CLT-20251216-0822,1464652678,Paola Guzmán Zapata,paola.guzmán.zapata@gomez.com,576059546475,1966-01-24,Bogotá,2865628,Empleado,24,Excelente,453372.32,42425862,812
+CLT-20251216-0823,1414565115,Jaider Edison Correa,jaider.edison.correa@fernandez.org,+57 609 275 17 58,1994-02-25,Cartagena,4208601,Independiente,9,Excelente,151015.43,5982167,803
+CLT-20251216-0824,1638268451,John Betancur,john.betancur@torres.com,+573054358644,1980-08-14,Medellín,17472328,Empleado,14,Regular,7709350.99,42937976,572
+CLT-20251216-0825,1861403389,Fredy Díaz Ávila,fredy.díaz.ávila@jimenez.net,01 8005 379 821,1970-06-08,Barranquilla,2762358,Pensionado,20,Bueno,948703.54,41073967,688
+CLT-20251216-0826,1196578324,Leonardo Rojas,leonardo.rojas@montes.com,(+57)3285249141,1983-12-01,Manizales,13172028,Empleado,16,Bueno,4103641.01,12878383,729
+CLT-20251216-0827,1871868892,Eliecer Castrillón Rodríguez,eliecer.castrillón.rodríguez@chaparro-cardenas.net,(+57) 308 963 40 67,1973-10-24,Cali,13643392,Empleado,24,Regular,8149967.86,34060483,576
+CLT-20251216-0828,1131980695,Leidy Elena González,leidy.elena.gonzález@ochoa-portilla.com,(+57)6027418842,1973-04-13,Bucaramanga,10775337,Empleado,30,Excelente,242831.1,10013811,813
+CLT-20251216-0829,1305144652,María Sofía Martínez González,maría.sofía.martínez.gonzález@moreno-torres.org,(+57) 308 532 08 95,1979-10-27,Bogotá,7416445,Empleado,9,Excelente,1368590.77,3625731,782
+CLT-20251216-0830,1172223663,Andrea Lidia Flórez Ríos,andrea.lidia.flórez.ríos@jaramillo.com,57 321 136 33 79,1962-02-22,Bogotá,12717066,Empleado,23,Regular,7350666.59,30410222,618
+CLT-20251216-0831,1256378128,Cindy Prada Castro,cindy.prada.castro@alvarez.biz,+573233116772,1961-03-04,Bogotá,7401808,Empleado,28,Excelente,43027.04,34554603,806
+CLT-20251216-0832,1220255331,Robinson Espinosa Rodríguez,robinson.espinosa.rodríguez@rincon.com,6046789679,1979-06-13,Bogotá,12437815,Empleado,3,Bueno,4345988.37,21856347,662
+CLT-20251216-0833,1180798420,Dayana Carvajal Bermúdez,dayana.carvajal.bermúdez@rojas-alvarez.biz,(+57) 303 436 97 09,1986-08-28,Medellín,9456371,Independiente,2,Regular,5427741.92,25201551,612
+CLT-20251216-0834,1370638661,Paula María Amaya Rodríguez,paula.maría.amaya.rodríguez@florez-rincon.info,573216453454,1999-11-10,Bogotá,3323326,Empleado,6,Regular,1425667.82,40898393,608
+CLT-20251216-0835,1869883515,Carlos David Orozco Delgado,carlos.david.orozco.delgado@sanabria.com,+576015312198,1997-02-01,Cali,8014758,Empleado,0,Regular,4769672.08,13570143,557
+CLT-20251216-0836,1921807629,Lina Carmen Sánchez,lina.carmen.sánchez@castro-ceballos.com,3242813190,1970-08-06,Bogotá,10915513,Empleado,24,Excelente,1859242.31,30774710,787
+CLT-20251216-0837,1253666379,Isabel Correa Salazar,isabel.correa.salazar@arevalo.org,(+57)6089114281,1972-05-20,Pereira,6760936,Pensionado,18,Regular,3567068.77,41038955,579
+CLT-20251216-0838,1844936419,Nelson Carlos Montenegro,nelson.carlos.montenegro@valencia.com,+57 320 880 62 20,1977-09-03,Medellín,4401597,Empleado,26,Bueno,1339642.58,14525217,651
+CLT-20251216-0839,1840908912,Carlos Carlos Prieto Palacio,carlos.carlos.prieto.palacio@restrepo-cardenas.com,57 302 901 62 04,2000-01-04,Cartagena,15865000,Empleado,3,Regular,7128633.7,21964459,625
+CLT-20251216-0840,1954333893,Cristian Mauricio Gallego Caicedo,cristian.mauricio.gallego.caicedo@correa.org,(+57) 314 862 87 20,1988-06-10,Cúcuta,6498593,Pensionado,1,Malo,5066630.36,28036194,487
+CLT-20251216-0841,1410783860,María Deicy Sepúlveda González,maría.deicy.sepúlveda.gonzález@suarez-rodriguez.info,+573003627924,1989-01-08,Medellín,18418692,Independiente,3,Excelente,1956513.5,32163220,780
+CLT-20251216-0842,1271570728,Antonio Rodríguez Torres,antonio.rodríguez.torres@castillo-amaya.com,(+57)3072603214,1990-11-01,Bogotá,4288088,Empleado,6,Bueno,868271.78,49109346,687
+CLT-20251216-0843,1083884443,Andrés Felipe Giraldo,andrés.felipe.giraldo@jimenez.com,321 553 48 20,1990-06-13,Cali,9521602,Empleado,5,Regular,3981418.85,32197688,623
+CLT-20251216-0844,1547078662,Patricia Maritza Ortiz,patricia.maritza.ortiz@barrera.com,+573265975954,1962-08-21,Bogotá,2319180,Independiente,12,Malo,1606616.88,9302893,523
+CLT-20251216-0845,1814425101,Andrés Rafael González,andrés.rafael.gonzález@mejia-molina.net,+57 321 265 74 22,1990-10-16,Bogotá,13929248,Independiente,2,Regular,7532664.48,91512,638
+CLT-20251216-0846,1013008090,Luz Liliana Medina Gómez,luz.liliana.medina.gómez@ramirez.com,3226894301,1981-07-27,Medellín,12670476,Empleado,19,Bueno,3285682.45,18105258,676
+CLT-20251216-0847,1235250877,Yolima Ortiz Ramos,yolima.ortiz.ramos@ceballos-perez.info,57 605 917 59 57,1965-06-15,Cali,4216534,Empleado,29,Regular,1969707.2,3678349,556
+CLT-20251216-0848,1558397591,Víctor Alexander Sánchez,víctor.alexander.sánchez@castro.com,6087674584,2001-02-03,Cali,5223419,Empleado,1,Bueno,1530830.41,2743030,740
+CLT-20251216-0849,1114350071,Delia Suárez,delia.suárez@cortes.com,(+57)3221885666,1978-06-28,Medellín,3748345,Pensionado,7,Bueno,1329594.58,9288256,733
+CLT-20251216-0850,1832113450,Jesús Antonio Trujillo,jesús.antonio.trujillo@carmona-martinez.biz,573226705514,1965-06-21,Barranquilla,17555576,Empleado,23,Regular,9663562.1,47167036,591
+CLT-20251216-0851,1435206561,Olga Deyanira Chaparro Medina,olga.deyanira.chaparro.medina@gaitan-gutierrez.org,3052959611,1975-07-10,Bogotá,13335039,Empleado,2,Regular,6677029.98,28382293,607
+CLT-20251216-0852,1528977271,María Aura Sánchez,maría.aura.sánchez@betancur.com,+576066072024,1990-02-13,Cartagena,17815067,Independiente,17,Bueno,6518746.18,31552161,707
+CLT-20251216-0853,1625844921,María Liseth Valencia,maría.liseth.valencia@ojeda.com,+573026714949,1963-08-10,Medellín,13852924,Empleado,28,Regular,8160384.39,4404193,560
+CLT-20251216-0854,1169000566,Marta Isabel Martínez,marta.isabel.martínez@guevara.com,3106527758,1978-08-25,Bogotá,14609129,Empleado,8,Regular,6686226.36,5163846,568
+CLT-20251216-0855,1448791438,Jorge Rueda,jorge.rueda@alzate.com,(+57)3037220109,1988-04-02,Pereira,18154028,Empleado,13,Excelente,741614.4,42095793,819
+CLT-20251216-0856,1303305498,Patricia Deyanira Hernández,patricia.deyanira.hernández@pacheco-murillo.info,573261894370,1965-12-15,Bogotá,5930103,Empleado,9,Bueno,1684303.4,49506829,652
+CLT-20251216-0857,1903147174,Carlos Juan Martínez,carlos.juan.martínez@giraldo-guerra.info,(+57) 315 725 65 92,1963-02-03,Cali,9295636,Empleado,10,Regular,4684294.97,22540348,591
+CLT-20251216-0858,1446462966,Katerine Pérez,katerine.pérez@reyes.com,576043238974,1978-01-04,Medellín,17812433,Empleado,9,Bueno,6045053.77,36807112,689
+CLT-20251216-0859,1859217464,José Rodríguez Mosquera,josé.rodríguez.mosquera@arias.net,+573032584868,1984-04-18,Bogotá,7262541,Pensionado,1,Regular,3234419.02,24957941,586
+CLT-20251216-0860,1587469045,Marina Cielo Meneses Cárdenas,marina.cielo.meneses.cárdenas@montoya-tovar.com,3150691767,2001-03-04,Bogotá,16798355,Independiente,2,Malo,12157407.04,10790426,344
+CLT-20251216-0861,1876963890,Esmeralda Elvira Torres Ortiz,esmeralda.elvira.torres.ortiz@camacho.com,(+57) 314 083 03 73,1963-08-05,Bogotá,6650095,Empleado,14,Excelente,155502.28,21248400,773
+CLT-20251216-0862,1574728504,José Gómez García,josé.gómez.garcía@ballesteros.com,+576024793884,1979-07-31,Bogotá,8383871,Pensionado,4,Bueno,1734939.97,21269735,719
+CLT-20251216-0863,1015259323,Julio Valencia Vásquez,julio.valencia.vásquez@osorio.info,6073124244,1974-08-02,Barranquilla,6955870,Empleado,15,Bueno,1560187.76,1672702,708
+CLT-20251216-0864,1332314956,Alberto Pérez López,alberto.pérez.lópez@aguirre.com,57 608 603 14 21,1980-08-10,Cali,12244730,Pensionado,10,Excelente,2375845.36,36651209,787
+CLT-20251216-0865,1131101204,Tatiana Omaira Lozano,tatiana.omaira.lozano@soto-castro.com,311 526 38 40,1995-09-19,Medellín,17401803,Empleado,12,Regular,10335298.18,38502206,606
+CLT-20251216-0866,1875333606,Gisela Ana Herrera,gisela.ana.herrera@lozano.com,6043566186,1996-06-26,Bogotá,12864363,Empleado,8,Regular,7028163.05,2689784,553
+CLT-20251216-0867,1896049540,Mercedes Daniela Orozco Benavides,mercedes.daniela.orozco.benavides@saavedra.info,+57 315 530 07 30,1976-05-21,Cali,14976463,Empleado,1,Regular,6650642.25,23984275,574
+CLT-20251216-0868,1446175890,José Hernán Arias,josé.hernán.arias@velasco.com,+57 603 819 88 19,1984-01-04,Medellín,19164188,Empleado,2,Bueno,7419089.89,18651376,707
+CLT-20251216-0869,1844118078,Jaime Jaime Castellanos González,jaime.jaime.castellanos.gonzález@ruiz.com,576035104246,1963-03-03,Medellín,4431883,Empleado,19,Malo,3008737.66,32914573,314
+CLT-20251216-0870,1080650532,Elías Nel Bastidas,elías.nel.bastidas@alvarez-suarez.com,6026452128,1985-09-17,Bogotá,13615326,Empleado,11,Bueno,4672681.23,28698466,694
+CLT-20251216-0871,1196085613,Luz Marcela Quintero,luz.marcela.quintero@rojas.com,573188189848,1969-05-18,Cartagena,13289518,Empleado,23,Bueno,3842201.76,37650288,744
+CLT-20251216-0872,1334891694,Luis Parra,luis.parra@lopez-quintero.com,+57 601 811 90 17,1963-09-24,Cali,15445549,Pensionado,13,Regular,7069841.77,48855297,603
+CLT-20251216-0873,1961025261,Diego Luis Pérez,diego.luis.pérez@garcia.com,604 707 32 28,1999-02-23,Manizales,6183114,Empleado,7,Regular,3212666.53,9639469,617
+CLT-20251216-0874,1853260765,Flor Pulido,flor.pulido@castano.com,573239638452,2000-03-14,Cali,12754718,Empleado,6,Excelente,2449148.96,25217659,784
+CLT-20251216-0875,1267394651,Geovanny Peña Escobar,geovanny.peña.escobar@zuluaga.org,57 320 169 34 29,1979-04-15,Bogotá,15408782,Independiente,4,Excelente,1424141.16,38112219,798
+CLT-20251216-0876,1142215574,Silvia Murillo Parada,silvia.murillo.parada@gomez.com,(+57) 312 341 90 31,1977-11-20,Medellín,11212772,Independiente,9,Bueno,2337264.01,20266400,744
+CLT-20251216-0877,1155030819,Adriana Herrera,adriana.herrera@vanegas.com,+573166847323,1991-05-20,Bogotá,17050863,Empleado,15,Bueno,6108367.82,10336373,735
+CLT-20251216-0878,1526040433,Javier Polo Andrade,javier.polo.andrade@nunez-mendoza.com,9672007,1977-06-24,Bogotá,11153242,Empleado,0,Bueno,3327874.24,46160374,685
+CLT-20251216-0879,1151073179,Alberto González,alberto.gonzález@castro-osorio.com,328 197 54 37,1980-07-02,Medellín,18044020,Empleado,18,Malo,11067208.82,24277269,366
+CLT-20251216-0880,1515772199,Johanna Marcela Acosta Giraldo,johanna.marcela.acosta.giraldo@mendoza.com,57 307 638 82 14,1971-11-17,Bogotá,17473275,Empleado,18,Malo,13343574.07,25045176,366
+CLT-20251216-0881,1858415072,Cristian Santiago Ortiz,cristian.santiago.ortiz@cano-rodriguez.org,609 334 43 89,1996-02-08,Bogotá,6964246,Independiente,2,Bueno,1596396.17,30940136,656
+CLT-20251216-0882,1450677534,Campo José Bustos Valencia,campo.josé.bustos.valencia@herrera.com,573244936999,1998-08-25,Medellín,10649298,Empleado,4,Bueno,3484976.67,23889703,659
+CLT-20251216-0883,1348660139,Luis Felipe Ramírez,luis.felipe.ramírez@andrade.info,57 308 573 68 01,1977-08-15,Medellín,18742498,Empleado,5,Excelente,2354170.02,6342368,790
+CLT-20251216-0884,1220073428,Amparo Patricia Peña,amparo.patricia.peña@pena-orjuela.com,606 287 23 33,1963-12-11,Bogotá,11602310,Empleado,18,Bueno,3940069.09,24328485,668
+CLT-20251216-0885,1129146938,Carmen Prada,carmen.prada@franco-naranjo.com,953 91 14,1988-10-19,Bogotá,1932773,Empleado,5,Excelente,108783.33,32541022,769
+CLT-20251216-0886,1994529974,María Johanna Ríos Navarro,maría.johanna.ríos.navarro@ayala-rojas.biz,(+57)3111893940,1961-05-22,Pereira,18390727,Empleado,26,Bueno,4371169.73,37490716,718
+CLT-20251216-0887,1747258823,Edgar Betancur Gallego,edgar.betancur.gallego@rodriguez.org,6034432230,1998-10-24,Bogotá,19992277,Empleado,1,Regular,11205992.27,28007633,566
+CLT-20251216-0888,1033813100,Diana Milena Martínez Cardona,diana.milena.martínez.cardona@bonilla.com,57 314 621 27 60,1970-02-10,Cartagena,2083155,Empleado,14,Bueno,546442.16,24331564,726
+CLT-20251216-0889,1116527215,Liliana Lozano Duque,liliana.lozano.duque@cabrera.com,(+57) 609 961 63 24,1989-07-25,Bogotá,19053031,Empleado,3,Regular,8924611.69,47640239,638
+CLT-20251216-0890,1709224320,Vicente Carlos Bolívar,vicente.carlos.bolívar@rojas.info,(+57) 305 493 03 64,1997-03-21,Medellín,6276786,Empleado,1,Regular,2896646.76,14082191,647
+CLT-20251216-0891,1123853455,Sergio Restrepo López,sergio.restrepo.lópez@hernandez.net,57 609 387 69 20,2000-07-09,Bogotá,5248774,Empleado,1,Excelente,813236.97,28940528,834
+CLT-20251216-0892,1949639836,Pilar Paola Martínez Andrade,pilar.paola.martínez.andrade@moreno.com,(+57)3188144582,1997-12-15,Cali,18729502,Empleado,4,Bueno,5503036.13,16979379,746
+CLT-20251216-0893,1862075155,María Rincón Velasco,maría.rincón.velasco@bermudez.net,(+57) 606 897 16 81,1970-06-19,Bogotá,4738123,Empleado,6,Regular,2767156.77,13784240,594
+CLT-20251216-0894,1821927296,Flor Ángel Quintero,flor.ángel.quintero@patino.com,6048152911,1963-03-18,Bogotá,2481773,Pensionado,11,Excelente,419847.26,18614365,814
+CLT-20251216-0895,1845534945,Marina Wendy Jaimes,marina.wendy.jaimes@zambrano.com,+573161844421,1964-11-07,Bogotá,9614217,Independiente,16,Bueno,2054244.82,38797894,674
+CLT-20251216-0896,1560731775,Karen Escobar Acosta,karen.escobar.acosta@sanchez.net,576081567086,1994-05-19,Bucaramanga,10957544,Pensionado,1,Excelente,1652436.8,290509,814
+CLT-20251216-0897,1951112747,Karen Rodríguez,karen.rodríguez@rivera.com,758 48 26,1978-09-27,Bogotá,17428809,Empleado,3,Bueno,5540202.08,29505474,695
+CLT-20251216-0898,1345358772,Paola Patricia Ortiz,paola.patricia.ortiz@duran-morales.com,+57 310 807 06 33,1976-06-18,Bogotá,14237767,Empleado,10,Bueno,4311910.59,27352094,664
+CLT-20251216-0899,1844522875,Francisco Ávila Cruz,francisco.ávila.cruz@perdomo.net,573021040164,1985-02-13,Bogotá,18939163,Empleado,1,Excelente,2887365.09,47293691,813
+CLT-20251216-0900,1671709698,Mabel Yineth Daza,mabel.yineth.daza@munoz.info,57 323 836 38 16,1978-10-05,Medellín,5383006,Empleado,26,Bueno,1568549.56,49403829,720
+CLT-20251216-0901,1748016381,Antonio Sandoval,antonio.sandoval@beltran-jimenez.com,(+57) 329 464 20 36,1970-08-03,Barranquilla,15166123,Independiente,28,Bueno,5627740.78,12669145,710
+CLT-20251216-0902,1111768888,Rosa Bonilla Contreras,rosa.bonilla.contreras@salamanca-vargas.info,576051646255,1975-07-06,Medellín,13829287,Empleado,12,Excelente,2762326.3,32993963,834
+CLT-20251216-0903,1583545617,Alejandra Torres Gil,alejandra.torres.gil@diaz.com,976 46 44,1984-02-03,Cali,4352325,Empleado,3,Excelente,343669.56,46643151,771
+CLT-20251216-0904,1259247864,Constanza Ariza,constanza.ariza@benavides.com,(+57)3127905040,1986-01-09,Bogotá,3671321,Empleado,12,Bueno,880446.21,13439455,704
+CLT-20251216-0905,1821462344,David Alarcón,david.alarcón@ramirez-silva.org,+573116321119,1975-03-06,Barranquilla,18247356,Empleado,24,Bueno,6253346.3,39051897,732
+CLT-20251216-0906,1258875205,Cristian Humberto Mesa Vásquez,cristian.humberto.mesa.vásquez@lopez.com,(+57) 315 306 01 19,1974-06-22,Bogotá,14929675,Pensionado,16,Bueno,4976589.22,27141750,748
+CLT-20251216-0907,1921676854,Fabio Alexander Giraldo Restrepo,fabio.alexander.giraldo.restrepo@patino-pinzon.net,2023009,1995-01-11,Bogotá,16755010,Empleado,2,Excelente,840062.22,33371478,844
+CLT-20251216-0908,1562500855,Alexis Luis Hernández,alexis.luis.hernández@vargas.com,327 449 16 09,2001-08-06,Cali,3273432,Pensionado,3,Regular,1635494.95,1795087,591
+CLT-20251216-0909,1334178367,Elena Viviana Herrera Rivas,elena.viviana.herrera.rivas@garcia.org,3118433687,1966-02-23,Barranquilla,6624991,Empleado,16,Bueno,2150780.3,5134986,709
+CLT-20251216-0910,1209063902,Jair William Tovar,jair.william.tovar@aguilar.com,+57 322 137 45 56,1988-09-02,Barranquilla,8275705,Empleado,10,Bueno,2479234.12,33876202,719
+CLT-20251216-0911,1139642759,Luz Yuli Vélez,luz.yuli.vélez@lozano.com,6019537666,1980-12-17,Bogotá,19841524,Independiente,3,Excelente,3031645.61,28884084,790
+CLT-20251216-0912,1045267360,Luz Patricia Patiño,luz.patricia.patiño@pulido.net,(+57)3056691062,1962-03-07,Barranquilla,14127759,Empleado,27,Bueno,2927218.32,11869489,740
+CLT-20251216-0913,1272759324,Andrés Marcos Rojas Cantillo,andrés.marcos.rojas.cantillo@mosquera-figueroa.net,01 8002 691 776,1975-11-01,Bogotá,7007766,Empleado,24,Bueno,1590045.63,48031370,736
+CLT-20251216-0914,1804944886,Mercedes Castrillón Serrano,mercedes.castrillón.serrano@gonzalez.net,8873543,1980-09-19,Cartagena,17960251,Empleado,17,Regular,9645998.81,38400378,614
+CLT-20251216-0915,1057338177,Adriana Rojas Franco,adriana.rojas.franco@soto.com,+576053859914,1969-05-28,Barranquilla,3370227,Empleado,11,Bueno,1007489.68,25353574,686
+CLT-20251216-0916,1625883149,Edith Cárdenas,edith.cárdenas@castillo.org,3299648997,1978-04-30,Barranquilla,12253617,Independiente,11,Excelente,1447062.51,8603226,824
+CLT-20251216-0917,1621996718,Hilda Milena Lozano,hilda.milena.lozano@henao-jaramillo.com,(+57)3191408499,1985-11-16,Cúcuta,2402608,Empleado,11,Regular,1261442.72,25539847,602
+CLT-20251216-0918,1316143580,Virginia Mabel González Villa,virginia.mabel.gonzález.villa@castano.biz,01 8000 690 872,1976-02-19,Bogotá,13286640,Empleado,18,Excelente,648996.26,15745221,838
+CLT-20251216-0919,1689273480,Leonardo Cruz Guerrero,leonardo.cruz.guerrero@perez-rojas.net,308 935 95 38,1963-01-13,Bogotá,3697823,Empleado,10,Regular,1563788.12,11393692,634
+CLT-20251216-0920,1889072843,Sofía Londoño Rodríguez,sofía.londoño.rodríguez@burbano.com,(+57) 603 799 65 08,1980-05-01,Medellín,15675842,Empleado,15,Bueno,5961240.06,17892490,690
+CLT-20251216-0921,1841385000,Iván Carlos Durán,iván.carlos.durán@florez.com,(+57)3008761238,1967-04-27,Cali,14174770,Independiente,3,Bueno,3749003.75,6558258,676
+CLT-20251216-0922,1905494901,Julián Heriberto Espinosa,julián.heriberto.espinosa@castano.net,(+57) 601 339 48 40,1978-02-06,Bogotá,12773197,Empleado,19,Bueno,4627619.88,44787620,705
+CLT-20251216-0923,1419481916,Germán José Soto Molina,germán.josé.soto.molina@martinez-martinez.biz,+57 323 113 95 00,2001-10-24,Bogotá,8269896,Independiente,4,Bueno,3055452.17,5054718,683
+CLT-20251216-0924,1314643481,Liliana María Jaimes,liliana.maría.jaimes@calderon.info,3228397620,1966-05-30,Bogotá,3094887,Empleado,30,Bueno,973973.75,15158951,724
+CLT-20251216-0925,1473143850,David Jorge Rodríguez,david.jorge.rodríguez@carvajal-giraldo.com,+573226629250,1994-08-29,Medellín,4678732,Independiente,7,Bueno,1191546.65,38012359,694
+CLT-20251216-0926,1990879984,Alicia Esther Pineda,alicia.esther.pineda@salgado-bejarano.org,(+57)6024406884,1993-03-22,Bogotá,4072336,Empleado,8,Regular,1874778.89,20126553,603
+CLT-20251216-0927,1384269579,Diana Martha Cuesta Posada,diana.martha.cuesta.posada@granados.biz,603 278 17 03,1982-05-04,Cartagena,14998980,Independiente,5,Bueno,4545798.56,45067645,730
+CLT-20251216-0928,1255521543,Karen María González,karen.maría.gonzález@gonzales.net,316 133 71 84,1989-09-01,Bogotá,18821606,Empleado,14,Regular,9700065.85,14291020,631
+CLT-20251216-0929,1928312056,Fernando Martínez,fernando.martínez@ruiz.net,576084164403,1972-06-08,Cali,19375094,Pensionado,23,Regular,11054555.39,29106757,616
+CLT-20251216-0930,1116267573,Albeiro Castillo,albeiro.castillo@espitia.info,+57 322 210 21 79,1997-04-23,Barranquilla,8232630,Independiente,4,Bueno,1889789.82,10098048,702
+CLT-20251216-0931,1184275160,Luz Ramírez Delgado,luz.ramírez.delgado@vasquez.org,+573236383182,1989-07-12,Bogotá,12192226,Empleado,13,Regular,7098649.99,42542153,586
+CLT-20251216-0932,1793264863,Diego Enrique Córdoba,diego.enrique.córdoba@rincon.org,018006617706,1991-07-22,Bogotá,6888315,Empleado,4,Bueno,2205958.45,27237202,681
+CLT-20251216-0933,1392008433,David Diego Patiño Sánchez,david.diego.patiño.sánchez@rivera.com,3023552165,1962-01-04,Bogotá,11920012,Empleado,28,Bueno,3718626.57,29268384,670
+CLT-20251216-0934,1112636500,Yulieth Montoya,yulieth.montoya@ortiz.net,573019259679,1991-05-25,Cali,10650695,Empleado,5,Excelente,550421.2,18640962,755
+CLT-20251216-0935,1252564677,Yaneth Lozano,yaneth.lozano@trujillo-rios.net,6049220509,1979-03-26,Cartagena,17802151,Empleado,9,Regular,7317849.29,5632416,602
+CLT-20251216-0936,1313390456,Silvio Carvajal Aguirre,silvio.carvajal.aguirre@hernandez.org,+57 328 114 57 88,1995-06-26,Barranquilla,13694829,Pensionado,11,Regular,7903886.61,26635175,580
+CLT-20251216-0937,1383259116,Yeferson Germán Gómez Hoyos,yeferson.germán.gómez.hoyos@moreno.biz,+573267382097,1967-03-13,Medellín,5255826,Empleado,26,Bueno,1577009.04,8096188,749
+CLT-20251216-0938,1772459236,Eduardo García,eduardo.garcía@vergara.info,+57 318 299 68 72,1965-04-11,Barranquilla,19124805,Empleado,24,Bueno,7208387.1,15977067,692
+CLT-20251216-0939,1848822987,Cecilia Escobar Zapata,cecilia.escobar.zapata@lozano.com,57 305 040 56 69,1963-07-22,Bogotá,14584573,Empleado,3,Regular,8003893.99,28378258,585
+CLT-20251216-0940,1180302367,Héctor Julián Gómez,héctor.julián.gómez@maldonado-diaz.com,57 314 428 67 96,1969-06-14,Cali,16246347,Empleado,11,Bueno,6053063.75,3753090,664
+CLT-20251216-0941,1680697570,Patricia Rosario León Díaz,patricia.rosario.león.díaz@carrillo.org,(+57) 306 338 91 56,1977-09-27,Barranquilla,12119640,Pensionado,28,Bueno,3574940.21,16532046,668
+CLT-20251216-0942,1572347608,Carmen Duque Ceballos,carmen.duque.ceballos@camargo-montenegro.com,(+57)3162926933,1973-08-28,Bucaramanga,13680192,Empleado,30,Bueno,3742187.21,20681032,654
+CLT-20251216-0943,1923901361,Cristian Adolfo Arias,cristian.adolfo.arias@lopez.com,57 328 468 50 95,1976-03-03,Bogotá,3334499,Empleado,12,Regular,1859851.97,16084372,639
+CLT-20251216-0944,1674447039,Sergio Jorge Muñoz Rodríguez,sergio.jorge.muñoz.rodríguez@gonzalez.org,(+57)6049179720,1981-10-28,Bogotá,13675396,Independiente,14,Malo,10079446.08,35897248,532
+CLT-20251216-0945,1225685354,Dario Fernando Gómez,dario.fernando.gómez@alvarez-valencia.info,606 455 31 32,1985-09-28,Bogotá,14686071,Empleado,7,Malo,11507789.92,20192262,520
+CLT-20251216-0946,1857708983,Jairo Sanabria Silva,jairo.sanabria.silva@cardona-ruiz.com,(+57) 302 141 05 27,1977-03-01,Bogotá,6876333,Empleado,1,Malo,4994078.08,43246931,320
+CLT-20251216-0947,1562341139,Mario Erazo González,mario.erazo.gonzález@londono-calderon.com,320 452 38 88,2001-03-23,Bogotá,17998441,Independiente,6,Bueno,5086220.19,22328609,670
+CLT-20251216-0948,1868762236,Diego Giovanny Betancur,diego.giovanny.betancur@guerrero-arteaga.org,+57 326 787 44 22,1998-11-21,Cali,10256702,Independiente,8,Bueno,2773117.54,40407316,708
+CLT-20251216-0949,1581269558,Hernando Alfonso Castrillón Santos,hernando.alfonso.castrillón.santos@herrera.com,3128249116,1979-12-26,Cali,2417743,Empleado,25,Regular,1277232.12,12330557,550
+CLT-20251216-0950,1046036613,José Junior Rodríguez,josé.junior.rodríguez@meneses.com,301 321 55 13,1963-08-22,Bogotá,14943980,Empleado,5,Bueno,3902015.26,38641911,741
+CLT-20251216-0951,1219141328,Cecilia Ramos,cecilia.ramos@barrera.com,3144889669,1996-06-19,Bogotá,5865195,Empleado,11,Regular,3150493.46,21434512,572
+CLT-20251216-0952,1482114758,Carlos Samir Barrios Cuesta,carlos.samir.barrios.cuesta@angulo.biz,(+57) 605 402 58 25,1989-09-30,Cartagena,12491775,Empleado,12,Regular,5493042.5,27816384,623
+CLT-20251216-0953,1867292573,Lina Yamile Pérez,lina.yamile.pérez@daza.com,+57 602 139 20 49,1997-12-07,Bogotá,9032538,Empleado,10,Excelente,41495.65,37482312,761
+CLT-20251216-0954,1281739513,Gabriel Rivas Delgado,gabriel.rivas.delgado@perez-becerra.info,310 827 68 17,1989-03-23,Cali,17016404,Empleado,13,Excelente,2386588.62,11325020,769
+CLT-20251216-0955,1279538662,Helena Maldonado Ramos,helena.maldonado.ramos@quiroz.com,+57 312 905 29 18,1982-10-16,Medellín,4488400,Empleado,22,Malo,2845755.91,38067026,497
+CLT-20251216-0956,1589885924,Eduardo Pablo Moreno López,eduardo.pablo.moreno.lópez@pinzon.info,573017337399,1964-07-27,Bucaramanga,16723909,Independiente,6,Regular,8342384.28,15064862,584
+CLT-20251216-0957,1166635767,Ivonne Carmona Valencia,ivonne.carmona.valencia@pedraza.biz,3016591438,1972-09-12,Bogotá,11162400,Independiente,19,Regular,5317931.48,28944629,586
+CLT-20251216-0958,1847559926,Paola Pérez Arango,paola.pérez.arango@ordonez.com,(+57) 306 177 73 26,1977-08-06,Bogotá,7853973,Empleado,8,Bueno,2212502.05,9794059,707
+CLT-20251216-0959,1280287338,Antonio Rodríguez,antonio.rodríguez@escobar-cantillo.info,57 603 327 99 70,1983-08-05,Bogotá,9832168,Empleado,15,Bueno,3311999.39,30746873,691
+CLT-20251216-0960,1815770662,Andrés Andrés Vargas Galeano,andrés.andrés.vargas.galeano@vallejo.com,+57 601 298 83 22,1992-11-02,Bogotá,14839722,Empleado,8,Regular,8053030.24,47543487,621
+CLT-20251216-0961,1588388486,Rosalba Medina Mercado,rosalba.medina.mercado@perez.com,01 8007 978 889,1964-08-26,Bucaramanga,3471400,Pensionado,19,Excelente,646419.54,31603739,826
+CLT-20251216-0962,1716559352,Javier Alberto Mena Rueda,javier.alberto.mena.rueda@mosquera.com,576026304436,1986-04-14,Cali,3027125,Empleado,12,Excelente,305462.34,25564294,766
+CLT-20251216-0963,1936309975,Ángela Carolina Bohórquez,ángela.carolina.bohórquez@jaramillo.com,3095014374,1975-04-02,Cartagena,2879925,Empleado,10,Bueno,725909.09,33805870,666
+CLT-20251216-0964,1088742421,María Elsa Vallejo Escobar,maría.elsa.vallejo.escobar@pacheco.com,57 604 326 02 21,1992-12-12,Bogotá,4508087,Empleado,10,Bueno,1379856.73,9515750,666
+CLT-20251216-0965,1500957267,Bibiana Lucero Olaya,bibiana.lucero.olaya@hernandez.com,57 601 216 61 22,1988-11-12,Bucaramanga,18250728,Pensionado,9,Regular,10347447.49,24198933,583
+CLT-20251216-0966,1815992238,Inés Vanegas,inés.vanegas@montenegro-ramirez.org,(+57)3004936653,1996-12-19,Barranquilla,10350247,Empleado,7,Bueno,2972125.94,11071876,669
+CLT-20251216-0967,1833920254,Sofía Cárdenas,sofía.cárdenas@lopez.com,640 86 82,1981-06-21,Bogotá,16263601,Empleado,15,Excelente,483421.9,15425680,840
+CLT-20251216-0968,1161198792,Nancy Valencia,nancy.valencia@gutierrez.org,+573055610399,1970-02-13,Manizales,17174377,Empleado,11,Bueno,6853269.39,33212900,721
+CLT-20251216-0969,1833613409,Carlos Edgar Zapata,carlos.edgar.zapata@torres.com,(+57) 609 643 65 85,1962-02-13,Bogotá,17780594,Independiente,3,Bueno,3956149.75,48302541,676
+CLT-20251216-0970,1278482739,Jesús Salgado Rojas,jesús.salgado.rojas@campo.com,(+57) 603 870 61 59,1962-10-19,Cartagena,11033366,Independiente,18,Excelente,371372.07,34140813,824
+CLT-20251216-0971,1771849625,Yaneth Isabel Pérez Beltrán,yaneth.isabel.pérez.beltrán@alfonso.com,3232248155,1991-02-10,Medellín,8626832,Independiente,5,Bueno,3401779.59,35300296,659
+CLT-20251216-0972,1238195561,Ismael Sánchez,ismael.sánchez@blanco.com,6067956797,1961-06-22,Manizales,9759672,Empleado,21,Regular,5225149.82,22055850,565
+CLT-20251216-0973,1726996730,Edwin Arias,edwin.arias@arias-salazar.com,57 304 712 47 60,2001-02-11,Bogotá,14726143,Independiente,1,Bueno,5681783.17,7118231,708
+CLT-20251216-0974,1131680283,María María González,maría.maría.gonzález@rojas.biz,01 8003 176 417,1995-12-13,Pereira,17601265,Empleado,5,Bueno,6882804.06,39876372,733
+CLT-20251216-0975,1872239317,Laura Gómez Rodríguez,laura.gómez.rodríguez@camacho.com,601 750 71 38,1967-08-03,Medellín,16703580,Pensionado,25,Bueno,5784600.81,49279351,677
+CLT-20251216-0976,1872949045,Luis Andrés Amaya Quintero,luis.andrés.amaya.quintero@morales-contreras.com,57 324 362 13 00,1964-03-18,Pereira,3133505,Independiente,17,Regular,1430729.56,3726892,598
+CLT-20251216-0977,1479769138,Juan Contreras Contreras,juan.contreras.contreras@narvaez-hurtado.info,6047318053,1985-02-19,Bogotá,4605496,Empleado,6,Bueno,1085064.81,26770884,749
+CLT-20251216-0978,1900150749,Elsa Villegas Mendoza,elsa.villegas.mendoza@naranjo-mendoza.com,859 18 32,1978-04-04,Medellín,15002177,Empleado,9,Bueno,5258438.76,43893512,705
+CLT-20251216-0979,1445392426,María Gonzáles,maría.gonzáles@lopez-paz.org,6082110797,1988-05-19,Medellín,11905273,Empleado,11,Malo,8580162.65,24095052,425
+CLT-20251216-0980,1628745204,José Zambrano,josé.zambrano@rios.com,(+57) 309 053 15 20,1978-11-01,Barranquilla,16446567,Empleado,2,Regular,8145786.25,37786120,597
+CLT-20251216-0981,1319576557,Ricardo Sierra,ricardo.sierra@serrano.biz,(+57) 327 313 79 71,2001-01-30,Cali,7753064,Empleado,3,Bueno,2211200.37,2713754,732
+CLT-20251216-0982,1975038915,Eduardo Velásquez Jiménez,eduardo.velásquez.jiménez@pedraza-sanchez.info,3107794332,1988-12-01,Medellín,6703275,Empleado,9,Malo,4728863.84,43434560,320
+CLT-20251216-0983,1719118723,Óscar Alberto Barrios,óscar.alberto.barrios@hurtado.org,+573201426203,1996-01-12,Medellín,17525978,Pensionado,3,Bueno,6954960.85,45923530,687
+CLT-20251216-0984,1095587527,Andrés Miguel Rentería Meza,andrés.miguel.rentería.meza@martinez-sanchez.com,+57 301 813 59 98,1968-02-24,Medellín,3101495,Empleado,13,Bueno,1189300.52,34454665,709
+CLT-20251216-0985,1784858813,Leandro Efrain García Marín,leandro.efrain.garcía.marín@mora.net,6033186448,1962-06-26,Cali,10002033,Empleado,23,Bueno,3171780.46,33785593,672
+CLT-20251216-0986,1791826149,Lorena Carmenza Mosquera,lorena.carmenza.mosquera@jaramillo.net,57 317 082 00 48,1995-11-17,Bogotá,7613890,Independiente,4,Regular,3114474.98,27934169,642
+CLT-20251216-0987,1889928641,Laura Ruiz,laura.ruiz@sepulveda.org,949 61 12,1967-05-02,Cartagena,16767204,Empleado,29,Regular,8215755.26,17788841,573
+CLT-20251216-0988,1600961387,Fredy William Mercado Carvajal,fredy.william.mercado.carvajal@sanchez.info,+576052409531,1989-10-10,Medellín,8582279,Empleado,3,Excelente,1282242.81,40537302,752
+CLT-20251216-0989,1689693165,Luis Osorio Zapata,luis.osorio.zapata@diaz.net,01 8003 565 179,1998-07-06,Cartagena,1696195,Empleado,6,Bueno,343752.44,44010058,745
+CLT-20251216-0990,1753778605,Juan Bedoya Loaiza,juan.bedoya.loaiza@gutierrez.com,+57 309 604 78 42,1989-08-25,Barranquilla,17831696,Empleado,12,Bueno,6466245.44,41389044,661
+CLT-20251216-0991,1152836083,Inés Ana Quintero,inés.ana.quintero@bejarano.org,57 306 488 20 89,1987-03-22,Cartagena,5697306,Empleado,6,Excelente,217411.57,1066040,776
+CLT-20251216-0992,1945251728,Marcela Alejandra Benavides Torres,marcela.alejandra.benavides.torres@hernandez-munoz.info,(+57) 601 287 99 16,1963-10-03,Barranquilla,17643614,Independiente,27,Regular,9350197.34,29245269,574
+CLT-20251216-0993,1962136805,Milena Sandra Salcedo,milena.sandra.salcedo@vargas.com,(+57)3061337605,2000-11-13,Bogotá,4388820,Empleado,1,Bueno,1284542.27,31808869,669
+CLT-20251216-0994,1548728848,Jackeline Gómez Muñoz,jackeline.gómez.muñoz@castillo.com,3054472419,1998-10-24,Bogotá,16440645,Empleado,3,Malo,11414704.31,30166526,512
+CLT-20251216-0995,1293775870,Fernanda Camila Arboleda,fernanda.camila.arboleda@mesa.biz,(+57)6099771824,1980-08-19,Manizales,14644391,Independiente,13,Excelente,23062.81,42306090,813
+CLT-20251216-0996,1930181201,Esperanza Arteaga,esperanza.arteaga@restrepo-caicedo.com,(+57) 301 746 81 35,1961-02-24,Bucaramanga,11256774,Empleado,19,Excelente,899822.32,34450719,812
+CLT-20251216-0997,1453317805,Matilde Pineda Erazo,matilde.pineda.erazo@vergara.org,(+57) 319 874 86 94,1998-02-08,Bogotá,9281466,Empleado,8,Regular,4693282.45,28320245,632
+CLT-20251216-0998,1118805217,Claudia Elizabeth Gonzáles,claudia.elizabeth.gonzáles@avila.org,573007536051,1964-04-24,Medellín,15496810,Pensionado,11,Regular,6561165.69,41788467,605
+CLT-20251216-0999,1893915858,Leidy Laura Padilla,leidy.laura.padilla@montoya.com,3253621894,1976-05-29,Medellín,2198164,Empleado,7,Excelente,319265.36,31490192,825
+CLT-20251216-1000,1026600019,Eduardo Andrés Reyes,eduardo.andrés.reyes@hoyos.com,(+57) 329 420 46 64,1964-04-20,Cartagena,12880086,Empleado,4,Malo,9926563.25,47996203,485
